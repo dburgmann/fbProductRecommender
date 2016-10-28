@@ -1,4 +1,4 @@
-Product recommender based on facebook api
+#Product recommender based on facebook api
 
 I created this recommender system during my bachelorthesis. Implemented as Java Servlet
 
