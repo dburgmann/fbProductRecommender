@@ -4,8 +4,8 @@ I created this recommender system during my bachelorthesis. Implemented as Java 
 
 Requires
 
-![fbRecommenderProducts](https://github.com/dburgmann/fbRecommenderProducts) to connect to a product database
-![fbRecommenderDbIndexer](https://github.com/dburgmann/fbRecommenderDbIndexer) in order to generate a lucene index on the product database
+[fbRecommenderProducts](https://github.com/dburgmann/fbRecommenderProducts) to connect to a product database
+[fbRecommenderDbIndexer](https://github.com/dburgmann/fbRecommenderDbIndexer) in order to generate a lucene index on the product database
 
 UML Diagram:
 
@@ -20,8 +20,8 @@ Recommendation works in 4 Steps:
 
 The Recommender uses
 
-![Apache Lucene](http://lucene.apache.org/core/) - to generate a index and search the product database
-![GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/) - a semantic network for the german language
-![StanfordPosttagger](http://nlp.stanford.edu/software/tagger.shtml) - for part of speech tagging
+[Apache Lucene](http://lucene.apache.org/core/) - to generate a index and search the product database
+[GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/) - a semantic network for the german language
+[StanfordPosttagger](http://nlp.stanford.edu/software/tagger.shtml) - for part of speech tagging
 
 during the Recommendation Process
