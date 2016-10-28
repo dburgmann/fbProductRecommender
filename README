@@ -2,7 +2,7 @@
 
 I created this recommender system during my bachelorthesis. Implemented as Java Servlet
 
-Requires 
+Requires
 https://github.com/dburgmann/fbRecommenderProducts to connect to a product database
 https://github.com/dburgmann/fbRecommenderDbIndexer in order to generate a lucene index on the product database
 
