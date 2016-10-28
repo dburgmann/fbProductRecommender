@@ -12,10 +12,15 @@ UML Diagram:
 
 Recommendation works in 4 Steps:
 
-1.Tag extraction from Facebook profile 2.Tag processing 3.Index lookup 4.Recommendation post processing / ranking
+1.Tag extraction from Facebook profile 
+2.Tag processing 
+3.Index lookup 
+4.Recommendation post processing / ranking
 
 The Recommender uses
 
-[Apache Lucene](http://lucene.apache.org/core/) - to generate a index and search the product database [GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/) - a semantic network for the german language [StanfordPosttagger](http://nlp.stanford.edu/software/tagger.shtml) - for part of speech tagging
+[Apache Lucene](http://lucene.apache.org/core/) - to generate a index and search the product database 
+[GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/) - a semantic network for the german language 
+[StanfordPosttagger](http://nlp.stanford.edu/software/tagger.shtml) - for part of speech tagging
 
 during the Recommendation Process
