@@ -1,0 +1,1815 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd">
+<synsets>
+<synset id="s4235" category="adj" class="Substanz">
+<lexUnit id="l6234" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>substanzspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4236" category="adj" class="Substanz">
+<lexUnit id="l6235" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>beschaffenheitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4237" category="adj" class="Substanz">
+<lexUnit id="l6236" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>seiden</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Seide</paraphrase>
+</synset>
+<synset id="s4238" category="adj" class="Substanz">
+<lexUnit id="l6237" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hölzern</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Holz</paraphrase>
+</synset>
+<synset id="s4239" category="adj" class="Substanz">
+<lexUnit id="l6238" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rinden</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Rinde</paraphrase>
+</synset>
+<synset id="s4240" category="adj" class="Substanz">
+<lexUnit id="l6239" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>krautig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4241" category="adj" class="Substanz">
+<lexUnit id="l6240" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eisern</orthForm>
+</lexUnit>
+<lexUnit id="l6241" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>ehern</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Eisen</paraphrase>
+</synset>
+<synset id="s4242" category="adj" class="Substanz">
+<lexUnit id="l6242" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>metallen</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Metall</paraphrase>
+</synset>
+<synset id="s4243" category="adj" class="Substanz">
+<lexUnit id="l6243" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stählern</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Stahl</paraphrase>
+</synset>
+<synset id="s4244" category="adj" class="Substanz">
+<lexUnit id="l6244" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>blechern</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Blech</paraphrase>
+</synset>
+<synset id="s4245" category="adj" class="Substanz">
+<lexUnit id="l6245" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>golden</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Gold</paraphrase>
+</synset>
+<synset id="s4246" category="adj" class="Substanz">
+<lexUnit id="l6246" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>silbern</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Silber</paraphrase>
+</synset>
+<synset id="s4247" category="adj" class="Substanz">
+<lexUnit id="l6247" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bleiern</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Blei</paraphrase>
+</synset>
+<synset id="s4248" category="adj" class="Substanz">
+<lexUnit id="l6248" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kupfern</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Kupfer</paraphrase>
+</synset>
+<synset id="s4249" category="adj" class="Substanz">
+<lexUnit id="l6249" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bronzen</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Bronze</paraphrase>
+</synset>
+<synset id="s4250" category="adj" class="Substanz">
+<lexUnit id="l6250" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gläsern</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Glas</paraphrase>
+</synset>
+<synset id="s4251" category="adj" class="Substanz">
+<lexUnit id="l6251" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>steinern</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Stein</paraphrase>
+</synset>
+<synset id="s4252" category="adj" class="Substanz">
+<lexUnit id="l6252" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kristallen</orthForm>
+</lexUnit>
+<lexUnit id="l6253" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kristallin</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Kristall</paraphrase>
+</synset>
+<synset id="s4253" category="adj" class="Substanz">
+<lexUnit id="l6254" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ledern</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Leder</paraphrase>
+</synset>
+<synset id="s4254" category="adj" class="Substanz">
+<lexUnit id="l6255" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>krachledern</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4255" category="adj" class="Substanz">
+<lexUnit id="l6256" sense="5" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wollen</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Wolle</paraphrase>
+</synset>
+<synset id="s4256" category="adj" class="Substanz">
+<lexUnit id="l6257" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aschen</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Asche</paraphrase>
+</synset>
+<synset id="s4257" category="adj" class="Substanz">
+<lexUnit id="l6258" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tönern</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Ton</paraphrase>
+</synset>
+<synset id="s4258" category="adj" class="Substanz">
+<lexUnit id="l6259" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>metallisch</orthForm>
+</lexUnit>
+<paraphrase>beschaffen aus Metall</paraphrase>
+</synset>
+<synset id="s4259" category="adj" class="Substanz">
+<lexUnit id="l6260" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dick</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4260" category="adj" class="Substanz">
+<lexUnit id="l6261" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mehrschichtig</orthForm>
+</lexUnit>
+<lexUnit id="l6262" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dicklagig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4261" category="adj" class="Substanz">
+<lexUnit id="l6263" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wattiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4262" category="adj" class="Substanz">
+<lexUnit id="l6264" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>grob</orthForm>
+<example><text>grobe Strümpfe/grober Stoff</text></example>
+</lexUnit>
+</synset>
+<synset id="s4263" category="adj" class="Substanz">
+<lexUnit id="l6265" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dicht</orthForm>
+</lexUnit>
+<lexUnit id="l6266" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>undurchsichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4264" category="adj" class="Substanz">
+<lexUnit id="l6267" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dünn</orthForm>
+<example><text>dünnes Kleid/dünne Schuhe</text></example>
+</lexUnit>
+</synset>
+<synset id="s4265" category="adj" class="Substanz">
+<lexUnit id="l6268" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fein</orthForm>
+<example><text>feiner Stoff/feine Strümpfe/feine Seide</text></example>
+</lexUnit>
+</synset>
+<synset id="s4266" category="adj" class="Substanz">
+<lexUnit id="l6269" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fragil</orthForm>
+</lexUnit>
+<lexUnit id="l6270" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zerbrechlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4267" category="adj" class="Substanz">
+<lexUnit id="l6271" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>filigran</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4268" category="adj" class="Substanz">
+<lexUnit id="l6272" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>haardünn</orthForm>
+</lexUnit>
+<lexUnit id="l6273" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hauchdünn</orthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s4270" category="adj" class="Substanz">
+<lexUnit id="l6275" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>naturbelassen</orthForm>
+</lexUnit>
+<paraphrase>ein naturbelassenes Produkt</paraphrase>
+</synset>
+<synset id="s4271" category="adj" class="Substanz">
+<lexUnit id="l6276" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>künstlich</orthForm>
+</lexUnit>
+<lexUnit id="l6277" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>artifiziell</orthForm>
+</lexUnit>
+<lexUnit id="l6278" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unnatürlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4272" category="adj" class="Substanz">
+<lexUnit id="l6279" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>synthetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4273" category="adj" class="Substanz">
+<lexUnit id="l6280" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>derartig</orthForm>
+</lexUnit>
+<lexUnit id="l6282" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dergestalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4274" category="adj" class="Substanz">
+<lexUnit id="l6283" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>expansiv</orthForm>
+</lexUnit>
+<lexUnit id="l6284" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ausdehnbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4275" category="adj" class="Substanz">
+<lexUnit id="l6285" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>explosiv</orthForm>
+</lexUnit>
+<lexUnit id="l6286" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>entzündbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4276" category="adj" class="Substanz">
+<lexUnit id="l6287" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fossil</orthForm>
+</lexUnit>
+<lexUnit id="l6288" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>versteinert</orthForm>
+</lexUnit>
+<lexUnit id="l6289" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>petrifiziert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4277" category="adj" class="Substanz">
+<lexUnit id="l6290" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>produktspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4278" category="adj" class="Substanz">
+<lexUnit id="l6291" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>selbstgemacht</orthForm>
+</lexUnit>
+<lexUnit id="l6292" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>selbstgebaut</orthForm>
+</lexUnit>
+<lexUnit id="l6293" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hausgemacht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4279" category="adj" class="Substanz">
+<lexUnit id="l6294" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>manuell</orthForm>
+</lexUnit>
+<lexUnit id="l6295" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>händisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4280" category="adj" class="Substanz">
+<lexUnit id="l6296" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>selbstgebastelt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4281" category="adj" class="Substanz">
+<lexUnit id="l6297" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>selbstgenäht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4282" category="adj" class="Substanz">
+<lexUnit id="l6298" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>selbstgestrickt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4283" category="adj" class="Substanz">
+<lexUnit id="l6299" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>selbstgekocht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4284" category="adj" class="Substanz">
+<lexUnit id="l6300" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>künstlich erzeugt</orthForm>
+</lexUnit>
+<lexUnit id="l6301" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>maschinell gefertigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4285" category="adj" class="Substanz">
+<lexUnit id="l6302" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>zustandsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4286" category="adj" class="Substanz">
+<lexUnit id="l6303" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>offen</orthForm>
+</lexUnit>
+<lexUnit id="l6304" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geöffnet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4287" category="adj" class="Substanz">
+<lexUnit id="l6305" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geschlossen</orthForm>
+</lexUnit>
+<lexUnit id="l6306" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verschlossen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4288" category="adj" class="Substanz">
+<lexUnit id="l6307" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>roh</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4289" category="adj" class="Substanz">
+<lexUnit id="l6308" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gekocht</orthForm>
+</lexUnit>
+<lexUnit id="l6309" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>durch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4290" category="adj" class="Substanz">
+<lexUnit id="l6310" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>medium</orthForm>
+</lexUnit>
+<lexUnit id="l6311" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>halbdurch</orthForm>
+</lexUnit>
+<lexUnit id="l6312" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>halbgar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4291" category="adj" class="Substanz">
+<lexUnit id="l6313" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>stabilitätsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4292" category="adj" class="Substanz">
+<lexUnit id="l6314" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stabil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4293" category="adj" class="Substanz">
+<lexUnit id="l6315" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>robust</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4294" category="adj" class="Substanz">
+<lexUnit id="l6316" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kochfest</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4295" category="adj" class="Substanz">
+<lexUnit id="l6317" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wetterfest</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4296" category="adj" class="Substanz">
+<lexUnit id="l6318" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hitzebeständig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4297" category="adj" class="Substanz">
+<lexUnit id="l6319" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kältebeständig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4298" category="adj" class="Substanz">
+<lexUnit id="l6320" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unstabil</orthForm>
+</lexUnit>
+<lexUnit id="l6321" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>instabil</orthForm>
+</lexUnit>
+<lexUnit id="l6322" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>desolat</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4299" category="adj" class="Substanz">
+<lexUnit id="l6323" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dicht</orthForm>
+</lexUnit>
+<lexUnit id="l6324" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>undurchlässig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4300" category="adj" class="Substanz">
+<lexUnit id="l6325" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>luftdicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4301" category="adj" class="Substanz">
+<lexUnit id="l6326" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wasserdicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4302" category="adj" class="Substanz">
+<lexUnit id="l6327" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>luft- und wasserdicht</orthForm>
+</lexUnit>
+<lexUnit id="l6328" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hermetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4303" category="adj" class="Substanz">
+<lexUnit id="l6329" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>undicht</orthForm>
+</lexUnit>
+<lexUnit id="l6330" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>durchlässig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4304" category="adj" class="Substanz">
+<lexUnit id="l6331" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>leck</orthForm>
+</lexUnit>
+<lexUnit id="l6332" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>löchrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4305" category="adj" class="Substanz">
+<lexUnit id="l6333" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>marode</orthForm>
+</lexUnit>
+<lexUnit id="l6334" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>marod</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4306" category="adj" class="Substanz">
+<lexUnit id="l6335" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>baufällig</orthForm>
+</lexUnit>
+<paraphrase>bei Bauwerken</paraphrase>
+</synset>
+<synset id="s4307" category="adj" class="Substanz">
+<lexUnit id="l6336" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rostig</orthForm>
+</lexUnit>
+<lexUnit id="l6337" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verrostet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4308" category="adj" class="Substanz">
+<lexUnit id="l6338" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verwittert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4309" category="adj" class="Substanz">
+<lexUnit id="l6339" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wackelig</orthForm>
+</lexUnit>
+<lexUnit id="l6340" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wacklig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4310" category="adj" class="Substanz">
+<lexUnit id="l6341" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>konsistenzspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4311" category="adj" class="Substanz">
+<lexUnit id="l6342" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fest</orthForm>
+</lexUnit>
+<lexUnit id="l6343" sense="6" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hart</orthForm>
+</lexUnit>
+<lexUnit id="l6344" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>solid</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4312" category="adj" class="Substanz">
+<lexUnit id="l6345" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fest</orthForm>
+</lexUnit>
+<lexUnit id="l6346" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4313" category="adj" class="Substanz">
+<lexUnit id="l6347" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>locker</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4314" category="adj" class="Substanz">
+<lexUnit id="l6348" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hohl</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4315" category="adj" class="Substanz">
+<lexUnit id="l6349" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klebrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4316" category="adj" class="Substanz">
+<lexUnit id="l6350" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>plastisch</orthForm>
+</lexUnit>
+<lexUnit id="l6351" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>formbar</orthForm>
+</lexUnit>
+<lexUnit id="l6352" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>modellierbar</orthForm>
+</lexUnit>
+<lexUnit id="l6353" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>knetbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4317" category="adj" class="Substanz">
+<lexUnit id="l6354" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>saftig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4318" category="adj" class="Substanz">
+<lexUnit id="l6355" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>festkochend</orthForm>
+</lexUnit>
+<paraphrase>festkochende Kartoffeln</paraphrase>
+</synset>
+<synset id="s4319" category="adj" class="Substanz">
+<lexUnit id="l6356" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mehlig</orthForm>
+</lexUnit>
+<paraphrase>mehlige Äpfel und Kartoffeln</paraphrase>
+</synset>
+<synset id="s4320" category="adj" class="Substanz">
+<lexUnit id="l6357" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>porös</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4321" category="adj" class="Substanz">
+<lexUnit id="l6358" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fluffig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4322" category="adj" class="Substanz">
+<lexUnit id="l6359" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>brüchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4323" category="adj" class="Substanz">
+<lexUnit id="l6360" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schlabbrig</orthForm>
+</lexUnit>
+<lexUnit id="l6361" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schlabberig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4324" category="adj" class="Substanz">
+<lexUnit id="l6362" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>morsch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4325" category="adj" class="Substanz">
+<lexUnit id="l6363" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mürb</orthForm>
+</lexUnit>
+<lexUnit id="l6364" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mürbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4326" category="adj" class="Substanz">
+<lexUnit id="l6365" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lose</orthForm>
+</lexUnit>
+<lexUnit id="l6366" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>los</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4327" category="adj" class="Substanz">
+<lexUnit id="l6367" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>flüssig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4328" category="adj" class="Substanz">
+<lexUnit id="l6368" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dünnflüssig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4329" category="adj" class="Substanz">
+<lexUnit id="l6369" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zähflüssig</orthForm>
+</lexUnit>
+<lexUnit id="l6370" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zäh</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4330" category="adj" class="Substanz">
+<lexUnit id="l6371" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dick</orthForm>
+</lexUnit>
+<lexUnit id="l6372" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dickflüssig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4331" category="adj" class="Substanz">
+<lexUnit id="l6373" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>matschig</orthForm>
+</lexUnit>
+<lexUnit id="l6374" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schlammig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4332" category="adj" class="Substanz">
+<lexUnit id="l6375" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schleimig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4333" category="adj" class="Substanz">
+<lexUnit id="l6376" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sämig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4334" category="adj" class="Substanz">
+<lexUnit id="l6377" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geronnen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4335" category="adj" class="Substanz">
+<lexUnit id="l6378" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eingedickt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4336" category="adj" class="Substanz">
+<lexUnit id="l6379" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klumpig</orthForm>
+</lexUnit>
+<lexUnit id="l6380" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klümperig</orthForm>
+</lexUnit>
+<lexUnit id="l6381" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klümprig</orthForm>
+</lexUnit>
+<paraphrase>Klümpchen enthaltend/in Klumpen</paraphrase>
+</synset>
+<synset id="s4337" category="adj" class="Substanz">
+<lexUnit id="l6382" sense="5" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dünn</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4338" category="adj" class="Substanz">
+<lexUnit id="l6383" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>faserig</orthForm>
+</lexUnit>
+<lexUnit id="l6384" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fasrig</orthForm>
+</lexUnit>
+<paraphrase>aus Fasern bestehend</paraphrase>
+</synset>
+<synset id="s4339" category="adj" class="Substanz">
+<lexUnit id="l6385" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>holzig</orthForm>
+<example><text>holziger Spargel</text></example>
+</lexUnit>
+<paraphrase>mit festen Fasern durchsetzt</paraphrase>
+</synset>
+<synset id="s4340" category="adj" class="Substanz">
+<lexUnit id="l6386" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4341" category="adj" class="Substanz">
+<lexUnit id="l6387" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>moorig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4342" category="adj" class="Substanz">
+<lexUnit id="l6388" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>biegsam</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4343" category="adj" class="Substanz">
+<lexUnit id="l6389" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>reifespezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4344" category="adj" class="Substanz">
+<lexUnit id="l6390" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>frisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4345" category="adj" class="Substanz">
+<lexUnit id="l6391" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>knackig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4346" category="adj" class="Substanz">
+<lexUnit id="l6392" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>knusprig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4347" category="adj" class="Substanz">
+<lexUnit id="l6393" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>reif</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4348" category="adj" class="Substanz">
+<lexUnit id="l6394" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>überreif</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4349" category="adj" class="Substanz">
+<lexUnit id="l6395" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>matschig</orthForm>
+<example><text>matschige Birne</text></example>
+</lexUnit>
+</synset>
+<synset id="s4350" category="adj" class="Substanz">
+<lexUnit id="l6396" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verdorben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4351" category="adj" class="Substanz">
+<lexUnit id="l6397" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>faul</orthForm>
+</lexUnit>
+<lexUnit id="l6398" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verfault</orthForm>
+</lexUnit>
+<lexUnit id="l6399" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>faulig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4352" category="adj" class="Substanz">
+<lexUnit id="l6400" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verschimmelt</orthForm>
+</lexUnit>
+<lexUnit id="l6401" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schimmelig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4353" category="adj" class="Substanz">
+<lexUnit id="l6402" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verrottet</orthForm>
+</lexUnit>
+<lexUnit id="l6403" sense="5" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verfallen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4354" category="adj" class="Substanz">
+<lexUnit id="l6404" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgelaufen</orthForm>
+</lexUnit>
+<paraphrase>über das Haltbarkeitsdatum hinaus</paraphrase>
+</synset>
+<synset id="s4355" category="adj" class="Substanz">
+<lexUnit id="l6405" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unreif</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4356" category="adj" class="Substanz">
+<lexUnit id="l6406" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>grün</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4357" category="adj" class="Substanz">
+<lexUnit id="l6407" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>obergärig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4358" category="adj" class="Substanz">
+<lexUnit id="l6408" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>untergärig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4359" category="adj" class="Substanz">
+<lexUnit id="l6409" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>feuchtigkeitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4360" category="adj" class="Substanz">
+<lexUnit id="l6410" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>trocken</orthForm>
+</lexUnit>
+<lexUnit id="l6411" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ausgetrocknet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4361" category="adj" class="Substanz">
+<lexUnit id="l6412" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nass</orthForm>
+<oldOrthForm>naß</oldOrthForm>
+</lexUnit>
+<lexUnit id="l6413" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>naß</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4362" category="adj" class="Substanz">
+<lexUnit id="l6414" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>feucht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4363" category="adj" class="Substanz">
+<lexUnit id="l6415" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klamm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4364" category="adj" class="Substanz">
+<lexUnit id="l6416" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sumpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4365" category="adj" class="Substanz">
+<lexUnit id="l6417" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>reinheitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4366" category="adj" class="Substanz">
+<lexUnit id="l6418" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rein</orthForm>
+</lexUnit>
+<lexUnit id="l6419" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4367" category="adj" class="Substanz">
+<lexUnit id="l6420" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>koscher</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4368" category="adj" class="Substanz">
+<lexUnit id="l6421" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unrein</orthForm>
+</lexUnit>
+<lexUnit id="l6422" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verunreinigt</orthForm>
+</lexUnit>
+<lexUnit id="l6423" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verschmutzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4369" category="adj" class="Substanz">
+<lexUnit id="l6424" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unhygienisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4370" category="adj" class="Substanz">
+<lexUnit id="l6425" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hygienisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4371" category="adj" class="Substanz">
+<lexUnit id="l6426" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>keimfrei</orthForm>
+</lexUnit>
+<lexUnit id="l6427" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>steril</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4372" category="adj" class="Substanz">
+<lexUnit id="l6428" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lupenrein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4373" category="adj" class="Substanz">
+<lexUnit id="l6429" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verpanscht</orthForm>
+</lexUnit>
+<lexUnit id="l6430" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gepanscht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4374" category="adj" class="Substanz">
+<lexUnit id="l6431" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verseucht</orthForm>
+</lexUnit>
+<lexUnit id="l6432" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kontaminiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4375" category="adj" class="Substanz">
+<lexUnit id="l6433" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schmutzig</orthForm>
+</lexUnit>
+<lexUnit id="l6434" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dreckig</orthForm>
+</lexUnit>
+<lexUnit id="l6435" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verdreckt</orthForm>
+</lexUnit>
+<lexUnit id="l6436" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>beschmutzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4376" category="adj" class="Substanz">
+<lexUnit id="l6437" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>staubig</orthForm>
+</lexUnit>
+<lexUnit id="l6438" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verstaubt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4377" category="adj" class="Substanz">
+<lexUnit id="l6439" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verrußt</orthForm>
+</lexUnit>
+<lexUnit id="l6440" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rußig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4378" category="adj" class="Substanz">
+<lexUnit id="l6441" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ungefiltert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4379" category="adj" class="Substanz">
+<lexUnit id="l6442" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unsauber</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4380" category="adj" class="Substanz">
+<lexUnit id="l6443" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>trüb</orthForm>
+<example><text>trübes Wasser</text></example>
+</lexUnit>
+</synset>
+<synset id="s4381" category="adj" class="Substanz">
+<lexUnit id="l6444" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fleckig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4382" category="adj" class="Substanz">
+<lexUnit id="l6445" sense="8" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwarz</orthForm>
+<example><text>ein schwarzer Hemdkragen</text></example>
+</lexUnit>
+<paraphrase>von Schmutz ganz dunkel</paraphrase>
+</synset>
+<synset id="s4383" category="adj" class="Substanz">
+<lexUnit id="l6446" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sauber</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4384" category="adj" class="Substanz">
+<lexUnit id="l6447" sense="5" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4385" category="adj" class="Substanz">
+<lexUnit id="l6448" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gefiltert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4386" category="adj" class="Substanz">
+<lexUnit id="l6449" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>absolut</orthForm>
+<example><text>absoluter Alkohol</text></example>
+</lexUnit>
+</synset>
+<synset id="s4387" category="adj" class="Substanz">
+<lexUnit id="l6450" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>gewichtsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4388" category="adj" class="Substanz">
+<lexUnit id="l6451" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4389" category="adj" class="Substanz">
+<lexUnit id="l6452" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>leicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4390" category="adj" class="Substanz">
+<lexUnit id="l6453" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>massiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4391" category="adj" class="Substanz">
+<lexUnit id="l6454" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>federleicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4392" category="adj" class="Substanz">
+<lexUnit id="l6455" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>luftig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4393" category="adj" class="Substanz">
+<lexUnit id="l6456" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>physikspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4394" category="adj" class="Substanz">
+<lexUnit id="l6457" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>elektrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4395" category="adj" class="Substanz">
+<lexUnit id="l6458" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>magnetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4396" category="adj" class="Substanz">
+<lexUnit id="l6459" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>elektromagnetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4397" category="adj" class="Substanz">
+<lexUnit id="l6460" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>radioaktiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4398" category="adj" class="Substanz">
+<lexUnit id="l6461" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>chemiespezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4399" category="adj" class="Substanz">
+<lexUnit id="l6462" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kalkhaltig</orthForm>
+<example><text>kalkhaltiges Gestein</text></example>
+</lexUnit>
+<paraphrase>Kalk enthaltend</paraphrase>
+</synset>
+<synset id="s4400" category="adj" class="Substanz">
+<lexUnit id="l6463" sense="7" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hart</orthForm>
+<example><text>hartes Wasser</text></example>
+</lexUnit>
+</synset>
+<synset id="s4401" category="adj" class="Substanz">
+<lexUnit id="l6464" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>organisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4402" category="adj" class="Substanz">
+<lexUnit id="l6465" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anorganisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4403" category="adj" class="Substanz">
+<lexUnit id="l6466" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>asbesthaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4404" category="adj" class="Substanz">
+<lexUnit id="l6467" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dioxinhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4405" category="adj" class="Substanz">
+<lexUnit id="l6468" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ölhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4406" category="adj" class="Substanz">
+<lexUnit id="l6469" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>alkoholhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4407" category="adj" class="Substanz">
+<lexUnit id="l6470" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>metallhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4408" category="adj" class="Substanz">
+<lexUnit id="l6471" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwermetallhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4409" category="adj" class="Substanz">
+<lexUnit id="l6472" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>quecksilberhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4410" category="adj" class="Substanz">
+<lexUnit id="l6473" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>uranhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4411" category="adj" class="Substanz">
+<lexUnit id="l6474" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>plutoniumhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4412" category="adj" class="Substanz">
+<lexUnit id="l6475" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bleihaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4413" category="adj" class="Substanz">
+<lexUnit id="l6476" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eisenhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4414" category="adj" class="Substanz">
+<lexUnit id="l6477" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>edelmetallhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4415" category="adj" class="Substanz">
+<lexUnit id="l6478" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>silberhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4416" category="adj" class="Substanz">
+<lexUnit id="l6479" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>goldhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4417" category="adj" class="Substanz">
+<lexUnit id="l6480" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>palladiumhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4418" category="adj" class="Substanz">
+<lexUnit id="l6481" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwefelhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4419" category="adj" class="Substanz">
+<lexUnit id="l6482" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>salzhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4420" category="adj" class="Substanz">
+<lexUnit id="l6483" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nährstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4421" category="adj" class="Substanz">
+<lexUnit id="l6484" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zuckerhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4422" category="adj" class="Substanz">
+<lexUnit id="l6485" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fetthaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4423" category="adj" class="Substanz">
+<lexUnit id="l6486" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vitaminhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4424" category="adj" class="Substanz">
+<lexUnit id="l6487" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eiweißhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4425" category="adj" class="Substanz">
+<lexUnit id="l6488" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fleischhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4426" category="adj" class="Substanz">
+<lexUnit id="l6489" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mineralstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4427" category="adj" class="Substanz">
+<lexUnit id="l6490" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eisenhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4428" category="adj" class="Substanz">
+<lexUnit id="l6491" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wasserhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4429" category="adj" class="Substanz">
+<lexUnit id="l6492" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>phosphathaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4430" category="adj" class="Substanz">
+<lexUnit id="l6493" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stickstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4431" category="adj" class="Substanz">
+<lexUnit id="l6494" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sauerstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4432" category="adj" class="Substanz">
+<lexUnit id="l6495" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sauerstoffarm</orthForm>
+</lexUnit>
+<lexUnit id="l6496" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stickig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4433" category="adj" class="Substanz">
+<lexUnit id="l6497" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>halogenhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4434" category="adj" class="Substanz">
+<lexUnit id="l6498" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>chlorhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4435" category="adj" class="Substanz">
+<lexUnit id="l6499" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bromhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4436" category="adj" class="Substanz">
+<lexUnit id="l6500" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>säurehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4437" category="adj" class="Substanz">
+<lexUnit id="l6501" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kohlensäurehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4438" category="adj" class="Substanz">
+<lexUnit id="l6502" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>koffeinhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4439" category="adj" class="Substanz">
+<lexUnit id="l6503" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>halluzinogenhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4440" category="adj" class="Substanz">
+<lexUnit id="l6504" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lösungsmittelhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4441" category="adj" class="Substanz">
+<lexUnit id="l6505" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lehmhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4442" category="adj" class="Substanz">
+<lexUnit id="l6506" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>holzhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4443" category="adj" class="Substanz">
+<lexUnit id="l6507" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anabolikahaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4444" category="adj" class="Substanz">
+<lexUnit id="l6508" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>temperaturspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4445" category="adj" class="Substanz">
+<lexUnit id="l6509" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>warm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4446" category="adj" class="Substanz">
+<lexUnit id="l6510" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>heiß</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4447" category="adj" class="Substanz">
+<lexUnit id="l6511" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lau</orthForm>
+</lexUnit>
+<lexUnit id="l6512" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lauwarm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4448" category="adj" class="Substanz">
+<lexUnit id="l6513" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4449" category="adj" class="Substanz">
+<lexUnit id="l6514" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kühl</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4450" category="adj" class="Substanz">
+<lexUnit id="l6515" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eisig</orthForm>
+</lexUnit>
+<lexUnit id="l6516" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eiskalt</orthForm>
+</lexUnit>
+<lexUnit id="l6517" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eisigkalt</orthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s4451" category="adj" class="Substanz">
+<lexUnit id="l6518" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>biogen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66296" category="adj" class="Substanz">
+<lexUnit id="l92038" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eröffnet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66301" category="adj" class="Substanz">
+<lexUnit id="l92043" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eingelegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66405" category="adj" class="Substanz">
+<lexUnit id="l92167" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lederartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66408" category="adj" class="Substanz">
+<lexUnit id="l92170" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gallertartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66409" category="adj" class="Substanz">
+<lexUnit id="l92171" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>grasartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66413" category="adj" class="Substanz">
+<lexUnit id="l92175" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wachsartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66436" category="adj" class="Substanz">
+<lexUnit id="l92203" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>glasartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66440" category="adj" class="Substanz">
+<lexUnit id="l92207" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hornartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66441" category="adj" class="Substanz">
+<lexUnit id="l92208" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gummiartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66463" category="adj" class="Substanz">
+<lexUnit id="l92230" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pestverseucht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66777" category="adj" class="Substanz">
+<lexUnit id="l92586" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>papierartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66780" category="adj" class="Substanz">
+<lexUnit id="l92589" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwammartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66787" category="adj" class="Substanz">
+<lexUnit id="l92596" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>samtartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67053" category="adj" class="Substanz">
+<lexUnit id="l92887" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht metallisch</orthForm>
+<orthVar>nichtmetallisch</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67105" category="adj" class="Substanz">
+<lexUnit id="l92946" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht magnetisch</orthForm>
+<orthVar>nichtmagnetisch</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67151" category="adj" class="Substanz">
+<lexUnit id="l93000" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht natürlich</orthForm>
+<orthVar>nichtnatürlich</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67154" category="adj" class="Substanz">
+<lexUnit id="l93003" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht nuklear</orthForm>
+<orthVar>nichtnuklear</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67285" category="adj" class="Substanz">
+<lexUnit id="l93164" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>brennbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67286" category="adj" class="Substanz">
+<lexUnit id="l93165" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht brennbar</orthForm>
+<orthVar>nichtbrennbar</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67327" category="adj" class="Substanz">
+<lexUnit id="l93216" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gelartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s4269" category="adj" class="Substanz">
+<lexUnit id="l6274" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>natürlich</orthForm>
+<example><text>natürliche/künstliche Stoffe</text></example>
+</lexUnit>
+<paraphrase>wie in der Natur</paraphrase>
+</synset>
+<synset id="s68722" category="adj" class="Substanz">
+<lexUnit id="l94843" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kupferhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68723" category="adj" class="Substanz">
+<lexUnit id="l94844" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kohlenstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68724" category="adj" class="Substanz">
+<lexUnit id="l94845" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>arsenhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68732" category="adj" class="Substanz">
+<lexUnit id="l94861" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>iodhaltig</orthForm>
+</lexUnit>
+<lexUnit id="l94866" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>jodhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68733" category="adj" class="Substanz">
+<lexUnit id="l94862" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>proteinhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68734" category="adj" class="Substanz">
+<lexUnit id="l94863" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mineralhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68735" category="adj" class="Substanz">
+<lexUnit id="l94864" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kristallwasserhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68737" category="adj" class="Substanz">
+<lexUnit id="l94867" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>quarzhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68738" category="adj" class="Substanz">
+<lexUnit id="l94868" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>manganhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68739" category="adj" class="Substanz">
+<lexUnit id="l94869" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wasserstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68740" category="adj" class="Substanz">
+<lexUnit id="l94870" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>THC-haltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68741" category="adj" class="Substanz">
+<lexUnit id="l94871" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lufthaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68742" category="adj" class="Substanz">
+<lexUnit id="l94872" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>radiumhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68745" category="adj" class="Substanz">
+<lexUnit id="l94875" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erzhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68746" category="adj" class="Substanz">
+<lexUnit id="l94876" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>phosphorhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68747" category="adj" class="Substanz">
+<lexUnit id="l94877" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>karbonathaltig</orthForm>
+</lexUnit>
+<lexUnit id="l94878" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>carbonathaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68748" category="adj" class="Substanz">
+<lexUnit id="l94879" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kieselsäurehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68749" category="adj" class="Substanz">
+<lexUnit id="l94880" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwefelsäurehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68750" category="adj" class="Substanz">
+<lexUnit id="l94881" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tellurhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68751" category="adj" class="Substanz">
+<lexUnit id="l94882" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kieshaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68752" category="adj" class="Substanz">
+<lexUnit id="l94883" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gashaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68753" category="adj" class="Substanz">
+<lexUnit id="l94884" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nikotinhaltig</orthForm>
+</lexUnit>
+<lexUnit id="l94885" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicotinhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68754" category="adj" class="Substanz">
+<lexUnit id="l94886" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sulfidhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68755" category="adj" class="Substanz">
+<lexUnit id="l94887" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schadstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68756" category="adj" class="Substanz">
+<lexUnit id="l94888" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>blausäurehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68757" category="adj" class="Substanz">
+<lexUnit id="l94889" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>elektrolythaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68758" category="adj" class="Substanz">
+<lexUnit id="l94890" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>salpeterhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68759" category="adj" class="Substanz">
+<lexUnit id="l94891" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vitamin-C-haltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68760" category="adj" class="Substanz">
+<lexUnit id="l94892" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>alkalihaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68761" category="adj" class="Substanz">
+<lexUnit id="l94893" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>chininhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68762" category="adj" class="Substanz">
+<lexUnit id="l94894" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kreidehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68764" category="adj" class="Substanz">
+<lexUnit id="l94896" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schieferhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68765" category="adj" class="Substanz">
+<lexUnit id="l94897" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>leichtmetallhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68766" category="adj" class="Substanz">
+<lexUnit id="l94898" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aluminiumhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68775" category="adj" class="Substanz">
+<lexUnit id="l94911" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gadoliniumhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68776" category="adj" class="Substanz">
+<lexUnit id="l94912" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>borhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68778" category="adj" class="Substanz">
+<lexUnit id="l94914" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kochsalzhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68779" category="adj" class="Substanz">
+<lexUnit id="l94915" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kollagenhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68780" category="adj" class="Substanz">
+<lexUnit id="l94916" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eisenerzhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68781" category="adj" class="Substanz">
+<lexUnit id="l94917" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kohlehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68782" category="adj" class="Substanz">
+<lexUnit id="l94918" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hochgoldhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68783" category="adj" class="Substanz">
+<lexUnit id="l94919" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>PCB-haltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68784" category="adj" class="Substanz">
+<lexUnit id="l94920" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>FCKW-haltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68785" category="adj" class="Substanz">
+<lexUnit id="l94921" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>insektizidhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68786" category="adj" class="Substanz">
+<lexUnit id="l94922" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geruchsstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68788" category="adj" class="Substanz">
+<lexUnit id="l94924" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>salzsäurehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68789" category="adj" class="Substanz">
+<lexUnit id="l94925" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>chromathaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68797" category="adj" class="Substanz">
+<lexUnit id="l94939" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>formaldehydhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68798" category="adj" class="Substanz">
+<lexUnit id="l94940" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>muschelkalkhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68799" category="adj" class="Substanz">
+<lexUnit id="l94941" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>acetylsalicylsäurehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68800" category="adj" class="Substanz">
+<lexUnit id="l94942" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nitrathaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68801" category="adj" class="Substanz">
+<lexUnit id="l94943" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>triclosanhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68802" category="adj" class="Substanz">
+<lexUnit id="l94944" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fenetyllinhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68803" category="adj" class="Substanz">
+<lexUnit id="l94945" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>teerhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68804" category="adj" class="Substanz">
+<lexUnit id="l94946" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hämhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68805" category="adj" class="Substanz">
+<lexUnit id="l94947" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>phosphorsäurehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68806" category="adj" class="Substanz">
+<lexUnit id="l94948" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>suchtgifthaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68807" category="adj" class="Substanz">
+<lexUnit id="l94949" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ethanolhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68808" category="adj" class="Substanz">
+<lexUnit id="l94950" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kohlendioxidhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68809" category="adj" class="Substanz">
+<lexUnit id="l94951" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fruchtzuckerhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68868" category="adj" class="Substanz">
+<lexUnit id="l95013" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>harnstoffhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68869" category="adj" class="Substanz">
+<lexUnit id="l95014" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>benzylbenzoathaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68870" category="adj" class="Substanz">
+<lexUnit id="l95015" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>übergangsmetallhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68871" category="adj" class="Substanz">
+<lexUnit id="l95016" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>titanhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68872" category="adj" class="Substanz">
+<lexUnit id="l95017" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>magnesiumsalzhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68873" category="adj" class="Substanz">
+<lexUnit id="l95018" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>teerölhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68874" category="adj" class="Substanz">
+<lexUnit id="l95019" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>docosahexaensäurehaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68875" category="adj" class="Substanz">
+<lexUnit id="l95020" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>calciumhaltig</orthForm>
+<orthVar>kalziumhaltig</orthVar>
+</lexUnit>
+</synset>
+<synset id="s68876" category="adj" class="Substanz">
+<lexUnit id="l95021" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>salzwasserhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68877" category="adj" class="Substanz">
+<lexUnit id="l95022" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nickelsalzhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71081" category="adj" class="Substanz">
+<lexUnit id="l97534" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>solide</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71743" category="adj" class="Substanz">
+<lexUnit id="l98308" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erdölhaltig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71744" category="adj" class="Substanz">
+<lexUnit id="l98309" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>magnesiumhaltig</orthForm>
+</lexUnit>
+</synset>
+</synsets>

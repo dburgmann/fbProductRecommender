@@ -1,0 +1,1587 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd">
+<synsets>
+<synset id="s2245" category="adj" class="Ort">
+<lexUnit id="l3456" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>ortsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2246" category="adj" class="Ort">
+<lexUnit id="l3457" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>dimensionsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2247" category="adj" class="Ort">
+<lexUnit id="l3458" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lang</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2248" category="adj" class="Ort">
+<lexUnit id="l3459" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>länglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2249" category="adj" class="Ort">
+<lexUnit id="l3460" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>langgefasst</orthForm>
+<orthVar>lang gefasst</orthVar>
+<oldOrthForm>langgefaßt</oldOrthForm>
+</lexUnit>
+<lexUnit id="l3463" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lang gefaßt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2250" category="adj" class="Ort">
+<lexUnit id="l3464" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kilometerlang</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2251" category="adj" class="Ort">
+<lexUnit id="l3465" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>meilenlang</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2252" category="adj" class="Ort">
+<lexUnit id="l3466" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weit</orthForm>
+<example><text>ein weiter Weg</text></example>
+</lexUnit>
+</synset>
+<synset id="s2253" category="adj" class="Ort">
+<lexUnit id="l3467" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kilometerweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2254" category="adj" class="Ort">
+<lexUnit id="l3468" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>meilenweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2255" category="adj" class="Ort">
+<lexUnit id="l3469" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>endlos</orthForm>
+</lexUnit>
+<lexUnit id="l3470" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unendlich</orthForm>
+</lexUnit>
+<paraphrase>ohne räumliches Ende</paraphrase>
+</synset>
+<synset id="s2256" category="adj" class="Ort">
+<lexUnit id="l3471" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>langstielig</orthForm>
+</lexUnit>
+<paraphrase>mit langem Stiel</paraphrase>
+</synset>
+<synset id="s2257" category="adj" class="Ort">
+<lexUnit id="l3472" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kurz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2258" category="adj" class="Ort">
+<lexUnit id="l3473" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>knapp</orthForm>
+<example><text>knappe(r) Rock/Hosen/Socken</text></example>
+</lexUnit>
+</synset>
+<synset id="s2259" category="adj" class="Ort">
+<lexUnit id="l3474" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kurzstielig</orthForm>
+</lexUnit>
+<paraphrase>mit kurzem Stiel</paraphrase>
+</synset>
+<synset id="s2260" category="adj" class="Ort">
+<lexUnit id="l3475" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>flach</orthForm>
+</lexUnit>
+<lexUnit id="l3476" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>niedrig</orthForm>
+</lexUnit>
+<lexUnit id="l3477" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nieder</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2261" category="adj" class="Ort">
+<lexUnit id="l3478" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hoch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2262" category="adj" class="Ort">
+<lexUnit id="l3479" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>haushoch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2263" category="adj" class="Ort">
+<lexUnit id="l3480" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zweigeschossig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2264" category="adj" class="Ort">
+<lexUnit id="l3481" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dreigeschossig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2265" category="adj" class="Ort">
+<lexUnit id="l3482" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>steil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2266" category="adj" class="Ort">
+<lexUnit id="l3483" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erhöht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2267" category="adj" class="Ort">
+<lexUnit id="l3484" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>flach</orthForm>
+<example><text>ein flaches/tiefes Gewässer</text></example>
+</lexUnit>
+</synset>
+<synset id="s2268" category="adj" class="Ort">
+<lexUnit id="l3485" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tief</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2269" category="adj" class="Ort">
+<lexUnit id="l3486" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgrundtief</orthForm>
+</lexUnit>
+<lexUnit id="l3487" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bodenlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2270" category="adj" class="Ort">
+<lexUnit id="l3488" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eng</orthForm>
+<example><text>eine enge Schlucht</text></example>
+</lexUnit>
+</synset>
+<synset id="s2271" category="adj" class="Ort">
+<lexUnit id="l3489" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weit</orthForm>
+<example><text>eine weite Schlucht</text></example>
+<example><text>eine weite Hose</text></example>
+</lexUnit>
+</synset>
+<synset id="s2272" category="adj" class="Ort">
+<lexUnit id="l3490" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weitläufig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2273" category="adj" class="Ort">
+<lexUnit id="l3491" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weiträumig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2274" category="adj" class="Ort">
+<lexUnit id="l3492" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verbreitet</orthForm>
+</lexUnit>
+<lexUnit id="l3493" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verzweigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2275" category="adj" class="Ort">
+<lexUnit id="l3494" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weltweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2276" category="adj" class="Ort">
+<lexUnit id="l3495" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>europaweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2277" category="adj" class="Ort">
+<lexUnit id="l3496" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>deutschlandweit</orthForm>
+</lexUnit>
+<lexUnit id="l3497" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bundesweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2278" category="adj" class="Ort">
+<lexUnit id="l3498" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weltumfassend</orthForm>
+</lexUnit>
+<lexUnit id="l3499" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weltumspannend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2279" category="adj" class="Ort">
+<lexUnit id="l3500" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schmal</orthForm>
+<example><text>ein(e) schmale(r,s) Weg/Haus/Straße...</text></example>
+</lexUnit>
+</synset>
+<synset id="s2280" category="adj" class="Ort">
+<lexUnit id="l3501" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>breit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2281" category="adj" class="Ort">
+<lexUnit id="l3502" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>einspurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2282" category="adj" class="Ort">
+<lexUnit id="l3503" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zweispurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2283" category="adj" class="Ort">
+<lexUnit id="l3504" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vierspurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2284" category="adj" class="Ort">
+<lexUnit id="l3505" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sechsspurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2285" category="adj" class="Ort">
+<lexUnit id="l3506" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>achtspurig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2286" category="adj" class="Ort">
+<lexUnit id="l3507" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>umfassend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2287" category="adj" class="Ort">
+<lexUnit id="l3508" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>allumfassend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2288" category="adj" class="Ort">
+<lexUnit id="l3509" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>global</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2289" category="adj" class="Ort">
+<lexUnit id="l3510" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lokal</orthForm>
+<example><text>das lokale Verkehrsnetz</text></example>
+</lexUnit>
+</synset>
+<synset id="s2290" category="adj" class="Ort">
+<lexUnit id="l3511" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>räumlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2291" category="adj" class="Ort">
+<lexUnit id="l3512" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>flächig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2292" category="adj" class="Ort">
+<lexUnit id="l3513" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>großflächig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2293" category="adj" class="Ort">
+<lexUnit id="l3514" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>breitflächig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2294" category="adj" class="Ort">
+<lexUnit id="l3515" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sperrig</orthForm>
+</lexUnit>
+<lexUnit id="l3516" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klobig</orthForm>
+</lexUnit>
+<lexUnit id="l3517" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klotzig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2295" category="adj" class="Ort">
+<lexUnit id="l3518" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>großräumig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2296" category="adj" class="Ort">
+<lexUnit id="l3519" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geräumig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2297" category="adj" class="Ort">
+<lexUnit id="l3520" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>grenzüberschreitend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2298" category="adj" class="Ort">
+<lexUnit id="l3521" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kleinräumig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2299" category="adj" class="Ort">
+<lexUnit id="l3522" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>richtungsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2300" category="adj" class="Ort">
+<lexUnit id="l3523" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nördlich</orthForm>
+</lexUnit>
+<paraphrase>von/nach Norden</paraphrase>
+</synset>
+<synset id="s2301" category="adj" class="Ort">
+<lexUnit id="l3524" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>südlich</orthForm>
+</lexUnit>
+<paraphrase>von/nach Süden</paraphrase>
+</synset>
+<synset id="s2302" category="adj" class="Ort">
+<lexUnit id="l3525" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>westlich</orthForm>
+</lexUnit>
+<paraphrase>von/nach Westen</paraphrase>
+</synset>
+<synset id="s2303" category="adj" class="Ort">
+<lexUnit id="l3526" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nordwestlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2304" category="adj" class="Ort">
+<lexUnit id="l3527" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>südwestlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2305" category="adj" class="Ort">
+<lexUnit id="l3528" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>östlich</orthForm>
+</lexUnit>
+<paraphrase>von/nach Osten</paraphrase>
+</synset>
+<synset id="s2306" category="adj" class="Ort">
+<lexUnit id="l3529" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nordöstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2307" category="adj" class="Ort">
+<lexUnit id="l3530" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>südöstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2308" category="adj" class="Ort">
+<lexUnit id="l3531" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>frontal</orthForm>
+<example><text>ein frontaler Zusammenstoß</text></example>
+</lexUnit>
+<paraphrase>von vorne</paraphrase>
+</synset>
+<synset id="s2309" category="adj" class="Ort">
+<lexUnit id="l3532" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>seitlich</orthForm>
+</lexUnit>
+<lexUnit id="l3533" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>kollateral</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2310" category="adj" class="Ort">
+<lexUnit id="l3534" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>link</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2311" category="adj" class="Ort">
+<lexUnit id="l3535" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>recht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2312" category="adj" class="Ort">
+<lexUnit id="l3536" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>parallel</orthForm>
+</lexUnit>
+<paraphrase>in gleichem Abstand und gleicher Richtung</paraphrase>
+</synset>
+<synset id="s2313" category="adj" class="Ort">
+<lexUnit id="l3537" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>lokalisationsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2314" category="adj" class="Ort">
+<lexUnit id="l3538" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>frei</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2315" category="adj" class="Ort">
+<lexUnit id="l3539" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gefangen</orthForm>
+</lexUnit>
+<lexUnit id="l3540" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unfrei</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2316" category="adj" class="Ort">
+<lexUnit id="l3541" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gefangengenommen</orthForm>
+</lexUnit>
+<lexUnit id="l3542" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gefangengehalten</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2317" category="adj" class="Ort">
+<lexUnit id="l3543" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eingefangen</orthForm>
+</lexUnit>
+<lexUnit id="l3544" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>festgefangen</orthForm>
+</lexUnit>
+<lexUnit id="l3545" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dingfest</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2318" category="adj" class="Ort">
+<lexUnit id="l3546" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gekidnapt</orthForm>
+</lexUnit>
+<lexUnit id="l3547" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>entführt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2319" category="adj" class="Ort">
+<lexUnit id="l3548" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verhaftet</orthForm>
+</lexUnit>
+<lexUnit id="l3549" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>inhaftiert</orthForm>
+</lexUnit>
+<lexUnit id="l3550" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>festgenommen</orthForm>
+</lexUnit>
+<lexUnit id="l3551" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>arretiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2320" category="adj" class="Ort">
+<lexUnit id="l3552" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nah</orthForm>
+</lexUnit>
+<lexUnit id="l3553" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nahe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2321" category="adj" class="Ort">
+<lexUnit id="l3554" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>knapp</orthForm>
+</lexUnit>
+<paraphrase>mit geringem Abstand</paraphrase>
+</synset>
+<synset id="s2322" category="adj" class="Ort">
+<lexUnit id="l3555" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>haarscharf</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2323" category="adj" class="Ort">
+<lexUnit id="l3556" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ortsnah</orthForm>
+</lexUnit>
+<lexUnit id="l3557" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nahegelegen</orthForm>
+</lexUnit>
+<lexUnit id="l3558" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>naheliegend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2324" category="adj" class="Ort">
+<lexUnit id="l3559" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nebenstehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2325" category="adj" class="Ort">
+<lexUnit id="l3560" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>umliegend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2326" category="adj" class="Ort">
+<lexUnit id="l3561" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unweit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2327" category="adj" class="Ort">
+<lexUnit id="l3562" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>benachbart</orthForm>
+</lexUnit>
+<lexUnit id="l3563" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>angrenzend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2328" category="adj" class="Ort">
+<lexUnit id="l3564" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>naturnah</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2329" category="adj" class="Ort">
+<lexUnit id="l3565" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fern</orthForm>
+</lexUnit>
+<lexUnit id="l3566" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>entfernt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2330" category="adj" class="Ort">
+<lexUnit id="l3567" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>entfernt</orthForm>
+</lexUnit>
+<lexUnit id="l3568" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgelegen</orthForm>
+</lexUnit>
+<lexUnit id="l3569" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>einsam</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2331" category="adj" class="Ort">
+<lexUnit id="l3570" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>jenseitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2332" category="adj" class="Ort">
+<lexUnit id="l3571" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>diesseitig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2333" category="adj" class="Ort">
+<lexUnit id="l3572" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>überseeisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2334" category="adj" class="Ort">
+<lexUnit id="l3573" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vorder</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2335" category="adj" class="Ort">
+<lexUnit id="l3574" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hinter</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2336" category="adj" class="Ort">
+<lexUnit id="l3575" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>obere</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2337" category="adj" class="Ort">
+<lexUnit id="l3576" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>obig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2338" category="adj" class="Ort">
+<lexUnit id="l3577" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>oberst</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2339" category="adj" class="Ort">
+<lexUnit id="l3578" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>untere</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2340" category="adj" class="Ort">
+<lexUnit id="l3579" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>inner</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2341" category="adj" class="Ort">
+<lexUnit id="l3580" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>innerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2342" category="adj" class="Ort">
+<lexUnit id="l3581" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>medial</orthForm>
+</lexUnit>
+<lexUnit id="l3582" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mittig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2343" category="adj" class="Ort">
+<lexUnit id="l3583" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>äußerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2344" category="adj" class="Ort">
+<lexUnit id="l3584" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>intern</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2345" category="adj" class="Ort">
+<lexUnit id="l3586" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>innerbetrieblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2346" category="adj" class="Ort">
+<lexUnit id="l3587" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>inneruniversitär</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2347" category="adj" class="Ort">
+<lexUnit id="l3588" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>innerparteilich</orthForm>
+</lexUnit>
+<lexUnit id="l3589" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>parteiintern</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2348" category="adj" class="Ort">
+<lexUnit id="l3590" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>außerbetrieblich</orthForm>
+</lexUnit>
+<lexUnit id="l3591" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>überbetrieblich</orthForm>
+</lexUnit>
+<lexUnit id="l3592" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>betriebsübergreifend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2349" category="adj" class="Ort">
+<lexUnit id="l3593" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>außerparteilich</orthForm>
+</lexUnit>
+<lexUnit id="l3594" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>überparteilich</orthForm>
+</lexUnit>
+<lexUnit id="l3595" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>parteiübergreifend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2350" category="adj" class="Ort">
+<lexUnit id="l3596" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>äußer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2351" category="adj" class="Ort">
+<lexUnit id="l3597" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zentral</orthForm>
+<example><text>das Haus liegt sehr zentral</text></example>
+</lexUnit>
+<paraphrase>im Zentrum</paraphrase>
+</synset>
+<synset id="s2352" category="adj" class="Ort">
+<lexUnit id="l3598" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dezentral</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2353" category="adj" class="Ort">
+<lexUnit id="l3599" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>peripher</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2354" category="adj" class="Ort">
+<lexUnit id="l3600" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erreichbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2355" category="adj" class="Ort">
+<lexUnit id="l3601" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unterirdisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2356" category="adj" class="Ort">
+<lexUnit id="l3602" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>überirdisch</orthForm>
+</lexUnit>
+<lexUnit id="l3603" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>oberirdisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2357" category="adj" class="Ort">
+<lexUnit id="l3604" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>extraterrestrisch</orthForm>
+</lexUnit>
+<lexUnit id="l3605" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>außerirdisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2358" category="adj" class="Ort">
+<lexUnit id="l3606" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>irdisch</orthForm>
+</lexUnit>
+<lexUnit id="l3607" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>terrestrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2359" category="adj" class="Ort">
+<lexUnit id="l3608" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>herkunftsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2360" category="adj" class="Ort">
+<lexUnit id="l3609" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>einheimisch</orthForm>
+</lexUnit>
+<lexUnit id="l3610" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>indigen</orthForm>
+</lexUnit>
+<lexUnit id="l3611" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>heimisch</orthForm>
+</lexUnit>
+<lexUnit id="l3612" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>beheimatet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2361" category="adj" class="Ort">
+<lexUnit id="l3613" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hiesig</orthForm>
+<example><text>hiesige Kartoffeln/Erdbeeren</text></example>
+</lexUnit>
+</synset>
+<synset id="s2362" category="adj" class="Ort">
+<lexUnit id="l3614" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>außerhalb</orthForm>
+</lexUnit>
+<lexUnit id="l3615" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>extern</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2363" category="adj" class="Ort">
+<lexUnit id="l3616" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>auswärtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2364" category="adj" class="Ort">
+<lexUnit id="l3617" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ansässig</orthForm>
+</lexUnit>
+<lexUnit id="l3618" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gebürtig</orthForm>
+</lexUnit>
+<lexUnit id="l3619" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ortsansässig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2365" category="adj" class="Ort">
+<lexUnit id="l3620" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fremdstämmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2366" category="adj" class="Ort">
+<lexUnit id="l3621" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>deutschstämmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2367" category="adj" class="Ort">
+<lexUnit id="l3622" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fremdartig</orthForm>
+</lexUnit>
+<lexUnit id="l3623" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>exotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2368" category="adj" class="Ort">
+<lexUnit id="l3624" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unbekannt</orthForm>
+</lexUnit>
+<lexUnit id="l3625" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fremd</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2369" category="adj" class="Ort">
+<lexUnit id="l3626" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unerforscht</orthForm>
+</lexUnit>
+<lexUnit id="l3627" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unerkundet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2370" category="adj" class="Ort">
+<lexUnit id="l3628" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dortig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2371" category="adj" class="Ort">
+<lexUnit id="l3629" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anonym</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2372" category="adj" class="Ort">
+<lexUnit id="l3630" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ungenannt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2373" category="adj" class="Ort">
+<lexUnit id="l3631" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bekannt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2374" category="adj" class="Ort">
+<lexUnit id="l3632" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vertraut</orthForm>
+</lexUnit>
+<lexUnit id="l3633" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geläufig</orthForm>
+</lexUnit>
+<lexUnit id="l3634" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>traut</orthForm>
+</lexUnit>
+<lexUnit id="l3635" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gängig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2375" category="adj" class="Ort">
+<lexUnit id="l3636" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>familiär</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2376" category="adj" class="Ort">
+<lexUnit id="l3637" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erforscht</orthForm>
+</lexUnit>
+<lexUnit id="l3638" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erkundet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2377" category="adj" class="Ort">
+<lexUnit id="l3639" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>berühmt</orthForm>
+</lexUnit>
+<lexUnit id="l3640" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>prominent</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2378" category="adj" class="Ort">
+<lexUnit id="l3641" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weltberühmt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2379" category="adj" class="Ort">
+<lexUnit id="l3642" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>namentlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2380" category="adj" class="Ort">
+<lexUnit id="l3643" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ausländisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2381" category="adj" class="Ort">
+<lexUnit id="l3644" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>inländisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2382" category="adj" class="Ort">
+<lexUnit id="l3645" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>alteingesessen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2383" category="adj" class="Ort">
+<lexUnit id="l3646" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ursprünglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2384" category="adj" class="Ort">
+<lexUnit id="l3647" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>archaisch</orthForm>
+</lexUnit>
+<lexUnit id="l3648" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>frühzeitlich</orthForm>
+</lexUnit>
+<lexUnit id="l3649" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>altertümlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2385" category="adj" class="Ort">
+<lexUnit id="l3650" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>original</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2386" category="adj" class="Ort">
+<lexUnit id="l3651" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>genuin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2387" category="adj" class="Ort">
+<lexUnit id="l3652" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>raumverteilungsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2388" category="adj" class="Ort">
+<lexUnit id="l3653" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>voll</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2389" category="adj" class="Ort">
+<lexUnit id="l3654" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>überfüllt</orthForm>
+</lexUnit>
+<lexUnit id="l3655" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>übervoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2390" category="adj" class="Ort">
+<lexUnit id="l3656" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>leer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2391" category="adj" class="Ort">
+<lexUnit id="l3657" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verstopft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2392" category="adj" class="Ort">
+<lexUnit id="l3658" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schütter</orthForm>
+</lexUnit>
+<lexUnit id="l3659" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>spärlich</orthForm>
+</lexUnit>
+<lexUnit id="l3660" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>licht</orthForm>
+</lexUnit>
+<lexUnit id="l3661" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dünn</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2393" category="adj" class="Ort">
+<lexUnit id="l3662" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unbesetzt</orthForm>
+</lexUnit>
+<lexUnit id="l3663" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>frei</orthForm>
+</lexUnit>
+<lexUnit id="l3664" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unbelegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2394" category="adj" class="Ort">
+<lexUnit id="l3665" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verkehrsberuhigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2395" category="adj" class="Ort">
+<lexUnit id="l3666" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>besetzt</orthForm>
+</lexUnit>
+<lexUnit id="l3667" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>belegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2396" category="adj" class="Ort">
+<lexUnit id="l3668" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vollbesetzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2397" category="adj" class="Ort">
+<lexUnit id="l3669" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>überbelegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2398" category="adj" class="Ort">
+<lexUnit id="l3670" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ausgebucht</orthForm>
+</lexUnit>
+<lexUnit id="l3671" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ausverkauft</orthForm>
+</lexUnit>
+<paraphrase>ausgebuchte Reise, ausverkauftes Konzert</paraphrase>
+</synset>
+<synset id="s2399" category="adj" class="Ort">
+<lexUnit id="l3672" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>formspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2400" category="adj" class="Ort">
+<lexUnit id="l3674" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>x-förmig</orthForm>
+<orthVar>X-förmig</orthVar>
+<oldOrthForm>X-förmig</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s2401" category="adj" class="Ort">
+<lexUnit id="l3676" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>u-förmig</orthForm>
+<orthVar>U-förmig</orthVar>
+<oldOrthForm>U-förmig</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s2402" category="adj" class="Ort">
+<lexUnit id="l3678" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>o-förmig</orthForm>
+<orthVar>O-förmig</orthVar>
+<oldOrthForm>O-förmig</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s2403" category="adj" class="Ort">
+<lexUnit id="l3680" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>s-förmig</orthForm>
+<orthVar>S-förmig</orthVar>
+<oldOrthForm>S-förmig</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s2404" category="adj" class="Ort">
+<lexUnit id="l3682" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stromlinienförmig</orthForm>
+</lexUnit>
+<lexUnit id="l3683" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schnittig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2405" category="adj" class="Ort">
+<lexUnit id="l3684" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rund</orthForm>
+</lexUnit>
+<lexUnit id="l3685" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kreisförmig</orthForm>
+</lexUnit>
+<lexUnit id="l3686" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kreisrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2406" category="adj" class="Ort">
+<lexUnit id="l3687" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zirkular</orthForm>
+</lexUnit>
+<lexUnit id="l3688" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zirkulär</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2407" category="adj" class="Ort">
+<lexUnit id="l3689" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>oval</orthForm>
+</lexUnit>
+<lexUnit id="l3690" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>elliptisch</orthForm>
+</lexUnit>
+<lexUnit id="l3691" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eirund</orthForm>
+</lexUnit>
+<lexUnit id="l3692" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eiförmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2408" category="adj" class="Ort">
+<lexUnit id="l3693" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pyramidal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2409" category="adj" class="Ort">
+<lexUnit id="l3694" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gerade</orthForm>
+</lexUnit>
+<lexUnit id="l3695" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eben</orthForm>
+</lexUnit>
+<lexUnit id="l3696" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>grade</orthForm>
+</lexUnit>
+<lexUnit id="l3697" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>linear</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2410" category="adj" class="Ort">
+<lexUnit id="l3698" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht linear</orthForm>
+<orthVar>nichtlinear</orthVar>
+</lexUnit>
+</synset>
+<synset id="s2411" category="adj" class="Ort">
+<lexUnit id="l3699" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kerzengerade</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2412" category="adj" class="Ort">
+<lexUnit id="l3700" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schnurgerade</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2413" category="adj" class="Ort">
+<lexUnit id="l3701" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>krumm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2414" category="adj" class="Ort">
+<lexUnit id="l3702" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>diagonal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2415" category="adj" class="Ort">
+<lexUnit id="l3703" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>quer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2416" category="adj" class="Ort">
+<lexUnit id="l3704" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>senkrecht</orthForm>
+</lexUnit>
+<lexUnit id="l3705" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vertikal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2417" category="adj" class="Ort">
+<lexUnit id="l3708" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>horizontal</orthForm>
+</lexUnit>
+<lexUnit id="l3706" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>waagerecht</orthForm>
+<orthVar>waagrecht</orthVar>
+<oldOrthForm>waagerecht</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s2418" category="adj" class="Ort">
+<lexUnit id="l3710" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gewellt</orthForm>
+</lexUnit>
+<lexUnit id="l3709" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wellig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2419" category="adj" class="Ort">
+<lexUnit id="l3711" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schief</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2420" category="adj" class="Ort">
+<lexUnit id="l3712" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schräg</orthForm>
+</lexUnit>
+<lexUnit id="l3713" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgeschrägt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2421" category="adj" class="Ort">
+<lexUnit id="l3714" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>windschief</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2422" category="adj" class="Ort">
+<lexUnit id="l3715" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geknickt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2423" category="adj" class="Ort">
+<lexUnit id="l3716" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>winkelig</orthForm>
+</lexUnit>
+<lexUnit id="l3717" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>winklig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2424" category="adj" class="Ort">
+<lexUnit id="l3718" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rechtwinkelig</orthForm>
+</lexUnit>
+<lexUnit id="l3719" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rechtwinklig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2425" category="adj" class="Ort">
+<lexUnit id="l3720" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>spitzwinkelig</orthForm>
+</lexUnit>
+<lexUnit id="l3721" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>spitzwinklig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2426" category="adj" class="Ort">
+<lexUnit id="l3722" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stumpfwinkelig</orthForm>
+</lexUnit>
+<lexUnit id="l3723" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stumpfwinklig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2427" category="adj" class="Ort">
+<lexUnit id="l3724" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eckig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2428" category="adj" class="Ort">
+<lexUnit id="l3725" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dreieckig</orthForm>
+<orthVar>3-eckig</orthVar>
+<oldOrthForm>dreieckig</oldOrthForm>
+<oldOrthVar>3eckig</oldOrthVar>
+</lexUnit>
+</synset>
+<synset id="s2429" category="adj" class="Ort">
+<lexUnit id="l3727" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>viereckig</orthForm>
+<orthVar>4-eckig</orthVar>
+<oldOrthForm>viereckig</oldOrthForm>
+<oldOrthVar>4eckig</oldOrthVar>
+</lexUnit>
+</synset>
+<synset id="s2430" category="adj" class="Ort">
+<lexUnit id="l3729" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>achteckig</orthForm>
+<orthVar>8-eckig</orthVar>
+<oldOrthForm>achteckig</oldOrthForm>
+<oldOrthVar>8eckig</oldOrthVar>
+</lexUnit>
+</synset>
+<synset id="s2431" category="adj" class="Ort">
+<lexUnit id="l3731" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rechteckig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2432" category="adj" class="Ort">
+<lexUnit id="l3732" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>quadratisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2433" category="adj" class="Ort">
+<lexUnit id="l3733" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>spitz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2434" category="adj" class="Ort">
+<lexUnit id="l3734" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>scharf</orthForm>
+<example><text>scharfe Kante/Messer/Gegenstand</text></example>
+</lexUnit>
+</synset>
+<synset id="s2435" category="adj" class="Ort">
+<lexUnit id="l3735" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stumpf</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2436" category="adj" class="Ort">
+<lexUnit id="l3736" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgestuft</orthForm>
+</lexUnit>
+<lexUnit id="l3737" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stufenartig</orthForm>
+</lexUnit>
+<lexUnit id="l3738" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stufig</orthForm>
+</lexUnit>
+<lexUnit id="l3739" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stufenförmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2437" category="adj" class="Ort">
+<lexUnit id="l3740" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>treppenartig</orthForm>
+</lexUnit>
+<lexUnit id="l3741" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>treppenförmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2438" category="adj" class="Ort">
+<lexUnit id="l3742" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>terrassenartig</orthForm>
+</lexUnit>
+<lexUnit id="l3743" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>terrassenförmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2439" category="adj" class="Ort">
+<lexUnit id="l3744" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hochhackig</orthForm>
+</lexUnit>
+<paraphrase>bei Schuhen</paraphrase>
+</synset>
+<synset id="s2440" category="adj" class="Ort">
+<lexUnit id="l3745" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>existenzspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2441" category="adj" class="Ort">
+<lexUnit id="l3746" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vorhanden</orthForm>
+</lexUnit>
+<lexUnit id="l3747" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>existent</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2442" category="adj" class="Ort">
+<lexUnit id="l3748" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bestehend</orthForm>
+</lexUnit>
+<lexUnit id="l3749" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vorliegend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2443" category="adj" class="Ort">
+<lexUnit id="l3750" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anwesend</orthForm>
+</lexUnit>
+<lexUnit id="l3751" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>präsent</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2444" category="adj" class="Ort">
+<lexUnit id="l3752" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>teilnehmend</orthForm>
+</lexUnit>
+<lexUnit id="l3753" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>partizipierend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2445" category="adj" class="Ort">
+<lexUnit id="l3754" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>allgegenwärtig</orthForm>
+</lexUnit>
+<lexUnit id="l3755" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>allzugegen</orthForm>
+</lexUnit>
+<lexUnit id="l3756" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>omnipräsent</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2446" category="adj" class="Ort">
+<lexUnit id="l3757" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abwesend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2447" category="adj" class="Ort">
+<lexUnit id="l3758" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mangelnd</orthForm>
+</lexUnit>
+<lexUnit id="l3759" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fehlend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2448" category="adj" class="Ort">
+<lexUnit id="l3760" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>befindlich</orthForm>
+</lexUnit>
+<lexUnit id="l3761" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>auffindbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2449" category="adj" class="Ort">
+<lexUnit id="l3762" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>topografisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66280" category="adj" class="Ort">
+<lexUnit id="l92021" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gelöscht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66302" category="adj" class="Ort">
+<lexUnit id="l92044" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erweitert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66389" category="adj" class="Ort">
+<lexUnit id="l92151" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>isoliert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66394" category="adj" class="Ort">
+<lexUnit id="l92156" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nächstgelegen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66400" category="adj" class="Ort">
+<lexUnit id="l92162" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>netzartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66431" category="adj" class="Ort">
+<lexUnit id="l92198" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>blattartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66435" category="adj" class="Ort">
+<lexUnit id="l92202" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>parkartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66437" category="adj" class="Ort">
+<lexUnit id="l92204" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zeltartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66453" category="adj" class="Ort">
+<lexUnit id="l92220" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kleinflächig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66774" category="adj" class="Ort">
+<lexUnit id="l92583" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wurmartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66779" category="adj" class="Ort">
+<lexUnit id="l92588" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sackartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66786" category="adj" class="Ort">
+<lexUnit id="l92595" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>plateauartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67010" category="adj" class="Ort">
+<lexUnit id="l92842" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>deutschblütig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66920" category="adj" class="Ort">
+<lexUnit id="l92741" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>gebäudeartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66926" category="adj" class="Ort">
+<lexUnit id="l92747" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>existierend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66927" category="adj" class="Ort">
+<lexUnit id="l92748" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>turmartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66928" category="adj" class="Ort">
+<lexUnit id="l92749" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schlossartig</orthForm>
+<oldOrthForm>schloßartig</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s66929" category="adj" class="Ort">
+<lexUnit id="l92750" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>burgartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66930" category="adj" class="Ort">
+<lexUnit id="l92752" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>palastartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66931" category="adj" class="Ort">
+<lexUnit id="l92753" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>festungsartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66932" category="adj" class="Ort">
+<lexUnit id="l92754" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>villenartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67090" category="adj" class="Ort">
+<lexUnit id="l92931" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht vorhanden</orthForm>
+<orthVar>nichtvorhanden</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67091" category="adj" class="Ort">
+<lexUnit id="l92932" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht existent</orthForm>
+<orthVar>nichtexistent</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67098" category="adj" class="Ort">
+<lexUnit id="l92939" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht existierend</orthForm>
+<orthVar>nichtexistierend</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67144" category="adj" class="Ort">
+<lexUnit id="l92992" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht westlich</orthForm>
+<orthVar>nichtwestlich</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67289" category="adj" class="Ort">
+<lexUnit id="l93168" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht westlich</orthForm>
+<orthVar>nichtwestlich</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67296" category="adj" class="Ort">
+<lexUnit id="l93176" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht lokal</orthForm>
+<orthVar>nichtlokal</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67299" category="adj" class="Ort">
+<lexUnit id="l93179" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht zentral</orthForm>
+<orthVar>nichtzentral</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67322" category="adj" class="Ort">
+<lexUnit id="l93210" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>höhlenartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67323" category="adj" class="Ort">
+<lexUnit id="l93211" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gitterartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67324" category="adj" class="Ort">
+<lexUnit id="l93212" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kuppelartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67325" category="adj" class="Ort">
+<lexUnit id="l93214" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schlauchartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67326" category="adj" class="Ort">
+<lexUnit id="l93215" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kammartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67328" category="adj" class="Ort">
+<lexUnit id="l93217" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tunnelartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67330" category="adj" class="Ort">
+<lexUnit id="l93219" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>laubblattartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67334" category="adj" class="Ort">
+<lexUnit id="l93223" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>flügelartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67338" category="adj" class="Ort">
+<lexUnit id="l93227" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>röhrenartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67339" category="adj" class="Ort">
+<lexUnit id="l93228" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>säulenartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67345" category="adj" class="Ort">
+<lexUnit id="l93234" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kelchartig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68954" category="adj" class="Ort">
+<lexUnit id="l95107" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vorstehend</orthForm>
+</lexUnit>
+<lexUnit id="l95200" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hervorstehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68960" category="adj" class="Ort">
+<lexUnit id="l95113" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>untenstehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68964" category="adj" class="Ort">
+<lexUnit id="l95117" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>obenstehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69041" category="adj" class="Ort">
+<lexUnit id="l95203" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>überstehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69042" category="adj" class="Ort">
+<lexUnit id="l95204" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fortbestehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69044" category="adj" class="Ort">
+<lexUnit id="l95206" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>umstehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71055" category="adj" class="Ort">
+<lexUnit id="l97503" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schroff</orthForm>
+</lexUnit>
+</synset>
+</synsets>

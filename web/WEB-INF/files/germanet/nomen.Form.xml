@@ -1,0 +1,4179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd">
+<synsets>
+<synset id="s8885" category="nomen" class="Form">
+<lexUnit id="l12522" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Verseilachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s8888" category="nomen" class="Form">
+<lexUnit id="l12525" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rotationsachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s8889" category="nomen" class="Form">
+<lexUnit id="l12526" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sichtachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s8891" category="nomen" class="Form">
+<lexUnit id="l12529" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mittelachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s8893" category="nomen" class="Form">
+<lexUnit id="l12531" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hauptachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s8894" category="nomen" class="Form">
+<lexUnit id="l12532" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Querachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s8895" category="nomen" class="Form">
+<lexUnit id="l12533" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Drehachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15549" category="nomen" class="Form">
+<lexUnit id="l21656" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>materielle Beschaffenheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15551" category="nomen" class="Form">
+<lexUnit id="l21658" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Flüssigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15552" category="nomen" class="Form">
+<lexUnit id="l21659" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Viskosität</orthForm>
+</lexUnit>
+<lexUnit id="l21660" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zähflüssigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15553" category="nomen" class="Form">
+<lexUnit id="l21661" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Brüchigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15554" category="nomen" class="Form">
+<lexUnit id="l21662" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bröckeligkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15555" category="nomen" class="Form">
+<lexUnit id="l21663" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trockenheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15556" category="nomen" class="Form">
+<lexUnit id="l21664" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Durchlässigkeit</orthForm>
+</lexUnit>
+<lexUnit id="l92457" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Permeabilität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15557" category="nomen" class="Form">
+<lexUnit id="l21665" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gasdurchlässigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15558" category="nomen" class="Form">
+<lexUnit id="l21666" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Porosität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15559" category="nomen" class="Form">
+<lexUnit id="l21667" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mürbheit</orthForm>
+</lexUnit>
+<lexUnit id="l21668" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mürbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15560" category="nomen" class="Form">
+<lexUnit id="l21669" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schwammigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15561" category="nomen" class="Form">
+<lexUnit id="l21670" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sprödigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15562" category="nomen" class="Form">
+<lexUnit id="l21671" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Puder</orthForm>
+</lexUnit>
+<lexUnit id="l21672" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pulver</orthForm>
+</lexUnit>
+<lexUnit id="l102543" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mehl</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15564" category="nomen" class="Form">
+<lexUnit id="l21675" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zusammensetzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15565" category="nomen" class="Form">
+<lexUnit id="l21676" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Weichheit</orthForm>
+</lexUnit>
+<lexUnit id="l21677" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Weiche</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15567" category="nomen" class="Form">
+<lexUnit id="l21679" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Geschmeidigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15568" category="nomen" class="Form">
+<lexUnit id="l21680" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Körnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15570" category="nomen" class="Form">
+<lexUnit id="l21683" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Korrosionsfestigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15573" category="nomen" class="Form">
+<lexUnit id="l21686" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Instabilität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15574" category="nomen" class="Form">
+<lexUnit id="l21687" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Solidität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15575" category="nomen" class="Form">
+<lexUnit id="l21688" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Oberflächenbeschaffenheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15576" category="nomen" class="Form">
+<lexUnit id="l21689" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Untergrundverhältnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15578" category="nomen" class="Form">
+<lexUnit id="l21691" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grundmuster</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15579" category="nomen" class="Form">
+<lexUnit id="l21692" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Textur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15580" category="nomen" class="Form">
+<lexUnit id="l21693" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Relief</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15581" category="nomen" class="Form">
+<lexUnit id="l21694" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Karo</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15582" category="nomen" class="Form">
+<lexUnit id="l21695" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fischgrätmuster</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15583" category="nomen" class="Form">
+<lexUnit id="l21696" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Streifen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15584" category="nomen" class="Form">
+<lexUnit id="l21697" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nadelstreifen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15588" category="nomen" class="Form">
+<lexUnit id="l21701" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Farbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15590" category="nomen" class="Form">
+<lexUnit id="l21703" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grauton</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15592" category="nomen" class="Form">
+<lexUnit id="l21705" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grundfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15593" category="nomen" class="Form">
+<lexUnit id="l21706" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schwarzweiß</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15594" category="nomen" class="Form">
+<lexUnit id="l21707" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mischfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15595" category="nomen" class="Form">
+<lexUnit id="l21708" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Signalfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15596" category="nomen" class="Form">
+<lexUnit id="l86233" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stadtfarbe</orthForm>
+</lexUnit>
+<lexUnit id="l21709" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gemeindefarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15597" category="nomen" class="Form">
+<lexUnit id="l21710" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nationalfarbe</orthForm>
+</lexUnit>
+<lexUnit id="l21711" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Landesfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15598" category="nomen" class="Form">
+<lexUnit id="l21712" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rot</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15599" category="nomen" class="Form">
+<lexUnit id="l21713" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blau</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15600" category="nomen" class="Form">
+<lexUnit id="l21714" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Azur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15601" category="nomen" class="Form">
+<lexUnit id="l21715" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gelb</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15602" category="nomen" class="Form">
+<lexUnit id="l21716" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grün</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15604" category="nomen" class="Form">
+<lexUnit id="l21718" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Violett</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15605" category="nomen" class="Form">
+<lexUnit id="l21719" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Weiß</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15606" category="nomen" class="Form">
+<lexUnit id="l21720" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Braun</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15608" category="nomen" class="Form">
+<lexUnit id="l21722" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grau</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15609" category="nomen" class="Form">
+<lexUnit id="l21723" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Glanz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15610" category="nomen" class="Form">
+<lexUnit id="l21724" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mattheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15611" category="nomen" class="Form">
+<lexUnit id="l21725" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hochglanz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15612" category="nomen" class="Form">
+<lexUnit id="l21726" sense="5" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Form</orthForm>
+</lexUnit>
+<lexUnit id="l21727" sense="6" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Figur</orthForm>
+</lexUnit>
+<lexUnit id="l21728" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gestalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15613" category="nomen" class="Form">
+<lexUnit id="l21730" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Passform</orthForm>
+<oldOrthForm>Paßform</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s15615" category="nomen" class="Form">
+<lexUnit id="l21733" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Linienführung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15616" category="nomen" class="Form">
+<lexUnit id="l21734" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sortimentsgestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15617" category="nomen" class="Form">
+<lexUnit id="l21735" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schaufenstergestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15618" category="nomen" class="Form">
+<lexUnit id="l21736" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bildgestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15619" category="nomen" class="Form">
+<lexUnit id="l21737" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Layoutgestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15620" category="nomen" class="Form">
+<lexUnit id="l21738" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schnittgestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15621" category="nomen" class="Form">
+<lexUnit id="l21739" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Metallgestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15622" category="nomen" class="Form">
+<lexUnit id="l21740" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gartenkunst</orthForm>
+</lexUnit>
+<lexUnit id="l91461" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gartengestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15623" category="nomen" class="Form">
+<lexUnit id="l21741" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grabmalgestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15624" category="nomen" class="Form">
+<lexUnit id="l21742" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schriftbild</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15756" category="nomen" class="Form">
+<lexUnit id="l21896" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mischform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15550" category="nomen" class="Form">
+<lexUnit id="l21657" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Konsistenz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15572" category="nomen" class="Form">
+<lexUnit id="l21685" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stabilität</orthForm>
+</lexUnit>
+<paraphrase>die Eigenschaft von Etwas widerstandsfähig gegen Veränderungen der Form zu sein</paraphrase>
+</synset>
+<synset id="s15607" category="nomen" class="Form">
+<lexUnit id="l21721" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rosa</orthForm>
+</lexUnit>
+<paraphrase>eine Farbe</paraphrase>
+</synset>
+<synset id="s15563" category="nomen" class="Form">
+<lexUnit id="l21673" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Feuchtigkeit</orthForm>
+</lexUnit>
+<lexUnit id="l21674" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Feuchte</orthForm>
+</lexUnit>
+<paraphrase>eine Beschaffenheit, die einen hohen Wasseranteil aufweist</paraphrase>
+</synset>
+<synset id="s15603" category="nomen" class="Form">
+<lexUnit id="l21717" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Orange</orthForm>
+</lexUnit>
+<paraphrase>Farbe, die aus Rot und Gelb gemischt ist</paraphrase>
+</synset>
+<synset id="s15577" category="nomen" class="Form">
+<lexUnit id="l21690" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Muster</orthForm>
+</lexUnit>
+<paraphrase>eine sich wiederholende Oberflächengestaltung</paraphrase>
+</synset>
+<synset id="s15626" category="nomen" class="Form">
+<lexUnit id="l21744" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erscheinungsform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15627" category="nomen" class="Form">
+<lexUnit id="l21745" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kurzform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15628" category="nomen" class="Form">
+<lexUnit id="l21746" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tabellenform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15629" category="nomen" class="Form">
+<lexUnit id="l21747" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sprachform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15630" category="nomen" class="Form">
+<lexUnit id="l21748" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Verlaufsform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15631" category="nomen" class="Form">
+<lexUnit id="l21749" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wuchsform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15632" category="nomen" class="Form">
+<lexUnit id="l21750" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wildform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15633" category="nomen" class="Form">
+<lexUnit id="l21751" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Normalform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15634" category="nomen" class="Form">
+<lexUnit id="l21752" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Textform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15635" category="nomen" class="Form">
+<lexUnit id="l21753" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Glockenform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15636" category="nomen" class="Form">
+<lexUnit id="l21754" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Drehform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15637" category="nomen" class="Form">
+<lexUnit id="l21755" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Buchform</orthForm>
+<example><text>Der Aufsatz liegt in Buchform vor.</text></example>
+</lexUnit>
+</synset>
+<synset id="s15638" category="nomen" class="Form">
+<lexUnit id="l21756" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Umriss</orthForm>
+<oldOrthForm>Umriß</oldOrthForm>
+</lexUnit>
+<lexUnit id="l21758" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grundriss</orthForm>
+<oldOrthForm>Grundriß</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s15639" category="nomen" class="Form">
+<lexUnit id="l21760" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kontur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15640" category="nomen" class="Form">
+<lexUnit id="l21761" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Außenkontur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15641" category="nomen" class="Form">
+<lexUnit id="l21762" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stanzkontur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15642" category="nomen" class="Form">
+<lexUnit id="l21763" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Polster</orthForm>
+</lexUnit>
+<paraphrase>Form einer Pflanze, z.B. Moospolster</paraphrase>
+</synset>
+<synset id="s15643" category="nomen" class="Form">
+<lexUnit id="l21764" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schablone</orthForm>
+</lexUnit>
+<lexUnit id="l21765" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vorlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15644" category="nomen" class="Form">
+<lexUnit id="l21766" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ziehschablone</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15645" category="nomen" class="Form">
+<lexUnit id="l21767" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zuschnittschablone</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15646" category="nomen" class="Form">
+<lexUnit id="l21768" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Musterschablone</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15647" category="nomen" class="Form">
+<lexUnit id="l21769" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gipsschablone</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15648" category="nomen" class="Form">
+<lexUnit id="l21770" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tonschablone</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15649" category="nomen" class="Form">
+<lexUnit id="l21771" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schnittmuster</orthForm>
+</lexUnit>
+<lexUnit id="l21772" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schnitt</orthForm>
+</lexUnit>
+<lexUnit id="l21773" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schnittschablone</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15650" category="nomen" class="Form">
+<lexUnit id="l21774" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mustervorlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15651" category="nomen" class="Form">
+<lexUnit id="l21775" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kopiervorlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15652" category="nomen" class="Form">
+<lexUnit id="l21776" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Romanvorlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15653" category="nomen" class="Form">
+<lexUnit id="l21777" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Konstruktionsvorlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15654" category="nomen" class="Form">
+<lexUnit id="l21778" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Originalvorlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15655" category="nomen" class="Form">
+<lexUnit id="l21779" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zuschnittmuster</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15656" category="nomen" class="Form">
+<lexUnit id="l21780" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Oberflächenschicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15657" category="nomen" class="Form">
+<lexUnit id="l21781" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lackierung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15658" category="nomen" class="Form">
+<lexUnit id="l21782" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Politur</orthForm>
+</lexUnit>
+<lexUnit id="l21783" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Polierung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15659" category="nomen" class="Form">
+<lexUnit id="l21784" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schliff</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15660" category="nomen" class="Form">
+<lexUnit id="l21785" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Glasur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15662" category="nomen" class="Form">
+<lexUnit id="l21787" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zuckerguss</orthForm>
+<oldOrthForm>Zuckerguß</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s15663" category="nomen" class="Form">
+<lexUnit id="l21789" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Putz</orthForm>
+</lexUnit>
+<lexUnit id="l21790" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Verkleidung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15664" category="nomen" class="Form">
+<lexUnit id="l21791" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Außenhaut</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15666" category="nomen" class="Form">
+<lexUnit id="l21793" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Außenwandverkleidung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15667" category="nomen" class="Form">
+<lexUnit id="l21794" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Deckenverkleidung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15668" category="nomen" class="Form">
+<lexUnit id="l21795" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Profilholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15669" category="nomen" class="Form">
+<lexUnit id="l21796" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Körperform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15670" category="nomen" class="Form">
+<lexUnit id="l21797" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gestalt</orthForm>
+</lexUnit>
+<lexUnit id="l21798" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Körperbau</orthForm>
+</lexUnit>
+<lexUnit id="l21799" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wuchs</orthForm>
+</lexUnit>
+<lexUnit id="l21800" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Statur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15671" category="nomen" class="Form">
+<lexUnit id="l21801" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schlankheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15672" category="nomen" class="Form">
+<lexUnit id="l21802" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dickheit</orthForm>
+</lexUnit>
+<lexUnit id="l21803" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dickleibigkeit</orthForm>
+</lexUnit>
+<lexUnit id="l21804" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fettleibigkeit</orthForm>
+</lexUnit>
+<lexUnit id="l21805" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Üppigkeit</orthForm>
+</lexUnit>
+<lexUnit id="l21806" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rundlichkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15673" category="nomen" class="Form">
+<lexUnit id="l21807" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hohlheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15674" category="nomen" class="Form">
+<lexUnit id="l21808" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Massivität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15675" category="nomen" class="Form">
+<lexUnit id="l21809" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Körperdichte</orthForm>
+</lexUnit>
+<lexUnit id="l21810" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dichte</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15677" category="nomen" class="Form">
+<lexUnit id="l21812" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Farbdichte</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15684" category="nomen" class="Form">
+<lexUnit id="l21823" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bohrdurchmesser</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15685" category="nomen" class="Form">
+<lexUnit id="l21824" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kaliber</orthForm>
+</lexUnit>
+<paraphrase>Durchmesser von Rohren, Uhrwerken oder Geschossen</paraphrase>
+</synset>
+<synset id="s15687" category="nomen" class="Form">
+<lexUnit id="l21826" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kaliber</orthForm>
+</lexUnit>
+<paraphrase>Form eines Uhrwerks</paraphrase>
+</synset>
+<synset id="s15688" category="nomen" class="Form">
+<lexUnit id="l21827" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kapazität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15691" category="nomen" class="Form">
+<lexUnit id="l21830" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Maschinenkapazität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15695" category="nomen" class="Form">
+<lexUnit id="l21834" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Größe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15697" category="nomen" class="Form">
+<lexUnit id="l21836" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Unternehmensgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15698" category="nomen" class="Form">
+<lexUnit id="l21837" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Familiengröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15699" category="nomen" class="Form">
+<lexUnit id="l21838" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Haushaltsgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15700" category="nomen" class="Form">
+<lexUnit id="l21839" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bildgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15701" category="nomen" class="Form">
+<lexUnit id="l21840" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dateigröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15702" category="nomen" class="Form">
+<lexUnit id="l21841" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Baugröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15703" category="nomen" class="Form">
+<lexUnit id="l21842" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Länge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15704" category="nomen" class="Form">
+<lexUnit id="l21843" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gesamtlänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15705" category="nomen" class="Form">
+<lexUnit id="l21844" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Seitenlänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15706" category="nomen" class="Form">
+<lexUnit id="l21845" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kantenlänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15707" category="nomen" class="Form">
+<lexUnit id="l21846" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schwanzlänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15708" category="nomen" class="Form">
+<lexUnit id="l21847" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Haarlänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15710" category="nomen" class="Form">
+<lexUnit id="l21849" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Streckenlänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15711" category="nomen" class="Form">
+<lexUnit id="l21850" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kürze</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15713" category="nomen" class="Form">
+<lexUnit id="l21852" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Breite</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15714" category="nomen" class="Form">
+<lexUnit id="l21853" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spannweite</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15716" category="nomen" class="Form">
+<lexUnit id="l21855" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tonumfang</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15717" category="nomen" class="Form">
+<lexUnit id="l21856" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Höhe</orthForm>
+</lexUnit>
+<paraphrase>Dimension nach oben</paraphrase>
+</synset>
+<synset id="s15718" category="nomen" class="Form">
+<lexUnit id="l21857" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tiefe</orthForm>
+</lexUnit>
+<lexUnit id="l102810" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>Teufe</orthForm>
+</lexUnit>
+<paraphrase>Dimension nach unten</paraphrase>
+</synset>
+<synset id="s15719" category="nomen" class="Form">
+<lexUnit id="l21858" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wassertiefe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15720" category="nomen" class="Form">
+<lexUnit id="l21859" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bohrtiefe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15721" category="nomen" class="Form">
+<lexUnit id="l21860" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Abbautiefe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15722" category="nomen" class="Form">
+<lexUnit id="l21861" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dünne</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15723" category="nomen" class="Form">
+<lexUnit id="l21862" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dicke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15725" category="nomen" class="Form">
+<lexUnit id="l21864" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lichtstärke</orthForm>
+</lexUnit>
+<lexUnit id="l101860" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Helligkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15726" category="nomen" class="Form">
+<lexUnit id="l21865" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wandstärke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15728" category="nomen" class="Form">
+<lexUnit id="l21867" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dimensionalität</orthForm>
+</lexUnit>
+<paraphrase>dimensional sein/Dimensionen haben</paraphrase>
+</synset>
+<synset id="s15729" category="nomen" class="Form">
+<lexUnit id="l21868" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Radius</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15730" category="nomen" class="Form">
+<lexUnit id="l21869" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Originalgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15731" category="nomen" class="Form">
+<lexUnit id="l21870" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schriftgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15732" category="nomen" class="Form">
+<lexUnit id="l21871" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mikro</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15733" category="nomen" class="Form">
+<lexUnit id="l21872" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Korngröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15734" category="nomen" class="Form">
+<lexUnit id="l21873" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Steingröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15735" category="nomen" class="Form">
+<lexUnit id="l21874" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>dreidimensionale Form</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15736" category="nomen" class="Form">
+<lexUnit id="l21875" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Modell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15737" category="nomen" class="Form">
+<lexUnit id="l21876" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Strang</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15738" category="nomen" class="Form">
+<lexUnit id="l21877" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rohrstrang</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15739" category="nomen" class="Form">
+<lexUnit id="l21878" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hohlform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15740" category="nomen" class="Form">
+<lexUnit id="l21879" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Keilform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15741" category="nomen" class="Form">
+<lexUnit id="l21880" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gießform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15742" category="nomen" class="Form">
+<lexUnit id="l21881" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kastenform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15743" category="nomen" class="Form">
+<lexUnit id="l21882" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wachsmodell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15744" category="nomen" class="Form">
+<lexUnit id="l21883" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gipsmodell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15745" category="nomen" class="Form">
+<lexUnit id="l21884" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Metallmodell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15746" category="nomen" class="Form">
+<lexUnit id="l21885" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kunststoffmodell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15747" category="nomen" class="Form">
+<lexUnit id="l21886" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Werkmodell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15748" category="nomen" class="Form">
+<lexUnit id="l21887" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grundmodell</orthForm>
+</lexUnit>
+<lexUnit id="l100845" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Basismodell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15749" category="nomen" class="Form">
+<lexUnit id="l21888" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>zweidimensionale Form</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15750" category="nomen" class="Form">
+<lexUnit id="l21889" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>eindimensionale Form</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15752" category="nomen" class="Form">
+<lexUnit id="l21891" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>amorphe Form</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15753" category="nomen" class="Form">
+<lexUnit id="l21893" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Körper</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15754" category="nomen" class="Form">
+<lexUnit id="l21894" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Modellkörper</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15755" category="nomen" class="Form">
+<lexUnit id="l21895" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hauptform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15689" category="nomen" class="Form">
+<lexUnit id="l21828" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Produktionskapazität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15715" category="nomen" class="Form">
+<lexUnit id="l21854" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Flügelspannweite</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15712" category="nomen" class="Form">
+<lexUnit id="l21851" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Knappheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15686" category="nomen" class="Form">
+<lexUnit id="l21825" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Magnum</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15694" category="nomen" class="Form">
+<lexUnit id="l21833" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Überkapazität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15681" category="nomen" class="Form">
+<lexUnit id="l21819" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Verbreitung</orthForm>
+</lexUnit>
+<lexUnit id="l21820" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ausbreitung</orthForm>
+</lexUnit>
+<paraphrase>das Ausmaß, das etwas hat</paraphrase>
+</synset>
+<synset id="s15724" category="nomen" class="Form">
+<lexUnit id="l21863" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stärke</orthForm>
+</lexUnit>
+<paraphrase>der Durchmesser, die Dicke von etwas</paraphrase>
+</synset>
+<synset id="s15751" category="nomen" class="Form">
+<lexUnit id="l21890" sense="6" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Punkt</orthForm>
+</lexUnit>
+<paraphrase>nulldimensionale Stelle</paraphrase>
+</synset>
+<synset id="s15757" category="nomen" class="Form">
+<lexUnit id="l21897" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Linie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15758" category="nomen" class="Form">
+<lexUnit id="l21898" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Parallele</orthForm>
+</lexUnit>
+<paraphrase>Linie, die im immer gleichen Abstand zu einer anderen Linie verläuft</paraphrase>
+</synset>
+<synset id="s15759" category="nomen" class="Form">
+<lexUnit id="l21899" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Strich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15761" category="nomen" class="Form">
+<lexUnit id="l21901" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Verbindungslinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15762" category="nomen" class="Form">
+<lexUnit id="l21902" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fluchtlinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15763" category="nomen" class="Form">
+<lexUnit id="l21903" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Naht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15764" category="nomen" class="Form">
+<lexUnit id="l21904" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Steppnaht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15765" category="nomen" class="Form">
+<lexUnit id="l21905" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grobstichnaht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15766" category="nomen" class="Form">
+<lexUnit id="l21906" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Seitennaht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15767" category="nomen" class="Form">
+<lexUnit id="l21907" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schweißnaht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15768" category="nomen" class="Form">
+<lexUnit id="l21908" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Einfassnaht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15769" category="nomen" class="Form">
+<lexUnit id="l21909" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Planennaht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15770" category="nomen" class="Form">
+<lexUnit id="l21910" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Handnaht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15771" category="nomen" class="Form">
+<lexUnit id="l21911" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Streichnaht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15772" category="nomen" class="Form">
+<lexUnit id="l21912" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ziernaht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15773" category="nomen" class="Form">
+<lexUnit id="l21913" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Formennaht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15774" category="nomen" class="Form">
+<lexUnit id="l21914" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schnörkel</orthForm>
+</lexUnit>
+<lexUnit id="l90614" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Volute</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15775" category="nomen" class="Form">
+<lexUnit id="l21915" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Biese</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15776" category="nomen" class="Form">
+<lexUnit id="l21917" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schlussstrich</orthForm>
+<orthVar>Schluss-Strich</orthVar>
+<oldOrthForm>Schlußstrich</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s15778" category="nomen" class="Form">
+<lexUnit id="l21921" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Abstrich</orthForm>
+</lexUnit>
+<paraphrase>nach unten</paraphrase>
+</synset>
+<synset id="s15779" category="nomen" class="Form">
+<lexUnit id="l21922" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bindestrich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15780" category="nomen" class="Form">
+<lexUnit id="l21923" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gedankenstrich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15781" category="nomen" class="Form">
+<lexUnit id="l21924" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tangente</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15782" category="nomen" class="Form">
+<lexUnit id="l21925" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vektor</orthForm>
+</lexUnit>
+<paraphrase>mathematische Größe, die als Strecke bestimmter Lage u. Richtung definiert ist</paraphrase>
+</synset>
+<synset id="s15783" category="nomen" class="Form">
+<lexUnit id="l21926" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fläche</orthForm>
+</lexUnit>
+<lexUnit id="l21927" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ebene</orthForm>
+</lexUnit>
+<paraphrase>ein zweidimensionales Gebilde</paraphrase>
+</synset>
+<synset id="s15784" category="nomen" class="Form">
+<lexUnit id="l21928" sense="5" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sohle</orthForm>
+</lexUnit>
+<lexUnit id="l21929" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Förderebene</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15785" category="nomen" class="Form">
+<lexUnit id="l21930" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bruchsohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15787" category="nomen" class="Form">
+<lexUnit id="l21932" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schräge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15788" category="nomen" class="Form">
+<lexUnit id="l21933" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wölbung</orthForm>
+<example><text>Als Wölbung bezeichnet man eine Krümmung.</text></example>
+</lexUnit>
+</synset>
+<synset id="s15789" category="nomen" class="Form">
+<lexUnit id="l21934" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Höhlung</orthForm>
+</lexUnit>
+<lexUnit id="l21935" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Aushöhlung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15791" category="nomen" class="Form">
+<lexUnit id="l21937" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Block</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15792" category="nomen" class="Form">
+<lexUnit id="l21938" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rohblock</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15793" category="nomen" class="Form">
+<lexUnit id="l21939" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Motorblock</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15794" category="nomen" class="Form">
+<lexUnit id="l21940" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Steinblock</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15795" category="nomen" class="Form">
+<lexUnit id="l21941" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Natursteinblock</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15796" category="nomen" class="Form">
+<lexUnit id="l21942" sense="5" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ring</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15797" category="nomen" class="Form">
+<lexUnit id="l21943" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zylinder</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15798" category="nomen" class="Form">
+<lexUnit id="l21944" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wulst</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15799" category="nomen" class="Form">
+<lexUnit id="l21945" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kugel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15800" category="nomen" class="Form">
+<lexUnit id="l21946" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zapfen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15801" category="nomen" class="Form">
+<lexUnit id="l21947" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Farbzapfen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15802" category="nomen" class="Form">
+<lexUnit id="l21948" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Feuerball</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15803" category="nomen" class="Form">
+<lexUnit id="l21949" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schneeball</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15804" category="nomen" class="Form">
+<lexUnit id="l21950" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kügelchen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15805" category="nomen" class="Form">
+<lexUnit id="l21951" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Glaskugel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15806" category="nomen" class="Form">
+<lexUnit id="l21952" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Halbkugel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15807" category="nomen" class="Form">
+<lexUnit id="l21953" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schlinge</orthForm>
+</lexUnit>
+<lexUnit id="l21954" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schleife</orthForm>
+</lexUnit>
+<lexUnit id="l21955" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schlaufe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15808" category="nomen" class="Form">
+<lexUnit id="l21956" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Öse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15809" category="nomen" class="Form">
+<lexUnit id="l21957" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Masche</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15810" category="nomen" class="Form">
+<lexUnit id="l21958" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kegel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15812" category="nomen" class="Form">
+<lexUnit id="l21960" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Scheibe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15813" category="nomen" class="Form">
+<lexUnit id="l21961" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lamelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15814" category="nomen" class="Form">
+<lexUnit id="l21962" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Korn</orthForm>
+</lexUnit>
+<lexUnit id="l97372" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Körnchen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15816" category="nomen" class="Form">
+<lexUnit id="l21964" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Helix</orthForm>
+</lexUnit>
+<lexUnit id="l21965" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wendel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15817" category="nomen" class="Form">
+<lexUnit id="l21966" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spirale</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15819" category="nomen" class="Form">
+<lexUnit id="l21968" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hohlkörper</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15820" category="nomen" class="Form">
+<lexUnit id="l21969" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rundkörper</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15821" category="nomen" class="Form">
+<lexUnit id="l21970" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schokoladenhohlkörper</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15822" category="nomen" class="Form">
+<lexUnit id="l21971" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Klangkörper</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15823" category="nomen" class="Form">
+<lexUnit id="l21972" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erhebung</orthForm>
+</lexUnit>
+<lexUnit id="l21973" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rundung</orthForm>
+</lexUnit>
+<lexUnit id="l21974" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Krümmung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15824" category="nomen" class="Form">
+<lexUnit id="l21975" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ausbuchtung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15825" category="nomen" class="Form">
+<lexUnit id="l21976" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kasematte</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15826" category="nomen" class="Form">
+<lexUnit id="l21977" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Anhöhe</orthForm>
+</lexUnit>
+<lexUnit id="l21978" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Berghöhe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15827" category="nomen" class="Form">
+<lexUnit id="l21979" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vertiefung</orthForm>
+</lexUnit>
+<lexUnit id="l21980" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Einsenkung</orthForm>
+</lexUnit>
+<lexUnit id="l21981" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Einbuchtung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15828" category="nomen" class="Form">
+<lexUnit id="l21982" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kuhle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15829" category="nomen" class="Form">
+<lexUnit id="l21983" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nische</orthForm>
+</lexUnit>
+<lexUnit id="l21984" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ecke</orthForm>
+</lexUnit>
+<lexUnit id="l21985" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15830" category="nomen" class="Form">
+<lexUnit id="l21986" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nut</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15831" category="nomen" class="Form">
+<lexUnit id="l21987" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schmiernut</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15832" category="nomen" class="Form">
+<lexUnit id="l21988" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Einschnitt</orthForm>
+</lexUnit>
+<lexUnit id="l21989" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Einkerbung</orthForm>
+</lexUnit>
+<lexUnit id="l21990" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kerbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15833" category="nomen" class="Form">
+<lexUnit id="l21991" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Taleinschnitt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15834" category="nomen" class="Form">
+<lexUnit id="l21992" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grube</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15835" category="nomen" class="Form">
+<lexUnit id="l21993" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Graben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15836" category="nomen" class="Form">
+<lexUnit id="l21994" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Baugraben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15837" category="nomen" class="Form">
+<lexUnit id="l21995" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kanalgraben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15838" category="nomen" class="Form">
+<lexUnit id="l21996" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rohrleitungsgraben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15839" category="nomen" class="Form">
+<lexUnit id="l21997" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Prisma</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15840" category="nomen" class="Form">
+<lexUnit id="l21998" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tetraeder</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15841" category="nomen" class="Form">
+<lexUnit id="l21999" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pyramide</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15842" category="nomen" class="Form">
+<lexUnit id="l22000" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Oktaeder</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15845" category="nomen" class="Form">
+<lexUnit id="l22003" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spalt</orthForm>
+</lexUnit>
+<lexUnit id="l22004" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spalte</orthForm>
+</lexUnit>
+<lexUnit id="l22005" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ritze</orthForm>
+</lexUnit>
+<lexUnit id="l101651" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ritz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15846" category="nomen" class="Form">
+<lexUnit id="l22006" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Felsspalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15847" category="nomen" class="Form">
+<lexUnit id="l22007" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fensterspalt</orthForm>
+</lexUnit>
+<lexUnit id="l22008" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fensteröffnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15848" category="nomen" class="Form">
+<lexUnit id="l22009" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Furche</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15849" category="nomen" class="Form">
+<lexUnit id="l22010" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rille</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15850" category="nomen" class="Form">
+<lexUnit id="l22011" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gewinde</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15852" category="nomen" class="Form">
+<lexUnit id="l22013" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Würfel</orthForm>
+</lexUnit>
+<lexUnit id="l22014" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kubus</orthForm>
+</lexUnit>
+<lexUnit id="l22015" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hexaeder</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15853" category="nomen" class="Form">
+<lexUnit id="l22016" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eiswürfel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15854" category="nomen" class="Form">
+<lexUnit id="l22017" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Quader</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15855" category="nomen" class="Form">
+<lexUnit id="l22018" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Traditionslinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15856" category="nomen" class="Form">
+<lexUnit id="l22019" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Entwicklungslinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15857" category="nomen" class="Form">
+<lexUnit id="l22020" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spektrallinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15860" category="nomen" class="Form">
+<lexUnit id="l22023" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Körperlinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15861" category="nomen" class="Form">
+<lexUnit id="l22024" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Silhouette</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15862" category="nomen" class="Form">
+<lexUnit id="l22025" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Skyline</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15864" category="nomen" class="Form">
+<lexUnit id="l22027" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Falte</orthForm>
+</lexUnit>
+<lexUnit id="l22028" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Falz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15865" category="nomen" class="Form">
+<lexUnit id="l22029" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Reifenprofil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15866" category="nomen" class="Form">
+<lexUnit id="l22030" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spundwandprofil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15867" category="nomen" class="Form">
+<lexUnit id="l22031" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sonderprofil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15868" category="nomen" class="Form">
+<lexUnit id="l22032" sense="5" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Herz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15869" category="nomen" class="Form">
+<lexUnit id="l22033" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stern</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15870" category="nomen" class="Form">
+<lexUnit id="l22034" sense="6" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kreuz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15871" category="nomen" class="Form">
+<lexUnit id="l22035" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fadenkreuz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15872" category="nomen" class="Form">
+<lexUnit id="l22036" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Andreaskreuz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15873" category="nomen" class="Form">
+<lexUnit id="l22037" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Baum</orthForm>
+</lexUnit>
+<lexUnit id="l22038" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Baumstruktur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15874" category="nomen" class="Form">
+<lexUnit id="l22039" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Polygon</orthForm>
+</lexUnit>
+<lexUnit id="l90906" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vieleck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15875" category="nomen" class="Form">
+<lexUnit id="l22040" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>konische Figur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15876" category="nomen" class="Form">
+<lexUnit id="l22041" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fügefläche</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15877" category="nomen" class="Form">
+<lexUnit id="l22042" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Abdichtungsuntergrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15879" category="nomen" class="Form">
+<lexUnit id="l22044" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hexagramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15880" category="nomen" class="Form">
+<lexUnit id="l22045" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pentagramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15881" category="nomen" class="Form">
+<lexUnit id="l22046" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dreieck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15882" category="nomen" class="Form">
+<lexUnit id="l22047" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Viereck</orthForm>
+</lexUnit>
+<lexUnit id="l22048" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>Karree</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15883" category="nomen" class="Form">
+<lexUnit id="l22049" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pentagon</orthForm>
+</lexUnit>
+<lexUnit id="l97932" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fünfeck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15884" category="nomen" class="Form">
+<lexUnit id="l22050" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Geviert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15885" category="nomen" class="Form">
+<lexUnit id="l22051" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hexagon</orthForm>
+</lexUnit>
+<lexUnit id="l87691" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sechseck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15886" category="nomen" class="Form">
+<lexUnit id="l22052" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Oval</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15887" category="nomen" class="Form">
+<lexUnit id="l22053" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ellipse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15888" category="nomen" class="Form">
+<lexUnit id="l22054" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Orbit</orthForm>
+</lexUnit>
+<paraphrase>elliptische Umlaufbahn eines Himmelskörpers</paraphrase>
+</synset>
+<synset id="s15889" category="nomen" class="Form">
+<lexUnit id="l22055" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kreis</orthForm>
+</lexUnit>
+<lexUnit id="l22056" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zirkel</orthForm>
+</lexUnit>
+<paraphrase>eine Linie von Punkten mit gleichem Abstand zu einem Mittelpunkt</paraphrase>
+</synset>
+<synset id="s15890" category="nomen" class="Form">
+<lexUnit id="l22057" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kranz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15891" category="nomen" class="Form">
+<lexUnit id="l22058" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Haarkranz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15892" category="nomen" class="Form">
+<lexUnit id="l22059" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lorbeerkranz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15893" category="nomen" class="Form">
+<lexUnit id="l22060" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blumenkranz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15894" category="nomen" class="Form">
+<lexUnit id="l22061" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Strahlenkranz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15896" category="nomen" class="Form">
+<lexUnit id="l22063" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Halbkreis</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15897" category="nomen" class="Form">
+<lexUnit id="l22064" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wendekreis</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15898" category="nomen" class="Form">
+<lexUnit id="l22065" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Parabel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15899" category="nomen" class="Form">
+<lexUnit id="l22066" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fleck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15900" category="nomen" class="Form">
+<lexUnit id="l22067" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blutfleck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15902" category="nomen" class="Form">
+<lexUnit id="l22069" sense="7" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Punkt</orthForm>
+</lexUnit>
+<paraphrase>kleiner runder Fleck</paraphrase>
+</synset>
+<synset id="s15903" category="nomen" class="Form">
+<lexUnit id="l22070" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tupfen</orthForm>
+</lexUnit>
+<lexUnit id="l22071" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tupfer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15904" category="nomen" class="Form">
+<lexUnit id="l22072" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tüpfelchen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15905" category="nomen" class="Form">
+<lexUnit id="l22073" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Farbtupfer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15906" category="nomen" class="Form">
+<lexUnit id="l22074" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rechteck</orthForm>
+</lexUnit>
+<lexUnit id="l22075" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>Kästchen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15907" category="nomen" class="Form">
+<lexUnit id="l22076" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Quadrat</orthForm>
+</lexUnit>
+<lexUnit id="l103879" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Viereck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15908" category="nomen" class="Form">
+<lexUnit id="l22077" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Parallelogramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15909" category="nomen" class="Form">
+<lexUnit id="l22078" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trapez</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15910" category="nomen" class="Form">
+<lexUnit id="l22079" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Raute</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15911" category="nomen" class="Form">
+<lexUnit id="l22080" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Horizontale</orthForm>
+</lexUnit>
+<lexUnit id="l95497" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Waagerechte</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15912" category="nomen" class="Form">
+<lexUnit id="l22081" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vertikale</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15913" category="nomen" class="Form">
+<lexUnit id="l22082" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kreislinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15914" category="nomen" class="Form">
+<lexUnit id="l22084" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gerade</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15915" category="nomen" class="Form">
+<lexUnit id="l22085" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zielgerade</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15916" category="nomen" class="Form">
+<lexUnit id="l22086" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schenkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15917" category="nomen" class="Form">
+<lexUnit id="l22087" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Normale</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15918" category="nomen" class="Form">
+<lexUnit id="l22088" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Strecke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15919" category="nomen" class="Form">
+<lexUnit id="l22089" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Diagonale</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15920" category="nomen" class="Form">
+<lexUnit id="l22090" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zickzack</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15921" category="nomen" class="Form">
+<lexUnit id="l22091" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wellenlinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15922" category="nomen" class="Form">
+<lexUnit id="l22092" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15923" category="nomen" class="Form">
+<lexUnit id="l22093" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wegrand</orthForm>
+</lexUnit>
+<lexUnit id="l22094" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wegesrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15924" category="nomen" class="Form">
+<lexUnit id="l22095" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ecke</orthForm>
+</lexUnit>
+<lexUnit id="l22096" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15925" category="nomen" class="Form">
+<lexUnit id="l22097" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15926" category="nomen" class="Form">
+<lexUnit id="l22098" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lederkante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15927" category="nomen" class="Form">
+<lexUnit id="l22099" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schablonenkante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15928" category="nomen" class="Form">
+<lexUnit id="l22100" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Einschlagkante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15929" category="nomen" class="Form">
+<lexUnit id="l22101" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Glaskante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15930" category="nomen" class="Form">
+<lexUnit id="l22102" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schnittkante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15931" category="nomen" class="Form">
+<lexUnit id="l22103" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Oberkante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15933" category="nomen" class="Form">
+<lexUnit id="l22105" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stoffrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15934" category="nomen" class="Form">
+<lexUnit id="l22106" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Saum</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15935" category="nomen" class="Form">
+<lexUnit id="l22107" sense="7" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Raum</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15895" category="nomen" class="Form">
+<lexUnit id="l22062" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Heiligenschein</orthForm>
+</lexUnit>
+<paraphrase>strahlender Ring</paraphrase>
+</synset>
+<synset id="s15863" category="nomen" class="Form">
+<lexUnit id="l22026" sense="5" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Profil</orthForm>
+</lexUnit>
+<paraphrase>charakteristischer Querschnitt/Umriss eines Objekts</paraphrase>
+</synset>
+<synset id="s15811" category="nomen" class="Form">
+<lexUnit id="l21959" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spindel</orthForm>
+</lexUnit>
+<paraphrase>ein sich um die eigenen Mittelachse windendes Gebilde</paraphrase>
+</synset>
+<synset id="s15818" category="nomen" class="Form">
+<lexUnit id="l21967" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schraube</orthForm>
+</lexUnit>
+<paraphrase>eine um eine Mittelachse gewundene Form</paraphrase>
+</synset>
+<synset id="s15815" category="nomen" class="Form">
+<lexUnit id="l21963" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rad</orthForm>
+</lexUnit>
+<paraphrase>geometrische Form</paraphrase>
+</synset>
+<synset id="s15901" category="nomen" class="Form">
+<lexUnit id="l22068" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zwickel</orthForm>
+</lexUnit>
+<paraphrase>eine Form aus der sphärischen Geometrie</paraphrase>
+</synset>
+<synset id="s15936" category="nomen" class="Form">
+<lexUnit id="l22108" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hohlraum</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15937" category="nomen" class="Form">
+<lexUnit id="l22109" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kapillare</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15938" category="nomen" class="Form">
+<lexUnit id="l22110" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Winkel</orthForm>
+</lexUnit>
+<lexUnit id="l22111" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Winkelausdehnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15939" category="nomen" class="Form">
+<lexUnit id="l22112" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blattachsel</orthForm>
+</lexUnit>
+<paraphrase>Winkel an dem Blattoberseite und Sprossachse ineinander übergehen</paraphrase>
+</synset>
+<synset id="s15940" category="nomen" class="Form">
+<lexUnit id="l22113" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Anstellwinkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15941" category="nomen" class="Form">
+<lexUnit id="l22114" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Leere</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15942" category="nomen" class="Form">
+<lexUnit id="l22115" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Loch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15943" category="nomen" class="Form">
+<lexUnit id="l22116" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Beule</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15944" category="nomen" class="Form">
+<lexUnit id="l22117" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blase</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15945" category="nomen" class="Form">
+<lexUnit id="l22118" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gasblase</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15946" category="nomen" class="Form">
+<lexUnit id="l22119" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Seifenblase</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15947" category="nomen" class="Form">
+<lexUnit id="l22120" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Glasblase</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15948" category="nomen" class="Form">
+<lexUnit id="l22121" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Luftblase</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15949" category="nomen" class="Form">
+<lexUnit id="l22122" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tropfen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15950" category="nomen" class="Form">
+<lexUnit id="l22123" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kringel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15951" category="nomen" class="Form">
+<lexUnit id="l22124" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>physikalisches Attribut</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15952" category="nomen" class="Form">
+<lexUnit id="l22125" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15953" category="nomen" class="Form">
+<lexUnit id="l22126" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eigengewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15954" category="nomen" class="Form">
+<lexUnit id="l22127" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Raumgewicht</orthForm>
+</lexUnit>
+<lexUnit id="l97848" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rohdichte</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15955" category="nomen" class="Form">
+<lexUnit id="l22128" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Körpergewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15956" category="nomen" class="Form">
+<lexUnit id="l22129" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Leergewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15957" category="nomen" class="Form">
+<lexUnit id="l22130" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Leichtigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15958" category="nomen" class="Form">
+<lexUnit id="l22131" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schwere</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15959" category="nomen" class="Form">
+<lexUnit id="l22132" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Verpackungsgewicht</orthForm>
+</lexUnit>
+<lexUnit id="l22133" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tara</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15960" category="nomen" class="Form">
+<lexUnit id="l22134" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Abtropfgewicht</orthForm>
+</lexUnit>
+<paraphrase>Gewicht einer Dosenware ohne Lake</paraphrase>
+</synset>
+<synset id="s15961" category="nomen" class="Form">
+<lexUnit id="l22135" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Münzgewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15963" category="nomen" class="Form">
+<lexUnit id="l22137" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Masse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15964" category="nomen" class="Form">
+<lexUnit id="l22138" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Elektronenspin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15966" category="nomen" class="Form">
+<lexUnit id="l22141" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>physischer Zustand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15967" category="nomen" class="Form">
+<lexUnit id="l22142" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sauberkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15968" category="nomen" class="Form">
+<lexUnit id="l22143" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bauzustand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15969" category="nomen" class="Form">
+<lexUnit id="l22144" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Frische</orthForm>
+</lexUnit>
+<lexUnit id="l22145" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Frischheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15970" category="nomen" class="Form">
+<lexUnit id="l22146" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Reinheit</orthForm>
+</lexUnit>
+<lexUnit id="l22147" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Reine</orthForm>
+</lexUnit>
+<lexUnit id="l22148" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Reinform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15971" category="nomen" class="Form">
+<lexUnit id="l22149" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Unreinheit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15972" category="nomen" class="Form">
+<lexUnit id="l22150" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Makel</orthForm>
+</lexUnit>
+<lexUnit id="l22151" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schandfleck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15973" category="nomen" class="Form">
+<lexUnit id="l22152" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sterilität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15974" category="nomen" class="Form">
+<lexUnit id="l22153" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Giftigkeit</orthForm>
+</lexUnit>
+<lexUnit id="l22154" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Toxizität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15975" category="nomen" class="Form">
+<lexUnit id="l22155" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Insterilität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15976" category="nomen" class="Form">
+<lexUnit id="l22156" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Unsauberkeit</orthForm>
+</lexUnit>
+<lexUnit id="l22157" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dreckigkeit</orthForm>
+</lexUnit>
+<lexUnit id="l22158" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schmutzigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15977" category="nomen" class="Form">
+<lexUnit id="l22159" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Unerschlossenheit</orthForm>
+</lexUnit>
+<lexUnit id="l22160" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Unpassierbarkeit</orthForm>
+</lexUnit>
+<lexUnit id="l22161" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Unwegsamkeit</orthForm>
+</lexUnit>
+<lexUnit id="l22162" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Unzugänglichkeit</orthForm>
+</lexUnit>
+<paraphrase>von Gebieten</paraphrase>
+</synset>
+<synset id="s15978" category="nomen" class="Form">
+<lexUnit id="l22163" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wurmstichigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15979" category="nomen" class="Form">
+<lexUnit id="l22164" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Undichte</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15980" category="nomen" class="Form">
+<lexUnit id="l22165" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Aggregatzustand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15981" category="nomen" class="Form">
+<lexUnit id="l22166" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gasphase</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15982" category="nomen" class="Form">
+<lexUnit id="l22167" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Baufälligkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15983" category="nomen" class="Form">
+<lexUnit id="l22168" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ruhezustand</orthForm>
+</lexUnit>
+<lexUnit id="l22169" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Standby</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15987" category="nomen" class="Form">
+<lexUnit id="l22175" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zersetzung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15988" category="nomen" class="Form">
+<lexUnit id="l22176" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Verwitterung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15990" category="nomen" class="Form">
+<lexUnit id="l22179" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Korrosion</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15992" category="nomen" class="Form">
+<lexUnit id="l22181" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fäulnis</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15993" category="nomen" class="Form">
+<lexUnit id="l22182" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Abbau</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15994" category="nomen" class="Form">
+<lexUnit id="l22183" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mumifizierung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15997" category="nomen" class="Form">
+<lexUnit id="l22187" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Weißglut</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15998" category="nomen" class="Form">
+<lexUnit id="l22188" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Umrandung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15991" category="nomen" class="Form">
+<lexUnit id="l22180" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Auflösung</orthForm>
+</lexUnit>
+<paraphrase>der Vorgang des Zerfalls von etwas</paraphrase>
+</synset>
+<synset id="s15962" category="nomen" class="Form">
+<lexUnit id="l22136" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schrot</orthForm>
+</lexUnit>
+<paraphrase>das gesamte Gewicht einer Münze, die ein Edelmetall enthält</paraphrase>
+</synset>
+<synset id="s15986" category="nomen" class="Form">
+<lexUnit id="l22174" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Degeneration</orthForm>
+</lexUnit>
+<paraphrase>Verfall von Gewebe, Zellen, Organen</paraphrase>
+</synset>
+<synset id="s42847" category="nomen" class="Form">
+<lexUnit id="l62451" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Machtvakuum</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61382" category="nomen" class="Form">
+<lexUnit id="l86190" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Innendurchmesser</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61227" category="nomen" class="Form">
+<lexUnit id="l86003" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Portepee</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61245" category="nomen" class="Form">
+<lexUnit id="l86023" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Südosteck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61282" category="nomen" class="Form">
+<lexUnit id="l86062" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bläschen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61327" category="nomen" class="Form">
+<lexUnit id="l86119" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ellipsoid</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61335" category="nomen" class="Form">
+<lexUnit id="l86127" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kaverne</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61351" category="nomen" class="Form">
+<lexUnit id="l86148" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Alveole</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61492" category="nomen" class="Form">
+<lexUnit id="l86328" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Querlinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61558" category="nomen" class="Form">
+<lexUnit id="l86405" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nordwestrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61571" category="nomen" class="Form">
+<lexUnit id="l86422" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Querstreifen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61584" category="nomen" class="Form">
+<lexUnit id="l86436" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blütenfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61704" category="nomen" class="Form">
+<lexUnit id="l86624" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Körperlänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61741" category="nomen" class="Form">
+<lexUnit id="l86671" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kopfrumpflänge</orthForm>
+<orthVar>Kopf-Rumpf-Länge</orthVar>
+</lexUnit>
+</synset>
+<synset id="s61857" category="nomen" class="Form">
+<lexUnit id="l86831" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wettkampfgewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61863" category="nomen" class="Form">
+<lexUnit id="l86841" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Formatvorlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61885" category="nomen" class="Form">
+<lexUnit id="l86869" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vereinsfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62004" category="nomen" class="Form">
+<lexUnit id="l87027" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zuschauerkapazität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62063" category="nomen" class="Form">
+<lexUnit id="l87094" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eindringtiefe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62122" category="nomen" class="Form">
+<lexUnit id="l87171" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kreuzform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62140" category="nomen" class="Form">
+<lexUnit id="l87191" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bausch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62162" category="nomen" class="Form">
+<lexUnit id="l87217" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bildschirmrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62192" category="nomen" class="Form">
+<lexUnit id="l87253" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Farbtiefe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62206" category="nomen" class="Form">
+<lexUnit id="l87269" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blattform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62244" category="nomen" class="Form">
+<lexUnit id="l87315" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Auswaschung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62325" category="nomen" class="Form">
+<lexUnit id="l87402" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hauptachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62326" category="nomen" class="Form">
+<lexUnit id="l87403" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Halbachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62331" category="nomen" class="Form">
+<lexUnit id="l87410" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Druckkörper</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62345" category="nomen" class="Form">
+<lexUnit id="l87425" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rektaszension</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62351" category="nomen" class="Form">
+<lexUnit id="l87431" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lichtraumprofil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62372" category="nomen" class="Form">
+<lexUnit id="l87456" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Perforation</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62497" category="nomen" class="Form">
+<lexUnit id="l87595" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Karosserieform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62523" category="nomen" class="Form">
+<lexUnit id="l87623" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mauerstärke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62644" category="nomen" class="Form">
+<lexUnit id="l87759" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Außenkante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62645" category="nomen" class="Form">
+<lexUnit id="l87760" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Meerestiefe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62732" category="nomen" class="Form">
+<lexUnit id="l87858" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stadtgrundriss</orthForm>
+<oldOrthForm>Stadtgrundriß</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s62750" category="nomen" class="Form">
+<lexUnit id="l87879" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schienenoberkante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62758" category="nomen" class="Form">
+<lexUnit id="l87888" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Durchstich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62779" category="nomen" class="Form">
+<lexUnit id="l87910" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tonnage</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62790" category="nomen" class="Form">
+<lexUnit id="l87923" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Parallaxe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62813" category="nomen" class="Form">
+<lexUnit id="l87952" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kimme</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62815" category="nomen" class="Form">
+<lexUnit id="l87955" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Außendurchmesser</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62857" category="nomen" class="Form">
+<lexUnit id="l87998" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bezugsgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62897" category="nomen" class="Form">
+<lexUnit id="l88043" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Oktogon</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62903" category="nomen" class="Form">
+<lexUnit id="l88049" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zuchtform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62969" category="nomen" class="Form">
+<lexUnit id="l88123" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Entwässerungsgraben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63001" category="nomen" class="Form">
+<lexUnit id="l88156" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Magenta</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62808" category="nomen" class="Form">
+<lexUnit id="l87944" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Inklusion</orthForm>
+</lexUnit>
+<paraphrase>Einschluss von andersartigen Mineralien in einem weiteren Mineral </paraphrase>
+</synset>
+<synset id="s63014" category="nomen" class="Form">
+<lexUnit id="l88170" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Transportkapazität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63025" category="nomen" class="Form">
+<lexUnit id="l88182" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stammdurchmesser</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63116" category="nomen" class="Form">
+<lexUnit id="l88291" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vorderrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63139" category="nomen" class="Form">
+<lexUnit id="l88316" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Langform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63157" category="nomen" class="Form">
+<lexUnit id="l88337" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wellenform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63245" category="nomen" class="Form">
+<lexUnit id="l88442" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Buchvorlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63354" category="nomen" class="Form">
+<lexUnit id="l88579" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Neigungswinkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63433" category="nomen" class="Form">
+<lexUnit id="l88675" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ronde</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63524" category="nomen" class="Form">
+<lexUnit id="l88783" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rückenlinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63582" category="nomen" class="Form">
+<lexUnit id="l88848" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Äquatorebene</orthForm>
+</lexUnit>
+<lexUnit id="l88850" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Äquatorialebene</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63598" category="nomen" class="Form">
+<lexUnit id="l88866" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nordostrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63618" category="nomen" class="Form">
+<lexUnit id="l88890" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Planquadrat</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63619" category="nomen" class="Form">
+<lexUnit id="l88891" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Marineplanquadrat</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63678" category="nomen" class="Form">
+<lexUnit id="l88963" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Südostrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63694" category="nomen" class="Form">
+<lexUnit id="l88981" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bildwinkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63700" category="nomen" class="Form">
+<lexUnit id="l88989" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hintergrundfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63775" category="nomen" class="Form">
+<lexUnit id="l89079" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Landschaftsform</orthForm>
+</lexUnit>
+<lexUnit id="l89080" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Landform</orthForm>
+</lexUnit>
+<lexUnit id="l89081" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Geländeform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63849" category="nomen" class="Form">
+<lexUnit id="l89167" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Talrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63710" category="nomen" class="Form">
+<lexUnit id="l89000" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Straßenecke</orthForm>
+</lexUnit>
+<lexUnit id="l100103" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ecke</orthForm>
+</lexUnit>
+<paraphrase>Stelle, an der zwei Straßen zusammenstoßen</paraphrase>
+</synset>
+<synset id="s63891" category="nomen" class="Form">
+<lexUnit id="l89215" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Einheitskreis</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63937" category="nomen" class="Form">
+<lexUnit id="l89271" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Windlade</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63986" category="nomen" class="Form">
+<lexUnit id="l89331" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Unterkante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64039" category="nomen" class="Form">
+<lexUnit id="l89392" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Südwestrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64167" category="nomen" class="Form">
+<lexUnit id="l89541" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Farbgestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64186" category="nomen" class="Form">
+<lexUnit id="l89564" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kühlkörper</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64240" category="nomen" class="Form">
+<lexUnit id="l89633" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Teilbaum</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64299" category="nomen" class="Form">
+<lexUnit id="l89704" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Aalstrich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64381" category="nomen" class="Form">
+<lexUnit id="l89798" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Programmgestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64446" category="nomen" class="Form">
+<lexUnit id="l89880" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Körperfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64557" category="nomen" class="Form">
+<lexUnit id="l90012" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Abfluggewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64569" category="nomen" class="Form">
+<lexUnit id="l90026" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Alpenrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64583" category="nomen" class="Form">
+<lexUnit id="l90041" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bahnsteigkante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64698" category="nomen" class="Form">
+<lexUnit id="l90168" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Äußerlichkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64699" category="nomen" class="Form">
+<lexUnit id="l90169" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Molassehöhe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64714" category="nomen" class="Form">
+<lexUnit id="l90186" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kopfform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64723" category="nomen" class="Form">
+<lexUnit id="l90196" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Einfallswinkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64730" category="nomen" class="Form">
+<lexUnit id="l90203" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eigenvektor</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64756" category="nomen" class="Form">
+<lexUnit id="l90231" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kugelform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64807" category="nomen" class="Form">
+<lexUnit id="l90293" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kugeloberfläche</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64861" category="nomen" class="Form">
+<lexUnit id="l90355" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Weglänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64946" category="nomen" class="Form">
+<lexUnit id="l90452" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Frühform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64951" category="nomen" class="Form">
+<lexUnit id="l90457" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>3-D-Modell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65102" category="nomen" class="Form">
+<lexUnit id="l90629" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schusslinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65162" category="nomen" class="Form">
+<lexUnit id="l90698" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Papierform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65242" category="nomen" class="Form">
+<lexUnit id="l90792" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hauptebene</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65286" category="nomen" class="Form">
+<lexUnit id="l90842" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Koordinatenachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65331" category="nomen" class="Form">
+<lexUnit id="l90897" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Achse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65333" category="nomen" class="Form">
+<lexUnit id="l90899" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hochachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s8884" category="nomen" class="Form">
+<lexUnit id="l12521" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>X-Achse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s8887" category="nomen" class="Form">
+<lexUnit id="l12524" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Längsachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65388" category="nomen" class="Form">
+<lexUnit id="l90965" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zinnenkranz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65390" category="nomen" class="Form">
+<lexUnit id="l90967" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blocksatz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65468" category="nomen" class="Form">
+<lexUnit id="l91056" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rumpfform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65603" category="nomen" class="Form">
+<lexUnit id="l91232" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Öffnungswinkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65639" category="nomen" class="Form">
+<lexUnit id="l91278" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gesamtgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65645" category="nomen" class="Form">
+<lexUnit id="l91286" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gegengerade</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65884" category="nomen" class="Form">
+<lexUnit id="l91555" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mindestgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65972" category="nomen" class="Form">
+<lexUnit id="l91664" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lünette</orthForm>
+</lexUnit>
+<lexUnit id="l91665" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lunette</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65989" category="nomen" class="Form">
+<lexUnit id="l91685" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wellenfront</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66102" category="nomen" class="Form">
+<lexUnit id="l91814" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Serife</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66114" category="nomen" class="Form">
+<lexUnit id="l91830" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Linearkombination</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66171" category="nomen" class="Form">
+<lexUnit id="l91895" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bänderung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66172" category="nomen" class="Form">
+<lexUnit id="l91896" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Leibeshöhle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66225" category="nomen" class="Form">
+<lexUnit id="l91957" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dachfirst</orthForm>
+</lexUnit>
+<lexUnit id="l91958" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>First</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66230" category="nomen" class="Form">
+<lexUnit id="l91963" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kategoriebaum</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66346" category="nomen" class="Form">
+<lexUnit id="l92101" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bahnebene</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66379" category="nomen" class="Form">
+<lexUnit id="l92140" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Drehwinkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66464" category="nomen" class="Form">
+<lexUnit id="l92231" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gitterebene</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66465" category="nomen" class="Form">
+<lexUnit id="l92232" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Netzebene</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66475" category="nomen" class="Form">
+<lexUnit id="l92243" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kegelschnitt</orthForm>
+</lexUnit>
+<lexUnit id="l96524" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hyperbel</orthForm>
+</lexUnit>
+<paraphrase>eine Kurve in der Geometrie, deren Arme sich symmetrisch ins Unendliche erstrecken</paraphrase>
+</synset>
+<synset id="s66551" category="nomen" class="Form">
+<lexUnit id="l92334" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kettenlänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66582" category="nomen" class="Form">
+<lexUnit id="l92370" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Seitenrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66616" category="nomen" class="Form">
+<lexUnit id="l92405" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Konus</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66626" category="nomen" class="Form">
+<lexUnit id="l92416" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lebensgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66642" category="nomen" class="Form">
+<lexUnit id="l92434" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grundkörper</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66665" category="nomen" class="Form">
+<lexUnit id="l92463" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gesamtstärke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66666" category="nomen" class="Form">
+<lexUnit id="l92464" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Basisvektor</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66670" category="nomen" class="Form">
+<lexUnit id="l92468" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Resonanzkörper</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66814" category="nomen" class="Form">
+<lexUnit id="l92625" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Festungsgraben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66767" category="nomen" class="Form">
+<lexUnit id="l92576" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Höhenwinkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66770" category="nomen" class="Form">
+<lexUnit id="l92579" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sandsteinquader</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66797" category="nomen" class="Form">
+<lexUnit id="l92607" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ortsvektor</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67031" category="nomen" class="Form">
+<lexUnit id="l92865" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pollenkorn</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67225" category="nomen" class="Form">
+<lexUnit id="l93088" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Querschnittsfläche</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67237" category="nomen" class="Form">
+<lexUnit id="l93101" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eisblock</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67260" category="nomen" class="Form">
+<lexUnit id="l93133" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gesamtkapazität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67270" category="nomen" class="Form">
+<lexUnit id="l93145" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ausstülpung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67378" category="nomen" class="Form">
+<lexUnit id="l93274" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Höhenlinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67423" category="nomen" class="Form">
+<lexUnit id="l93326" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kreisprozess</orthForm>
+<oldOrthForm>Kreisprozeß</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s67539" category="nomen" class="Form">
+<lexUnit id="l93456" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schriftgrad</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67451" category="nomen" class="Form">
+<lexUnit id="l93355" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Uferrandstreifen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67462" category="nomen" class="Form">
+<lexUnit id="l93368" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hinterkante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67661" category="nomen" class="Form">
+<lexUnit id="l93602" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Azimut</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67699" category="nomen" class="Form">
+<lexUnit id="l93645" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zwischenform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67719" category="nomen" class="Form">
+<lexUnit id="l93669" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hinterrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67861" category="nomen" class="Form">
+<lexUnit id="l93844" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Braunton</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67923" category="nomen" class="Form">
+<lexUnit id="l93917" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spielfeldrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68027" category="nomen" class="Form">
+<lexUnit id="l94037" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Megalith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68090" category="nomen" class="Form">
+<lexUnit id="l94114" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Überlänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68151" category="nomen" class="Form">
+<lexUnit id="l94185" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Z-Achse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68152" category="nomen" class="Form">
+<lexUnit id="l94186" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Y-Achse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68247" category="nomen" class="Form">
+<lexUnit id="l94295" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Buckelquader</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15679" category="nomen" class="Form">
+<lexUnit id="l21815" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Abmessung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15680" category="nomen" class="Form">
+<lexUnit id="l21816" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ausdehnung</orthForm>
+</lexUnit>
+<lexUnit id="l21817" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rauminhalt</orthForm>
+</lexUnit>
+<lexUnit id="l21818" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Volumen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15678" category="nomen" class="Form">
+<lexUnit id="l21813" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dimension</orthForm>
+</lexUnit>
+<lexUnit id="l21814" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ausmaß</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15683" category="nomen" class="Form">
+<lexUnit id="l21822" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Durchmesser</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15566" category="nomen" class="Form">
+<lexUnit id="l21678" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Elastizität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15589" category="nomen" class="Form">
+<lexUnit id="l21702" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Farbton</orthForm>
+<example><text>Der Farbton ist – neben Helligkeit und Farbsättigung – eine der drei vom Menschen als grundlegend empfundenen Eigenschaften einer Farbe.</text></example>
+</lexUnit>
+<lexUnit id="l103265" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ton</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15692" category="nomen" class="Form">
+<lexUnit id="l21831" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fassungsvermögen</orthForm>
+<example><text>Das Karaiskakis-Stadion ist ein Fußballstadion in Piräus mit einem Fassungsvermögen von 33.300 Plätzen.</text></example>
+</lexUnit>
+</synset>
+<synset id="s15690" category="nomen" class="Form">
+<lexUnit id="l21829" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Frachtkapazität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15614" category="nomen" class="Form">
+<lexUnit id="l21731" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gestaltung</orthForm>
+</lexUnit>
+<lexUnit id="l21732" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ausgestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15676" category="nomen" class="Form">
+<lexUnit id="l21811" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Haardichte</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15587" category="nomen" class="Form">
+<lexUnit id="l21700" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hahnentritt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15569" category="nomen" class="Form">
+<lexUnit id="l21681" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Härte</orthForm>
+</lexUnit>
+<lexUnit id="l21682" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Festigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15696" category="nomen" class="Form">
+<lexUnit id="l21835" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Jahreskapazität</orthForm>
+<example><text>1997 geht in Bratislava (Slowakei ) das dritte EPS-Werk in Osteuropa, mit einer Jahreskapazität von 200.000 m³, in Betrieb.</text></example>
+</lexUnit>
+</synset>
+<synset id="s15625" category="nomen" class="Form">
+<lexUnit id="l21743" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kornform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15693" category="nomen" class="Form">
+<lexUnit id="l21832" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ladekapazität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15586" category="nomen" class="Form">
+<lexUnit id="l21699" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Längsstreifen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15661" category="nomen" class="Form">
+<lexUnit id="l21786" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lasur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15585" category="nomen" class="Form">
+<lexUnit id="l21698" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mittelstreifen</orthForm>
+<example><text>Der Berliner Bär ist ein Bronze denkmal im Mittelstreifen der Autobahn A 9 .</text></example>
+</lexUnit>
+</synset>
+<synset id="s15790" category="nomen" class="Form">
+<lexUnit id="l21936" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Polyeder</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15932" category="nomen" class="Form">
+<lexUnit id="l22104" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Saum</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15709" category="nomen" class="Form">
+<lexUnit id="l21848" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Saumlänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15786" category="nomen" class="Form">
+<lexUnit id="l21931" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schachtsohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15777" category="nomen" class="Form">
+<lexUnit id="l21919" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schrägstrich</orthForm>
+</lexUnit>
+<lexUnit id="l21920" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Querstrich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15591" category="nomen" class="Form">
+<lexUnit id="l21704" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spektralfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15727" category="nomen" class="Form">
+<lexUnit id="l21866" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tiefgang</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15682" category="nomen" class="Form">
+<lexUnit id="l21821" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Umfang</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15665" category="nomen" class="Form">
+<lexUnit id="l21792" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Verschalung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15571" category="nomen" class="Form">
+<lexUnit id="l21684" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wasserhärte</orthForm>
+</lexUnit>
+</synset>
+<synset id="s15760" category="nomen" class="Form">
+<lexUnit id="l21900" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zackenlinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68282" category="nomen" class="Form">
+<lexUnit id="l94336" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lichtfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68521" category="nomen" class="Form">
+<lexUnit id="l94612" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Artikelform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68570" category="nomen" class="Form">
+<lexUnit id="l94668" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kristallkugel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68648" category="nomen" class="Form">
+<lexUnit id="l94762" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Suchbaum</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68681" category="nomen" class="Form">
+<lexUnit id="l94800" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Flügellänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68687" category="nomen" class="Form">
+<lexUnit id="l94807" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schliere</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68864" category="nomen" class="Form">
+<lexUnit id="l95009" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stirnfläche</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68883" category="nomen" class="Form">
+<lexUnit id="l95028" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erdfigur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68930" category="nomen" class="Form">
+<lexUnit id="l95077" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Abbruchkante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69019" category="nomen" class="Form">
+<lexUnit id="l95177" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erdellipsoid</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69054" category="nomen" class="Form">
+<lexUnit id="l95216" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Quintenzirkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69206" category="nomen" class="Form">
+<lexUnit id="l95387" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bodenwelle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69227" category="nomen" class="Form">
+<lexUnit id="l95411" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Primärfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69228" category="nomen" class="Form">
+<lexUnit id="l95412" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>V-Stellung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69303" category="nomen" class="Form">
+<lexUnit id="l95499" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kreisform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69326" category="nomen" class="Form">
+<lexUnit id="l95523" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Körperhöhle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69404" category="nomen" class="Form">
+<lexUnit id="l95611" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wandverkleidung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69409" category="nomen" class="Form">
+<lexUnit id="l95616" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tiergestalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69540" category="nomen" class="Form">
+<lexUnit id="l95765" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>V-Form</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69590" category="nomen" class="Form">
+<lexUnit id="l95819" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hangkante</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69595" category="nomen" class="Form">
+<lexUnit id="l95824" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Noppe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69619" category="nomen" class="Form">
+<lexUnit id="l95850" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Normalenvektor</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69728" category="nomen" class="Form">
+<lexUnit id="l95970" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Druckvorlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69746" category="nomen" class="Form">
+<lexUnit id="l95990" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lizenzvorlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69848" category="nomen" class="Form">
+<lexUnit id="l96104" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Populationsgröße</orthForm>
+</lexUnit>
+<paraphrase>gibt die Anzahl der Individuen an, die einer Population angehören</paraphrase>
+</synset>
+<synset id="s69943" category="nomen" class="Form">
+<lexUnit id="l96212" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schiffsmodell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69959" category="nomen" class="Form">
+<lexUnit id="l96231" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dreiecksform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69963" category="nomen" class="Form">
+<lexUnit id="l96237" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Talfurche</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70033" category="nomen" class="Form">
+<lexUnit id="l96321" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tarnmuster</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70095" category="nomen" class="Form">
+<lexUnit id="l96392" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Soll-Stärke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70102" category="nomen" class="Form">
+<lexUnit id="l96400" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Arzneiform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70104" category="nomen" class="Form">
+<lexUnit id="l96404" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Druckfestigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70106" category="nomen" class="Form">
+<lexUnit id="l96406" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Luftspalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70125" category="nomen" class="Form">
+<lexUnit id="l96425" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Steinquader</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70145" category="nomen" class="Form">
+<lexUnit id="l96449" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erdkrümmung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70148" category="nomen" class="Form">
+<lexUnit id="l96452" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wanddicke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70208" category="nomen" class="Form">
+<lexUnit id="l96516" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pünktchen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70216" category="nomen" class="Form">
+<lexUnit id="l96527" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Artikelzustand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70285" category="nomen" class="Form">
+<lexUnit id="l96604" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ausbauzustand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70346" category="nomen" class="Form">
+<lexUnit id="l96675" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gletscherspalte</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70365" category="nomen" class="Form">
+<lexUnit id="l96698" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nutzlastkapazität</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70497" category="nomen" class="Form">
+<lexUnit id="l96845" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pulverform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70512" category="nomen" class="Form">
+<lexUnit id="l96860" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Teilungslinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70679" category="nomen" class="Form">
+<lexUnit id="l97071" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Augenwinkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70686" category="nomen" class="Form">
+<lexUnit id="l97078" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Einheitsvektor</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70761" category="nomen" class="Form">
+<lexUnit id="l97167" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Filmebene</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70847" category="nomen" class="Form">
+<lexUnit id="l97266" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Durchgangsachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70947" category="nomen" class="Form">
+<lexUnit id="l97384" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erdradius</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70966" category="nomen" class="Form">
+<lexUnit id="l97403" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Flügelprofil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71011" category="nomen" class="Form">
+<lexUnit id="l97455" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Winkeldurchmesser</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71120" category="nomen" class="Form">
+<lexUnit id="l97582" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Geländeform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71235" category="nomen" class="Form">
+<lexUnit id="l97716" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kreisfläche</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71436" category="nomen" class="Form">
+<lexUnit id="l97942" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fassadengestaltung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71442" category="nomen" class="Form">
+<lexUnit id="l97950" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schachbrettmuster</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71595" category="nomen" class="Form">
+<lexUnit id="l98132" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Einwölbung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71683" category="nomen" class="Form">
+<lexUnit id="l98242" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trennstrich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71698" category="nomen" class="Form">
+<lexUnit id="l98258" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Abstammungslinie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71715" category="nomen" class="Form">
+<lexUnit id="l98277" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Unterstreichung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71720" category="nomen" class="Form">
+<lexUnit id="l98282" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Standardform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71821" category="nomen" class="Form">
+<lexUnit id="l98400" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schichtstufe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71872" category="nomen" class="Form">
+<lexUnit id="l98460" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Strichstärke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71887" category="nomen" class="Form">
+<lexUnit id="l98478" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ruhemasse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71991" category="nomen" class="Form">
+<lexUnit id="l98600" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Brikett</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72010" category="nomen" class="Form">
+<lexUnit id="l98626" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eipulver</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72051" category="nomen" class="Form">
+<lexUnit id="l98684" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Doppelkreuz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72054" category="nomen" class="Form">
+<lexUnit id="l98688" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Farbkreis</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72063" category="nomen" class="Form">
+<lexUnit id="l98700" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Murmel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72099" category="nomen" class="Form">
+<lexUnit id="l98744" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Innenrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72102" category="nomen" class="Form">
+<lexUnit id="l98748" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Körperachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72112" category="nomen" class="Form">
+<lexUnit id="l98764" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hohlkehle</orthForm>
+</lexUnit>
+<lexUnit id="l102152" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kehle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72195" category="nomen" class="Form">
+<lexUnit id="l98866" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Cyan</orthForm>
+<orthVar>Zyan</orthVar>
+</lexUnit>
+</synset>
+<synset id="s72224" category="nomen" class="Form">
+<lexUnit id="l98899" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schuhgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72233" category="nomen" class="Form">
+<lexUnit id="l98910" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Einheitskugel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72239" category="nomen" class="Form">
+<lexUnit id="l98917" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Raumdimension</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72252" category="nomen" class="Form">
+<lexUnit id="l98934" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Interferenzmuster</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72334" category="nomen" class="Form">
+<lexUnit id="l99027" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spitzgraben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72339" category="nomen" class="Form">
+<lexUnit id="l99034" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lauflänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72348" category="nomen" class="Form">
+<lexUnit id="l99043" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Symmetrieachse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72361" category="nomen" class="Form">
+<lexUnit id="l99061" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bonsai</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72383" category="nomen" class="Form">
+<lexUnit id="l99084" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kuppel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72384" category="nomen" class="Form">
+<lexUnit id="l99085" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalotte</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72440" category="nomen" class="Form">
+<lexUnit id="l99154" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Geophyt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72461" category="nomen" class="Form">
+<lexUnit id="l99176" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Steuerfläche</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72515" category="nomen" class="Form">
+<lexUnit id="l99239" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Neuneck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72552" category="nomen" class="Form">
+<lexUnit id="l99281" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dachform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72574" category="nomen" class="Form">
+<lexUnit id="l99311" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Granitblock</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72611" category="nomen" class="Form">
+<lexUnit id="l99354" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Purpur</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72634" category="nomen" class="Form">
+<lexUnit id="l99381" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Textvorlage</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72850" category="nomen" class="Form">
+<lexUnit id="l99633" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schiffsgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72948" category="nomen" class="Form">
+<lexUnit id="l99751" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ader</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72977" category="nomen" class="Form">
+<lexUnit id="l99787" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wurfgröße</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73125" category="nomen" class="Form">
+<lexUnit id="l99957" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Auge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73174" category="nomen" class="Form">
+<lexUnit id="l100015" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bogen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73178" category="nomen" class="Form">
+<lexUnit id="l100019" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bruch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68894" category="nomen" class="Form">
+<lexUnit id="l95039" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stammform</orthForm>
+</lexUnit>
+<paraphrase>der äußere Umriss eines Baumstammes</paraphrase>
+</synset>
+<synset id="s70090" category="nomen" class="Form">
+<lexUnit id="l96387" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Osmose</orthForm>
+</lexUnit>
+<paraphrase>die Wanderung von Molekülen durch semipermeable Membranen</paraphrase>
+</synset>
+<synset id="s73230" category="nomen" class="Form">
+<lexUnit id="l100092" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Druse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73231" category="nomen" class="Form">
+<lexUnit id="l100093" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Duktus</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73239" category="nomen" class="Form">
+<lexUnit id="l100105" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ei</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73284" category="nomen" class="Form">
+<lexUnit id="l100156" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spitzigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73318" category="nomen" class="Form">
+<lexUnit id="l100200" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erhöhung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73367" category="nomen" class="Form">
+<lexUnit id="l100258" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rohrlänge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73484" category="nomen" class="Form">
+<lexUnit id="l100409" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kurve</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73494" category="nomen" class="Form">
+<lexUnit id="l100420" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Raumwinkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73520" category="nomen" class="Form">
+<lexUnit id="l100454" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Höchstgewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73528" category="nomen" class="Form">
+<lexUnit id="l100463" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hufeisenform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73529" category="nomen" class="Form">
+<lexUnit id="l100464" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Phasenwinkel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73566" category="nomen" class="Form">
+<lexUnit id="l100506" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wandnische</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73818" category="nomen" class="Form">
+<lexUnit id="l100804" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Außenrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73883" category="nomen" class="Form">
+<lexUnit id="l100888" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bildebene</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73888" category="nomen" class="Form">
+<lexUnit id="l100893" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Binge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73895" category="nomen" class="Form">
+<lexUnit id="l100901" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blattrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73912" category="nomen" class="Form">
+<lexUnit id="l100920" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Halsgraben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73990" category="nomen" class="Form">
+<lexUnit id="l101030" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zyste</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74005" category="nomen" class="Form">
+<lexUnit id="l101048" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zifferblatt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74080" category="nomen" class="Form">
+<lexUnit id="l101140" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nordosteck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74094" category="nomen" class="Form">
+<lexUnit id="l101159" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nordwesteck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74101" category="nomen" class="Form">
+<lexUnit id="l101169" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Obereck</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74145" category="nomen" class="Form">
+<lexUnit id="l101226" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ordnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74167" category="nomen" class="Form">
+<lexUnit id="l101257" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schichtdicke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74211" category="nomen" class="Form">
+<lexUnit id="l101309" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schrägbalken</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74230" category="nomen" class="Form">
+<lexUnit id="l101331" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schwemmkegel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74417" category="nomen" class="Form">
+<lexUnit id="l101556" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grat</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74419" category="nomen" class="Form">
+<lexUnit id="l101558" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Startgewicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74425" category="nomen" class="Form">
+<lexUnit id="l101567" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Steifigkeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74564" category="nomen" class="Form">
+<lexUnit id="l101732" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Halbmond</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74605" category="nomen" class="Form">
+<lexUnit id="l101782" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Resonator</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74669" category="nomen" class="Form">
+<lexUnit id="l101878" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hygiene</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74730" category="nomen" class="Form">
+<lexUnit id="l101952" sense="1" source="core" namedEntity="yes" artificial="no" styleMarking="no">
+<orthForm>Jurahöhe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74829" category="nomen" class="Form">
+<lexUnit id="l102085" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kassette</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74863" category="nomen" class="Form">
+<lexUnit id="l102131" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kopf-Rumpf-Länge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74871" category="nomen" class="Form">
+<lexUnit id="l102139" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kakao</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74874" category="nomen" class="Form">
+<lexUnit id="l102143" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kammer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74890" category="nomen" class="Form">
+<lexUnit id="l102165" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kippe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74901" category="nomen" class="Form">
+<lexUnit id="l102178" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Verschlingung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74902" category="nomen" class="Form">
+<lexUnit id="l102179" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Knoten</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74919" category="nomen" class="Form">
+<lexUnit id="l102207" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kraterrand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74936" category="nomen" class="Form">
+<lexUnit id="l102229" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Korpus</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74939" category="nomen" class="Form">
+<lexUnit id="l102232" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kostenträger</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74957" category="nomen" class="Form">
+<lexUnit id="l102251" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kurvenradius</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74961" category="nomen" class="Form">
+<lexUnit id="l102257" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Krater</orthForm>
+</lexUnit>
+<lexUnit id="l102258" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vulkankrater</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74964" category="nomen" class="Form">
+<lexUnit id="l102261" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kreisel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75140" category="nomen" class="Form">
+<lexUnit id="l102489" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lot</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75181" category="nomen" class="Form">
+<lexUnit id="l102538" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kreisbogen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75233" category="nomen" class="Form">
+<lexUnit id="l102606" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mischung</orthForm>
+</lexUnit>
+<lexUnit id="l102607" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gemisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75296" category="nomen" class="Form">
+<lexUnit id="l102691" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nadelöhr</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75380" category="nomen" class="Form">
+<lexUnit id="l102795" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tauchtiefe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75441" category="nomen" class="Form">
+<lexUnit id="l102871" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Turmhelm</orthForm>
+</lexUnit>
+<lexUnit id="l102873" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Helmdach</orthForm>
+</lexUnit>
+<lexUnit id="l102874" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dachhelm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75566" category="nomen" class="Form">
+<lexUnit id="l103045" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vierung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75591" category="nomen" class="Form">
+<lexUnit id="l103074" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wagenfarbe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75608" category="nomen" class="Form">
+<lexUnit id="l103095" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wallgraben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75631" category="nomen" class="Form">
+<lexUnit id="l103122" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Prisma</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75634" category="nomen" class="Form">
+<lexUnit id="l103127" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wellenbalken</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75828" category="nomen" class="Form">
+<lexUnit id="l103370" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trichter</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75868" category="nomen" class="Form">
+<lexUnit id="l103423" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schlitz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75873" category="nomen" class="Form">
+<lexUnit id="l103433" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schnecke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75876" category="nomen" class="Form">
+<lexUnit id="l103439" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schneide</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75911" category="nomen" class="Form">
+<lexUnit id="l103497" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Typographie</orthForm>
+</lexUnit>
+<lexUnit id="l103498" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Typografie</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75922" category="nomen" class="Form">
+<lexUnit id="l103516" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Seite</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75928" category="nomen" class="Form">
+<lexUnit id="l103525" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Umbau</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75938" category="nomen" class="Form">
+<lexUnit id="l103538" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sinus</orthForm>
+</lexUnit>
+</synset>
+<synset id="s76015" category="nomen" class="Form">
+<lexUnit id="l103625" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Untiefe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s76041" category="nomen" class="Form">
+<lexUnit id="l103659" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Strahl</orthForm>
+</lexUnit>
+</synset>
+<synset id="s76077" category="nomen" class="Form">
+<lexUnit id="l103705" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vakuum</orthForm>
+</lexUnit>
+</synset>
+<synset id="s76095" category="nomen" class="Form">
+<lexUnit id="l103728" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wattebausch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s76096" category="nomen" class="Form">
+<lexUnit id="l103729" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tampon</orthForm>
+</lexUnit>
+</synset>
+<synset id="s76130" category="nomen" class="Form">
+<lexUnit id="l103777" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zeichnung</orthForm>
+</lexUnit>
+</synset>
+<synset id="s76182" category="nomen" class="Form">
+<lexUnit id="l103846" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zuckerhut</orthForm>
+</lexUnit>
+</synset>
+<synset id="s76185" category="nomen" class="Form">
+<lexUnit id="l103851" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zug</orthForm>
+</lexUnit>
+</synset>
+</synsets>

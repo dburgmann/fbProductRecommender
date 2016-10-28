@@ -1,0 +1,33 @@
+<!-- DTD for GermaNet lexical objects -->
+<!-- Version 2.0, December 2009 -->
+<!-- Last update: May 2012 -->
+<!-- Copyright: Department of General and Computational Linguistics, Tuebingen University -->
+
+<!ELEMENT synsets     (synset+)>
+
+<!ELEMENT synset      (lexUnit+, paraphrase?)>
+<!ATTLIST synset      id           ID                 #REQUIRED
+                      category     (adj|nomen|verben) #REQUIRED
+                      class        (Allgemein|Bewegung|Gefuehl|Geist|Gesellschaft|Koerper|Menge|
+                      natPhaenomen|Ort|Pertonym|Perzeption|privativ|Relation|Substanz|Verhalten|
+                      Zeit|Artefakt|Attribut|Besitz|Form|Geschehen|Gruppe|Kognition|Kommunikation|
+                      Mensch|Motiv|Nahrung|natGegenstand|Pflanze|Tier|Tops|Koerperfunktion|
+                      Konkurrenz|Kontakt|Lokation|Schoepfung|Veraenderung|Verbrauch)              #REQUIRED>
+
+<!ELEMENT lexUnit     (orthForm, orthVar?, oldOrthForm?, oldOrthVar?, frame*, example*)>
+<!ATTLIST lexUnit     id           ID       #REQUIRED
+                      sense        CDATA    #REQUIRED
+                      source       CDATA    #REQUIRED
+                      namedEntity  (yes|no) #REQUIRED
+                      artificial   (yes|no) #REQUIRED
+                      styleMarking (yes|no) #REQUIRED>
+
+<!ELEMENT orthForm    (#PCDATA)>
+<!ELEMENT orthVar     (#PCDATA)>
+<!ELEMENT oldOrthForm (#PCDATA)>
+<!ELEMENT oldOrthVar  (#PCDATA)>
+<!ELEMENT paraphrase  (#PCDATA)>
+<!ELEMENT example     (text, exframe?)>
+<!ELEMENT text        (#PCDATA)>
+<!ELEMENT frame       (#PCDATA)>
+<!ELEMENT exframe     (#PCDATA)>

@@ -1,0 +1,2336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd">
+<synsets>
+<synset id="s1649" category="adj" class="Koerper">
+<lexUnit id="l2544" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>körperspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1650" category="adj" class="Koerper">
+<lexUnit id="l2545" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anatomisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1651" category="adj" class="Koerper">
+<lexUnit id="l2546" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>belebtheitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1652" category="adj" class="Koerper">
+<lexUnit id="l2547" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tot</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1653" category="adj" class="Koerper">
+<lexUnit id="l2548" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mausetot</orthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s1654" category="adj" class="Koerper">
+<lexUnit id="l2549" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>leblos</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1655" category="adj" class="Koerper">
+<lexUnit id="l2550" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>entseelt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1656" category="adj" class="Koerper">
+<lexUnit id="l2551" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verstorben</orthForm>
+</lexUnit>
+<lexUnit id="l2552" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>verblichen</orthForm>
+</lexUnit>
+<lexUnit id="l2553" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>verschieden</orthForm>
+</lexUnit>
+<lexUnit id="l2554" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gestorben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1657" category="adj" class="Koerper">
+<lexUnit id="l2555" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lebendig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1658" category="adj" class="Koerper">
+<lexUnit id="l2556" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lebend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1659" category="adj" class="Koerper">
+<lexUnit id="l2557" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>belebt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1660" category="adj" class="Koerper">
+<lexUnit id="l2558" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>konstitutionsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1661" category="adj" class="Koerper">
+<lexUnit id="l2559" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stark</orthForm>
+</lexUnit>
+<lexUnit id="l2560" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kräftig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1662" category="adj" class="Koerper">
+<lexUnit id="l2561" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zäh</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1663" category="adj" class="Koerper">
+<lexUnit id="l2562" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>widerstandsfähig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1664" category="adj" class="Koerper">
+<lexUnit id="l2563" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hart</orthForm>
+</lexUnit>
+<lexUnit id="l2564" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgehärtet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1665" category="adj" class="Koerper">
+<lexUnit id="l2565" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unverwüstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1666" category="adj" class="Koerper">
+<lexUnit id="l2566" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>robust</orthForm>
+</lexUnit>
+<lexUnit id="l2567" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vital</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1667" category="adj" class="Koerper">
+<lexUnit id="l2568" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>belastbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1668" category="adj" class="Koerper">
+<lexUnit id="l2569" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kraftvoll</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1669" category="adj" class="Koerper">
+<lexUnit id="l2570" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stabil</orthForm>
+</lexUnit>
+<lexUnit id="l2571" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stramm</orthForm>
+</lexUnit>
+<lexUnit id="l2572" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kernig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1670" category="adj" class="Koerper">
+<lexUnit id="l2573" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>trainiert</orthForm>
+</lexUnit>
+<lexUnit id="l2574" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>durchtrainiert</orthForm>
+</lexUnit>
+<lexUnit id="l2575" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1671" category="adj" class="Koerper">
+<lexUnit id="l2576" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>konditionsstark</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1672" category="adj" class="Koerper">
+<lexUnit id="l2577" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sportlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1673" category="adj" class="Koerper">
+<lexUnit id="l2578" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sportiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1674" category="adj" class="Koerper">
+<lexUnit id="l2579" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>athletisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1675" category="adj" class="Koerper">
+<lexUnit id="l2580" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwach</orthForm>
+</lexUnit>
+<lexUnit id="l2581" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kraftlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1676" category="adj" class="Koerper">
+<lexUnit id="l2582" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>untrainiert</orthForm>
+</lexUnit>
+<lexUnit id="l2583" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unsportlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1677" category="adj" class="Koerper">
+<lexUnit id="l2584" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwächlich</orthForm>
+</lexUnit>
+<lexUnit id="l2585" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mickerig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1678" category="adj" class="Koerper">
+<lexUnit id="l2586" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>memmenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1679" category="adj" class="Koerper">
+<lexUnit id="l2587" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schlapp</orthForm>
+</lexUnit>
+<lexUnit id="l2588" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schlaff</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1680" category="adj" class="Koerper">
+<lexUnit id="l2589" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gebrechlich</orthForm>
+</lexUnit>
+<lexUnit id="l2590" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>morbide</orthForm>
+</lexUnit>
+<lexUnit id="l2591" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hinfällig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1681" category="adj" class="Koerper">
+<lexUnit id="l2592" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anfällig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1682" category="adj" class="Koerper">
+<lexUnit id="l2593" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zart</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1683" category="adj" class="Koerper">
+<lexUnit id="l2594" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>krankheitsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1684" category="adj" class="Koerper">
+<lexUnit id="l2595" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gesund</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1685" category="adj" class="Koerper">
+<lexUnit id="l2596" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kerngesund</orthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s1686" category="adj" class="Koerper">
+<lexUnit id="l2597" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>resistent</orthForm>
+</lexUnit>
+<lexUnit id="l2598" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>immun</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1687" category="adj" class="Koerper">
+<lexUnit id="l2599" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>quietschfidel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1688" category="adj" class="Koerper">
+<lexUnit id="l2600" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klar</orthForm>
+<example><text>eine klare Stimme</text></example>
+</lexUnit>
+</synset>
+<synset id="s1689" category="adj" class="Koerper">
+<lexUnit id="l2601" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rüstig</orthForm>
+</lexUnit>
+<paraphrase>vor allem bei älteren Menschen</paraphrase>
+</synset>
+<synset id="s1690" category="adj" class="Koerper">
+<lexUnit id="l2602" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>heil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1691" category="adj" class="Koerper">
+<lexUnit id="l2603" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>clean</orthForm>
+</lexUnit>
+<paraphrase>nicht mehr drogenabhängig</paraphrase>
+</synset>
+<synset id="s1692" category="adj" class="Koerper">
+<lexUnit id="l2604" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unverletzt</orthForm>
+</lexUnit>
+<lexUnit id="l2605" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unversehrt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1693" category="adj" class="Koerper">
+<lexUnit id="l2606" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verheilt</orthForm>
+</lexUnit>
+<lexUnit id="l2607" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gesundet</orthForm>
+</lexUnit>
+<lexUnit id="l2608" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>genesen</orthForm>
+<frame>NN.Pp</frame>
+<example><text>Der Patient ist vollständig genesen.</text><exframe>NN.Pp</exframe></example>
+</lexUnit>
+<paraphrase>wieder gesund</paraphrase>
+</synset>
+<synset id="s1694" category="adj" class="Koerper">
+<lexUnit id="l2609" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geistesklar</orthForm>
+</lexUnit>
+<lexUnit id="l2610" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1695" category="adj" class="Koerper">
+<lexUnit id="l2611" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geistesgegenwärtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1697" category="adj" class="Koerper">
+<lexUnit id="l2613" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>krank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1698" category="adj" class="Koerper">
+<lexUnit id="l2614" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ungesund</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1699" category="adj" class="Koerper">
+<lexUnit id="l2615" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>leidend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1700" category="adj" class="Koerper">
+<lexUnit id="l2616" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>krankhaft</orthForm>
+</lexUnit>
+<lexUnit id="l2617" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pathologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1701" category="adj" class="Koerper">
+<lexUnit id="l2618" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mondsüchtig</orthForm>
+</lexUnit>
+<lexUnit id="l2619" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sonnambul</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1702" category="adj" class="Koerper">
+<lexUnit id="l2620" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geplagt</orthForm>
+</lexUnit>
+<lexUnit id="l2621" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geschunden</orthForm>
+</lexUnit>
+<lexUnit id="l2622" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gequält</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1703" category="adj" class="Koerper">
+<lexUnit id="l2623" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kränklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1704" category="adj" class="Koerper">
+<lexUnit id="l2624" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kränkelnd</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1705" category="adj" class="Koerper">
+<lexUnit id="l2625" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verletzt</orthForm>
+</lexUnit>
+<lexUnit id="l2626" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verwundet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1706" category="adj" class="Koerper">
+<lexUnit id="l2627" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwerverletzt</orthForm>
+</lexUnit>
+<lexUnit id="l2628" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwerverwundet</orthForm>
+</lexUnit>
+<lexUnit id="l2629" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>krankenhausreif</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1707" category="adj" class="Koerper">
+<lexUnit id="l2630" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>krebskrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1708" category="adj" class="Koerper">
+<lexUnit id="l2631" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>herzkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1709" category="adj" class="Koerper">
+<lexUnit id="l2632" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zuckerkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1710" category="adj" class="Koerper">
+<lexUnit id="l2633" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gallenkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1711" category="adj" class="Koerper">
+<lexUnit id="l2634" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>leberkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1712" category="adj" class="Koerper">
+<lexUnit id="l2635" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nierenkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1713" category="adj" class="Koerper">
+<lexUnit id="l2636" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>drüsenkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1714" category="adj" class="Koerper">
+<lexUnit id="l2637" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>magenkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1715" category="adj" class="Koerper">
+<lexUnit id="l2638" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aidskrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1716" category="adj" class="Koerper">
+<lexUnit id="l2639" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lungenkrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1717" category="adj" class="Koerper">
+<lexUnit id="l2640" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>blutig</orthForm>
+</lexUnit>
+<lexUnit id="l2641" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>blutend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1718" category="adj" class="Koerper">
+<lexUnit id="l2642" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lädiert</orthForm>
+</lexUnit>
+<lexUnit id="l2643" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>blessiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1719" category="adj" class="Koerper">
+<lexUnit id="l2644" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eitrig</orthForm>
+</lexUnit>
+<lexUnit id="l2645" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eiternd</orthForm>
+</lexUnit>
+<lexUnit id="l2646" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vereitert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1720" category="adj" class="Koerper">
+<lexUnit id="l2647" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wund</orthForm>
+</lexUnit>
+<lexUnit id="l2648" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>entzündet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1721" category="adj" class="Koerper">
+<lexUnit id="l2649" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verschorft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1722" category="adj" class="Koerper">
+<lexUnit id="l2650" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erkältet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1723" category="adj" class="Koerper">
+<lexUnit id="l2651" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verschnupft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1724" category="adj" class="Koerper">
+<lexUnit id="l2652" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>verschleimt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1725" category="adj" class="Koerper">
+<lexUnit id="l2653" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anämisch</orthForm>
+</lexUnit>
+<lexUnit id="l2654" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>blutarm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1726" category="adj" class="Koerper">
+<lexUnit id="l2655" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tuberkular</orthForm>
+</lexUnit>
+<lexUnit id="l2656" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>knotig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1727" category="adj" class="Koerper">
+<lexUnit id="l2657" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>missgebildet</orthForm>
+<oldOrthForm>mißgebildet</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s1728" category="adj" class="Koerper">
+<lexUnit id="l2659" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>beeinträchtigt</orthForm>
+</lexUnit>
+<lexUnit id="l2660" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>körperlich beeinträchtigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1729" category="adj" class="Koerper">
+<lexUnit id="l2661" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kurzsichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1730" category="adj" class="Koerper">
+<lexUnit id="l2662" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weitsichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1731" category="adj" class="Koerper">
+<lexUnit id="l2663" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>körperbehindert</orthForm>
+</lexUnit>
+<lexUnit id="l2664" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>körperlich behindert</orthForm>
+</lexUnit>
+<lexUnit id="l2665" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>versehrt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1732" category="adj" class="Koerper">
+<lexUnit id="l2666" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geistig behindert</orthForm>
+</lexUnit>
+<lexUnit id="l2667" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geisteskrank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1733" category="adj" class="Koerper">
+<lexUnit id="l2668" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>seelisch behindert</orthForm>
+</lexUnit>
+<lexUnit id="l2669" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>psychisch krank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1734" category="adj" class="Koerper">
+<lexUnit id="l2670" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>depressiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1735" category="adj" class="Koerper">
+<lexUnit id="l2671" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>manisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1736" category="adj" class="Koerper">
+<lexUnit id="l2672" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>manisch-depressiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1737" category="adj" class="Koerper">
+<lexUnit id="l2673" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schizophren</orthForm>
+</lexUnit>
+<lexUnit id="l2674" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>persönlichkeitsgespalten</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1738" category="adj" class="Koerper">
+<lexUnit id="l2675" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>psychopathisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1739" category="adj" class="Koerper">
+<lexUnit id="l2676" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schizoid</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1740" category="adj" class="Koerper">
+<lexUnit id="l2677" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>paranoid</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1741" category="adj" class="Koerper">
+<lexUnit id="l2678" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>neurotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1742" category="adj" class="Koerper">
+<lexUnit id="l2679" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zwanghaft</orthForm>
+</lexUnit>
+<lexUnit id="l2680" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zwangsgestört</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1743" category="adj" class="Koerper">
+<lexUnit id="l2681" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>behindert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1744" category="adj" class="Koerper">
+<lexUnit id="l2682" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>blind</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1745" category="adj" class="Koerper">
+<lexUnit id="l2683" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>taub</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1746" category="adj" class="Koerper">
+<lexUnit id="l2684" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lahm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1747" category="adj" class="Koerper">
+<lexUnit id="l2685" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stumm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1748" category="adj" class="Koerper">
+<lexUnit id="l2686" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>taubstumm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1749" category="adj" class="Koerper">
+<lexUnit id="l2687" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schlecht</orthForm>
+</lexUnit>
+<lexUnit id="l2688" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>übel</orthForm>
+</lexUnit>
+<lexUnit id="l2689" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwindlig</orthForm>
+</lexUnit>
+<paraphrase>nur prädikativer Gebrauch</paraphrase>
+</synset>
+<synset id="s1750" category="adj" class="Koerper">
+<lexUnit id="l2690" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>mau</orthForm>
+</lexUnit>
+<lexUnit id="l2691" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>flau</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1751" category="adj" class="Koerper">
+<lexUnit id="l2692" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>matt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1752" category="adj" class="Koerper">
+<lexUnit id="l2693" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>magersüchtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1753" category="adj" class="Koerper">
+<lexUnit id="l2694" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>heiser</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1754" category="adj" class="Koerper">
+<lexUnit id="l2696" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rau</orthForm>
+<oldOrthForm>rauh</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s1755" category="adj" class="Koerper">
+<lexUnit id="l2697" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>belegt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1756" category="adj" class="Koerper">
+<lexUnit id="l2698" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>krüppelhaft</orthForm>
+</lexUnit>
+<lexUnit id="l2699" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>krüppelig</orthForm>
+</lexUnit>
+<lexUnit id="l2700" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verkrüppelt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1757" category="adj" class="Koerper">
+<lexUnit id="l2701" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gestört</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1758" category="adj" class="Koerper">
+<lexUnit id="l2702" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verhaltensgestört</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1759" category="adj" class="Koerper">
+<lexUnit id="l2703" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geistesgestört</orthForm>
+</lexUnit>
+<lexUnit id="l2704" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verrückt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1760" category="adj" class="Koerper">
+<lexUnit id="l2705" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verwirrt</orthForm>
+</lexUnit>
+<lexUnit id="l2706" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dement</orthForm>
+</lexUnit>
+<lexUnit id="l2707" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>durcheinander</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1761" category="adj" class="Koerper">
+<lexUnit id="l2708" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ohnmächtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1762" category="adj" class="Koerper">
+<lexUnit id="l2711" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>besinnungslos</orthForm>
+</lexUnit>
+<lexUnit id="l2709" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bewusstlos</orthForm>
+<oldOrthForm>bewußtlos</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s1763" category="adj" class="Koerper">
+<lexUnit id="l2712" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>komatös</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1764" category="adj" class="Koerper">
+<lexUnit id="l2713" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>körpergefühlsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1765" category="adj" class="Koerper">
+<lexUnit id="l2714" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hungrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1766" category="adj" class="Koerper">
+<lexUnit id="l2715" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ausgehungert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1767" category="adj" class="Koerper">
+<lexUnit id="l2716" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>durstig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1768" category="adj" class="Koerper">
+<lexUnit id="l2717" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>betrunken</orthForm>
+</lexUnit>
+<lexUnit id="l2718" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>trunken</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1769" category="adj" class="Koerper">
+<lexUnit id="l2719" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>angeheitert</orthForm>
+</lexUnit>
+<lexUnit id="l2720" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>angetrunken</orthForm>
+</lexUnit>
+<lexUnit id="l2721" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>angesäuselt</orthForm>
+</lexUnit>
+<lexUnit id="l2722" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>beschwipst</orthForm>
+</lexUnit>
+<lexUnit id="l2723" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>angesoffen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1770" category="adj" class="Koerper">
+<lexUnit id="l2724" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>blau</orthForm>
+</lexUnit>
+<lexUnit id="l2725" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>schicker</orthForm>
+</lexUnit>
+<lexUnit id="l2726" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>besoffen</orthForm>
+</lexUnit>
+<lexUnit id="l2727" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>fett</orthForm>
+</lexUnit>
+<lexUnit id="l2728" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>stramm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1771" category="adj" class="Koerper">
+<lexUnit id="l2730" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>vollstramm</orthForm>
+</lexUnit>
+<lexUnit id="l2729" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>volltrunken</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1772" category="adj" class="Koerper">
+<lexUnit id="l2731" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nüchtern</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1773" category="adj" class="Koerper">
+<lexUnit id="l2732" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>berauscht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1774" category="adj" class="Koerper">
+<lexUnit id="l2733" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>dicht</orthForm>
+</lexUnit>
+<lexUnit id="l2734" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bekifft</orthForm>
+</lexUnit>
+<lexUnit id="l2735" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>stoned</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1775" category="adj" class="Koerper">
+<lexUnit id="l2736" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>high</orthForm>
+</lexUnit>
+<lexUnit id="l2737" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>angetörnt</orthForm>
+</lexUnit>
+<lexUnit id="l2738" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>angeturnt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1776" category="adj" class="Koerper">
+<lexUnit id="l2739" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>versoffen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1777" category="adj" class="Koerper">
+<lexUnit id="l2740" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>heißhungrig</orthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s1778" category="adj" class="Koerper">
+<lexUnit id="l2741" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gefräßig</orthForm>
+</lexUnit>
+<lexUnit id="l2742" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verfressen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1779" category="adj" class="Koerper">
+<lexUnit id="l2743" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>satt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1780" category="adj" class="Koerper">
+<lexUnit id="l2744" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gesättigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1781" category="adj" class="Koerper">
+<lexUnit id="l2745" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>übersättigt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1782" category="adj" class="Koerper">
+<lexUnit id="l2746" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>pappsatt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1783" category="adj" class="Koerper">
+<lexUnit id="l2747" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>voll</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1784" category="adj" class="Koerper">
+<lexUnit id="l2748" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vollgefressen</orthForm>
+<orthVar>voll gefressen</orthVar>
+<oldOrthForm>vollgefressen</oldOrthForm>
+</lexUnit>
+<lexUnit id="l2750" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>voll gestopft</orthForm>
+<orthVar>voll gestopft</orthVar>
+<oldOrthForm>vollgestopft</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s1785" category="adj" class="Koerper">
+<lexUnit id="l2752" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>müde</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1786" category="adj" class="Koerper">
+<lexUnit id="l2753" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>todmüde</orthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s1787" category="adj" class="Koerper">
+<lexUnit id="l2754" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schläfrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1788" category="adj" class="Koerper">
+<lexUnit id="l2755" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verschlafen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1789" category="adj" class="Koerper">
+<lexUnit id="l2756" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erschöpft</orthForm>
+</lexUnit>
+<lexUnit id="l2757" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ausgebrannt</orthForm>
+</lexUnit>
+<lexUnit id="l2758" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ausgepumpt</orthForm>
+</lexUnit>
+<lexUnit id="l2759" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ausgelaugt</orthForm>
+</lexUnit>
+<lexUnit id="l2760" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>entkräftet</orthForm>
+</lexUnit>
+<lexUnit id="l2761" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgespannt</orthForm>
+</lexUnit>
+<lexUnit id="l2762" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mitgenommen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1790" category="adj" class="Koerper">
+<lexUnit id="l2763" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>resigniert</orthForm>
+</lexUnit>
+<lexUnit id="l2764" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>frustriert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1791" category="adj" class="Koerper">
+<lexUnit id="l2765" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fertig</orthForm>
+</lexUnit>
+<lexUnit id="l2766" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>groggy</orthForm>
+</lexUnit>
+<lexUnit id="l2767" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>ausgepowert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1792" category="adj" class="Koerper">
+<lexUnit id="l2768" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erholungsbedürftig</orthForm>
+</lexUnit>
+<lexUnit id="l2769" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>urlaubsreif</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1793" category="adj" class="Koerper">
+<lexUnit id="l2770" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>phlegmatisch</orthForm>
+</lexUnit>
+<lexUnit id="l2771" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>faul</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1794" category="adj" class="Koerper">
+<lexUnit id="l2772" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lebhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1795" category="adj" class="Koerper">
+<lexUnit id="l2773" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wach</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1796" category="adj" class="Koerper">
+<lexUnit id="l2774" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hellwach</orthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s1797" category="adj" class="Koerper">
+<lexUnit id="l2775" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>überdreht</orthForm>
+</lexUnit>
+<lexUnit id="l2776" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aufgedreht</orthForm>
+</lexUnit>
+<lexUnit id="l2777" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aufgekratzt</orthForm>
+</lexUnit>
+<lexUnit id="l2778" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>überspannt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1798" category="adj" class="Koerper">
+<lexUnit id="l2779" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>munter</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1799" category="adj" class="Koerper">
+<lexUnit id="l2780" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>putzmunter</orthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s1800" category="adj" class="Koerper">
+<lexUnit id="l2781" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aufgeweckt</orthForm>
+<example><text>ein aufgewecktes Kind</text></example>
+</lexUnit>
+</synset>
+<synset id="s1801" category="adj" class="Koerper">
+<lexUnit id="l2782" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lebendig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1802" category="adj" class="Koerper">
+<lexUnit id="l2783" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>quicklebendig</orthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s1803" category="adj" class="Koerper">
+<lexUnit id="l2784" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gierig</orthForm>
+</lexUnit>
+<lexUnit id="l2785" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unersättlich</orthForm>
+</lexUnit>
+<paraphrase>von einem körperlichen Trieb erfasst</paraphrase>
+</synset>
+<synset id="s1804" category="adj" class="Koerper">
+<lexUnit id="l2786" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>triebhaft</orthForm>
+</lexUnit>
+<lexUnit id="l2787" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>libidonös</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1805" category="adj" class="Koerper">
+<lexUnit id="l2788" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lasziv</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1806" category="adj" class="Koerper">
+<lexUnit id="l2789" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>begierig</orthForm>
+</lexUnit>
+<lexUnit id="l2790" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>begehrlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1807" category="adj" class="Koerper">
+<lexUnit id="l2791" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>heiß</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1808" category="adj" class="Koerper">
+<lexUnit id="l2792" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geil</orthForm>
+</lexUnit>
+<lexUnit id="l2793" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lüstern</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1809" category="adj" class="Koerper">
+<lexUnit id="l2794" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sexhungrig</orthForm>
+</lexUnit>
+<lexUnit id="l2795" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sexgierig</orthForm>
+</lexUnit>
+<lexUnit id="l2796" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwanzgesteuert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1810" category="adj" class="Koerper">
+<lexUnit id="l2797" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1811" category="adj" class="Koerper">
+<lexUnit id="l2798" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>frigid</orthForm>
+</lexUnit>
+<lexUnit id="l2799" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>frigide</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1812" category="adj" class="Koerper">
+<lexUnit id="l2800" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>geschlechtsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1813" category="adj" class="Koerper">
+<lexUnit id="l2801" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weiblich</orthForm>
+</lexUnit>
+<lexUnit id="l2802" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>feminin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1814" category="adj" class="Koerper">
+<lexUnit id="l2803" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>männlich</orthForm>
+</lexUnit>
+<lexUnit id="l2804" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>maskulin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1815" category="adj" class="Koerper">
+<lexUnit id="l2805" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>aussehensspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1816" category="adj" class="Koerper">
+<lexUnit id="l2806" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nackt</orthForm>
+</lexUnit>
+<lexUnit id="l2807" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bloß</orthForm>
+</lexUnit>
+<lexUnit id="l2808" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unbekleidet</orthForm>
+</lexUnit>
+<lexUnit id="l2809" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>entblößt</orthForm>
+</lexUnit>
+<lexUnit id="l2810" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unverhüllt</orthForm>
+</lexUnit>
+<paraphrase>ohne Kleidung</paraphrase>
+</synset>
+<synset id="s1817" category="adj" class="Koerper">
+<lexUnit id="l2811" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bekleidet</orthForm>
+</lexUnit>
+<lexUnit id="l2812" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gekleidet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1818" category="adj" class="Koerper">
+<lexUnit id="l2813" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>livriert</orthForm>
+</lexUnit>
+<paraphrase>mit einer Livree bekleidet</paraphrase>
+</synset>
+<synset id="s1819" category="adj" class="Koerper">
+<lexUnit id="l2814" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>uniformiert</orthForm>
+</lexUnit>
+<paraphrase>mit einer Uniform bekleidet</paraphrase>
+</synset>
+<synset id="s1820" category="adj" class="Koerper">
+<lexUnit id="l2815" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>befrackt</orthForm>
+</lexUnit>
+<paraphrase>mit einem Frack bekleidet</paraphrase>
+</synset>
+<synset id="s1821" category="adj" class="Koerper">
+<lexUnit id="l2816" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>splitternackt</orthForm>
+</lexUnit>
+<lexUnit id="l2817" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>splitterfasernackt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1822" category="adj" class="Koerper">
+<lexUnit id="l2818" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pudelnackt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1823" category="adj" class="Koerper">
+<lexUnit id="l2819" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kniefrei</orthForm>
+</lexUnit>
+<paraphrase>unbekleidetes Knie</paraphrase>
+</synset>
+<synset id="s1824" category="adj" class="Koerper">
+<lexUnit id="l2820" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>armfrei</orthForm>
+</lexUnit>
+<paraphrase>unbekleideter Arm</paraphrase>
+</synset>
+<synset id="s1825" category="adj" class="Koerper">
+<lexUnit id="l2821" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schulterfrei</orthForm>
+</lexUnit>
+<paraphrase>unbekleidete Schulter</paraphrase>
+</synset>
+<synset id="s1826" category="adj" class="Koerper">
+<lexUnit id="l2822" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>beinfrei</orthForm>
+</lexUnit>
+<paraphrase>unbekleidetes Bein</paraphrase>
+</synset>
+<synset id="s1827" category="adj" class="Koerper">
+<lexUnit id="l2823" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rückenfrei</orthForm>
+</lexUnit>
+<paraphrase>unbekleideter Rücken</paraphrase>
+</synset>
+<synset id="s1828" category="adj" class="Koerper">
+<lexUnit id="l2824" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bauchfrei</orthForm>
+</lexUnit>
+<paraphrase>unbekleideter Bauch</paraphrase>
+</synset>
+<synset id="s1829" category="adj" class="Koerper">
+<lexUnit id="l2825" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schön</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1830" category="adj" class="Koerper">
+<lexUnit id="l2826" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wunderschön</orthForm>
+</lexUnit>
+<paraphrase>sehr schön</paraphrase>
+</synset>
+<synset id="s1831" category="adj" class="Koerper">
+<lexUnit id="l2827" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hübsch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1832" category="adj" class="Koerper">
+<lexUnit id="l2828" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wohlgeformt</orthForm>
+<orthVar>wohl geformt</orthVar>
+<oldOrthForm>wohlgeformt</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s1833" category="adj" class="Koerper">
+<lexUnit id="l2830" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>griffig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1834" category="adj" class="Koerper">
+<lexUnit id="l2831" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bildhübsch</orthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s1835" category="adj" class="Koerper">
+<lexUnit id="l2832" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>attraktiv</orthForm>
+</lexUnit>
+<lexUnit id="l2833" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anziehend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1836" category="adj" class="Koerper">
+<lexUnit id="l2834" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rassig</orthForm>
+</lexUnit>
+<lexUnit id="l2835" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>apart</orthForm>
+</lexUnit>
+<paraphrase>ein rassiges Geschöpf</paraphrase>
+</synset>
+<synset id="s1837" category="adj" class="Koerper">
+<lexUnit id="l2836" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sinnlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1838" category="adj" class="Koerper">
+<lexUnit id="l2839" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fein geschnitten</orthForm>
+<orthVar>feingeschnitten</orthVar>
+<oldOrthForm>feingeschnitten</oldOrthForm>
+</lexUnit>
+<lexUnit id="l2837" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1839" category="adj" class="Koerper">
+<lexUnit id="l2840" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ansehnlich</orthForm>
+</lexUnit>
+<lexUnit id="l2841" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vorzeigbar</orthForm>
+</lexUnit>
+<paraphrase>vorzeigbar in Jeans und Abendkleid</paraphrase>
+</synset>
+<synset id="s1840" category="adj" class="Koerper">
+<lexUnit id="l2842" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sexy</orthForm>
+</lexUnit>
+<lexUnit id="l2843" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>geil</orthForm>
+</lexUnit>
+<lexUnit id="l2844" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>scharf</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1841" category="adj" class="Koerper">
+<lexUnit id="l2845" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anmutig</orthForm>
+</lexUnit>
+<lexUnit id="l2846" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>graziös</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1842" category="adj" class="Koerper">
+<lexUnit id="l2847" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hässlich</orthForm>
+<oldOrthForm>häßlich</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s1843" category="adj" class="Koerper">
+<lexUnit id="l2849" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unansehnlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1844" category="adj" class="Koerper">
+<lexUnit id="l2850" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unappetitlich</orthForm>
+</lexUnit>
+<lexUnit id="l2851" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ungepflegt</orthForm>
+</lexUnit>
+<lexUnit id="l2852" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schmuddelig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1845" category="adj" class="Koerper">
+<lexUnit id="l2853" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fettig</orthForm>
+</lexUnit>
+<lexUnit id="l2854" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>strähnig</orthForm>
+</lexUnit>
+<paraphrase>bei Haaren</paraphrase>
+</synset>
+<synset id="s1846" category="adj" class="Koerper">
+<lexUnit id="l2855" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ölig</orthForm>
+</lexUnit>
+<paraphrase>bei Haaren</paraphrase>
+</synset>
+<synset id="s1847" category="adj" class="Koerper">
+<lexUnit id="l2856" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verlottert</orthForm>
+</lexUnit>
+<lexUnit id="l2857" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verkommen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1848" category="adj" class="Koerper">
+<lexUnit id="l2858" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vergammelt</orthForm>
+</lexUnit>
+<lexUnit id="l2859" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verlumpt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1849" category="adj" class="Koerper">
+<lexUnit id="l2860" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verwahrlost</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1850" category="adj" class="Koerper">
+<lexUnit id="l2861" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verschwitzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1851" category="adj" class="Koerper">
+<lexUnit id="l2862" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lumpig</orthForm>
+</lexUnit>
+<lexUnit id="l2863" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gammlig</orthForm>
+</lexUnit>
+<lexUnit id="l2864" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gammelig</orthForm>
+</lexUnit>
+<lexUnit id="l2865" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgerissen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1852" category="adj" class="Koerper">
+<lexUnit id="l2867" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gepflegt</orthForm>
+</lexUnit>
+<lexUnit id="l2868" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>adrett</orthForm>
+</lexUnit>
+<lexUnit id="l2866" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>appetitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1853" category="adj" class="Koerper">
+<lexUnit id="l2869" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unattraktiv</orthForm>
+</lexUnit>
+<lexUnit id="l2870" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unscheinbar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1854" category="adj" class="Koerper">
+<lexUnit id="l2871" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verbraucht</orthForm>
+</lexUnit>
+<lexUnit id="l2872" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verlebt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1855" category="adj" class="Koerper">
+<lexUnit id="l2873" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>potthässlich</orthForm>
+<oldOrthForm>potthäßlich</oldOrthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s1856" category="adj" class="Koerper">
+<lexUnit id="l2875" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ästhetisch</orthForm>
+</lexUnit>
+<lexUnit id="l2876" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ansprechend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1857" category="adj" class="Koerper">
+<lexUnit id="l2877" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dekorativ</orthForm>
+</lexUnit>
+<lexUnit id="l2878" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schmuck</orthForm>
+</lexUnit>
+<paraphrase>von Gegenständen</paraphrase>
+</synset>
+<synset id="s1858" category="adj" class="Koerper">
+<lexUnit id="l2879" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stilvoll</orthForm>
+</lexUnit>
+<lexUnit id="l2880" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geschmackvoll</orthForm>
+</lexUnit>
+<paraphrase>von Gegenständen</paraphrase>
+</synset>
+<synset id="s1859" category="adj" class="Koerper">
+<lexUnit id="l2881" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>formvollendet</orthForm>
+</lexUnit>
+<lexUnit id="l2882" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>formschön</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1860" category="adj" class="Koerper">
+<lexUnit id="l2883" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unästhetisch</orthForm>
+</lexUnit>
+<lexUnit id="l2884" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>plump</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1861" category="adj" class="Koerper">
+<lexUnit id="l2885" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unförmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1862" category="adj" class="Koerper">
+<lexUnit id="l2886" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verwachsen</orthForm>
+</lexUnit>
+<lexUnit id="l2887" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bucklig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1863" category="adj" class="Koerper">
+<lexUnit id="l2888" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>entstellt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1864" category="adj" class="Koerper">
+<lexUnit id="l2889" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pickelig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1865" category="adj" class="Koerper">
+<lexUnit id="l2890" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>deformiert</orthForm>
+</lexUnit>
+<lexUnit id="l2891" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verformt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1866" category="adj" class="Koerper">
+<lexUnit id="l2892" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zerbeult</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1867" category="adj" class="Koerper">
+<lexUnit id="l2893" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dick</orthForm>
+</lexUnit>
+<lexUnit id="l2894" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>übergewichtig</orthForm>
+</lexUnit>
+<lexUnit id="l2895" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwergewichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1868" category="adj" class="Koerper">
+<lexUnit id="l2897" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wohlbeleibt</orthForm>
+<orthVar>wohl beleibt</orthVar>
+<oldOrthForm>wohlbeleibt</oldOrthForm>
+</lexUnit>
+<lexUnit id="l2896" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fleischig</orthForm>
+</lexUnit>
+<lexUnit id="l2899" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>umfangreich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1869" category="adj" class="Koerper">
+<lexUnit id="l2900" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vollschlank</orthForm>
+</lexUnit>
+<lexUnit id="l2901" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>füllig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1870" category="adj" class="Koerper">
+<lexUnit id="l2902" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fett</orthForm>
+</lexUnit>
+<lexUnit id="l2903" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fettleibig</orthForm>
+</lexUnit>
+<lexUnit id="l2904" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>feist</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1871" category="adj" class="Koerper">
+<lexUnit id="l2905" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bullig</orthForm>
+</lexUnit>
+<lexUnit id="l2906" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bullerig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1872" category="adj" class="Koerper">
+<lexUnit id="l2907" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stattlich</orthForm>
+</lexUnit>
+<lexUnit id="l2908" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stämmig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1873" category="adj" class="Koerper">
+<lexUnit id="l2909" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>barock</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1874" category="adj" class="Koerper">
+<lexUnit id="l2910" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>matronenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1875" category="adj" class="Koerper">
+<lexUnit id="l2911" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aufgedunsen</orthForm>
+</lexUnit>
+<lexUnit id="l2912" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aufgetrieben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1876" category="adj" class="Koerper">
+<lexUnit id="l2913" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>korpulent</orthForm>
+</lexUnit>
+<lexUnit id="l2914" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>voluminös</orthForm>
+</lexUnit>
+<lexUnit id="l2915" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>beleibt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1877" category="adj" class="Koerper">
+<lexUnit id="l2916" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rund</orthForm>
+</lexUnit>
+<lexUnit id="l2917" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rundlich</orthForm>
+</lexUnit>
+<lexUnit id="l2918" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mollig</orthForm>
+</lexUnit>
+<lexUnit id="l2919" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dicklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1878" category="adj" class="Koerper">
+<lexUnit id="l2920" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>üppig</orthForm>
+</lexUnit>
+<lexUnit id="l2921" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vollbusig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1879" category="adj" class="Koerper">
+<lexUnit id="l2922" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>prall</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1880" category="adj" class="Koerper">
+<lexUnit id="l2923" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>untersetzt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1881" category="adj" class="Koerper">
+<lexUnit id="l2924" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dickwanstig</orthForm>
+</lexUnit>
+<lexUnit id="l2925" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dickbäuchig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1882" category="adj" class="Koerper">
+<lexUnit id="l2926" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>massig</orthForm>
+</lexUnit>
+<lexUnit id="l2927" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kompakt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1883" category="adj" class="Koerper">
+<lexUnit id="l2928" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ultrakompakt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1884" category="adj" class="Koerper">
+<lexUnit id="l2929" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>breit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1885" category="adj" class="Koerper">
+<lexUnit id="l2930" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dünn</orthForm>
+</lexUnit>
+<lexUnit id="l2931" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>untergewichtig</orthForm>
+</lexUnit>
+<lexUnit id="l2932" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>leichtgewichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1886" category="adj" class="Koerper">
+<lexUnit id="l2933" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schmal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1887" category="adj" class="Koerper">
+<lexUnit id="l2934" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mager</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1888" category="adj" class="Koerper">
+<lexUnit id="l2935" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hager</orthForm>
+</lexUnit>
+<lexUnit id="l2936" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>knochig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1889" category="adj" class="Koerper">
+<lexUnit id="l2937" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dürr</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1890" category="adj" class="Koerper">
+<lexUnit id="l2938" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schmächtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1891" category="adj" class="Koerper">
+<lexUnit id="l2939" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rappeldürr</orthForm>
+</lexUnit>
+<lexUnit id="l2940" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klapperdürr</orthForm>
+</lexUnit>
+<lexUnit id="l2941" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>spindeldürr</orthForm>
+</lexUnit>
+<lexUnit id="l2942" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klapprig</orthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s1892" category="adj" class="Koerper">
+<lexUnit id="l2943" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgemagert</orthForm>
+</lexUnit>
+<lexUnit id="l2944" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgemergelt</orthForm>
+</lexUnit>
+<lexUnit id="l2945" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ausgemergelt</orthForm>
+</lexUnit>
+<lexUnit id="l2946" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgezehrt</orthForm>
+</lexUnit>
+<lexUnit id="l2947" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unterernährt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1893" category="adj" class="Koerper">
+<lexUnit id="l2948" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schlank</orthForm>
+</lexUnit>
+<lexUnit id="l2949" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>rank</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1894" category="adj" class="Koerper">
+<lexUnit id="l2950" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gertenschlank</orthForm>
+</lexUnit>
+<paraphrase>verstärkt</paraphrase>
+</synset>
+<synset id="s1895" category="adj" class="Koerper">
+<lexUnit id="l2951" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rosig</orthForm>
+</lexUnit>
+<lexUnit id="l2952" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>blühend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1896" category="adj" class="Koerper">
+<lexUnit id="l2953" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sommersprossig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1897" category="adj" class="Koerper">
+<lexUnit id="l2954" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pausbäckig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1898" category="adj" class="Koerper">
+<lexUnit id="l2955" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>blond</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1899" category="adj" class="Koerper">
+<lexUnit id="l2956" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>braun</orthForm>
+</lexUnit>
+<lexUnit id="l2957" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>braunhäutig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1900" category="adj" class="Koerper">
+<lexUnit id="l2958" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weißhäutig</orthForm>
+</lexUnit>
+<lexUnit id="l2959" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hellhäutig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1901" category="adj" class="Koerper">
+<lexUnit id="l2960" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wasserstoffblond</orthForm>
+</lexUnit>
+<lexUnit id="l2961" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weißblond</orthForm>
+</lexUnit>
+<lexUnit id="l2962" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hellblond</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1902" category="adj" class="Koerper">
+<lexUnit id="l2963" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rotblond</orthForm>
+</lexUnit>
+<lexUnit id="l2964" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rötlich-blond</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1903" category="adj" class="Koerper">
+<lexUnit id="l2965" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aschblond</orthForm>
+</lexUnit>
+<lexUnit id="l2966" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dunkelblond</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1904" category="adj" class="Koerper">
+<lexUnit id="l2967" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>silberblond</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1905" category="adj" class="Koerper">
+<lexUnit id="l2968" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>goldblond</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1906" category="adj" class="Koerper">
+<lexUnit id="l2969" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dunkelhaarig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1907" category="adj" class="Koerper">
+<lexUnit id="l2970" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>brünett</orthForm>
+</lexUnit>
+<lexUnit id="l2971" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>braunhaarig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1908" category="adj" class="Koerper">
+<lexUnit id="l2972" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kastanienbraun</orthForm>
+</lexUnit>
+<lexUnit id="l2973" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rotbraun</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1909" category="adj" class="Koerper">
+<lexUnit id="l2974" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dunkelbraun</orthForm>
+</lexUnit>
+<lexUnit id="l2975" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwarzbraun</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1910" category="adj" class="Koerper">
+<lexUnit id="l2976" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kahl</orthForm>
+</lexUnit>
+<lexUnit id="l2977" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>glatzköpfig</orthForm>
+</lexUnit>
+<lexUnit id="l2978" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kahlköpfig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1911" category="adj" class="Koerper">
+<lexUnit id="l2979" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>behaart</orthForm>
+</lexUnit>
+<lexUnit id="l2980" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>haarig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1912" category="adj" class="Koerper">
+<lexUnit id="l2981" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bärtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1913" category="adj" class="Koerper">
+<lexUnit id="l2982" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vollbärtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1914" category="adj" class="Koerper">
+<lexUnit id="l2983" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unbehaart</orthForm>
+</lexUnit>
+<lexUnit id="l2984" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>haarlos</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1915" category="adj" class="Koerper">
+<lexUnit id="l2985" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rothaarig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1916" category="adj" class="Koerper">
+<lexUnit id="l2986" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwarzhaarig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1917" category="adj" class="Koerper">
+<lexUnit id="l2987" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>blauschwarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1918" category="adj" class="Koerper">
+<lexUnit id="l2988" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>grau</orthForm>
+</lexUnit>
+<lexUnit id="l2989" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>grauhaarig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1919" category="adj" class="Koerper">
+<lexUnit id="l2990" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>graumeliert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1920" category="adj" class="Koerper">
+<lexUnit id="l2991" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lockig</orthForm>
+</lexUnit>
+<lexUnit id="l2992" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kraus</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1921" category="adj" class="Koerper">
+<lexUnit id="l2993" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>langhaarig</orthForm>
+</lexUnit>
+<lexUnit id="l2994" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>langmähnig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1922" category="adj" class="Koerper">
+<lexUnit id="l2996" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>groß gewachsen</orthForm>
+<orthVar>großgewachsen</orthVar>
+<oldOrthForm>großgewachsen</oldOrthForm>
+</lexUnit>
+<lexUnit id="l3001" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lang</orthForm>
+</lexUnit>
+<lexUnit id="l2997" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hochgewachsen</orthForm>
+<orthVar>hoch gewachsen</orthVar>
+<oldOrthForm>hochgewachsen</oldOrthForm>
+</lexUnit>
+<lexUnit id="l2999" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>langgewachsen</orthForm>
+<orthVar>lang gewachsen</orthVar>
+<oldOrthForm>langgewachsen</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s1923" category="adj" class="Koerper">
+<lexUnit id="l3006" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kurz</orthForm>
+</lexUnit>
+<lexUnit id="l3002" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kleingewachsen</orthForm>
+<orthVar>klein gewachsen</orthVar>
+<oldOrthForm>kleingewachsen</oldOrthForm>
+</lexUnit>
+<lexUnit id="l3004" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kurzgewachsen</orthForm>
+<orthVar>kurz gewachsen</orthVar>
+<oldOrthForm>kurzgewachsen</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s1924" category="adj" class="Koerper">
+<lexUnit id="l3007" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>breithüftig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1925" category="adj" class="Koerper">
+<lexUnit id="l3008" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>breitschultrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1926" category="adj" class="Koerper">
+<lexUnit id="l3009" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>breitkiefrig</orthForm>
+</lexUnit>
+<lexUnit id="l3010" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>breitgesichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1927" category="adj" class="Koerper">
+<lexUnit id="l3011" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schmalhüftig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1928" category="adj" class="Koerper">
+<lexUnit id="l3012" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schmalbrüstig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1929" category="adj" class="Koerper">
+<lexUnit id="l3013" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schmalschultrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1930" category="adj" class="Koerper">
+<lexUnit id="l3014" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schmallippig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1931" category="adj" class="Koerper">
+<lexUnit id="l3015" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zierlich</orthForm>
+</lexUnit>
+<lexUnit id="l3016" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>grazil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1932" category="adj" class="Koerper">
+<lexUnit id="l3017" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gedrungen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1933" category="adj" class="Koerper">
+<lexUnit id="l3018" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>muskulös</orthForm>
+</lexUnit>
+<lexUnit id="l3019" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>durchtrainiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1934" category="adj" class="Koerper">
+<lexUnit id="l3020" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sehnig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1935" category="adj" class="Koerper">
+<lexUnit id="l3021" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>drahtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1936" category="adj" class="Koerper">
+<lexUnit id="l3022" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>einbeinig</orthForm>
+</lexUnit>
+<paraphrase>mit nur einem Bein</paraphrase>
+</synset>
+<synset id="s1937" category="adj" class="Koerper">
+<lexUnit id="l3023" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>x-beinig</orthForm>
+<orthVar>X-beinig</orthVar>
+<oldOrthForm>X-beinig</oldOrthForm>
+</lexUnit>
+<paraphrase>mit X-Beinen</paraphrase>
+</synset>
+<synset id="s1938" category="adj" class="Koerper">
+<lexUnit id="l3025" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>o-beinig</orthForm>
+<orthVar>O-beinig</orthVar>
+<oldOrthForm>O-beinig</oldOrthForm>
+</lexUnit>
+<paraphrase>mit O-Beinen</paraphrase>
+</synset>
+<synset id="s1939" category="adj" class="Koerper">
+<lexUnit id="l3027" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>breitbeinig</orthForm>
+</lexUnit>
+<paraphrase>mit breiten Beinen</paraphrase>
+</synset>
+<synset id="s1940" category="adj" class="Koerper">
+<lexUnit id="l3028" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>langbeinig</orthForm>
+</lexUnit>
+<paraphrase>mit langen Beinen</paraphrase>
+</synset>
+<synset id="s1941" category="adj" class="Koerper">
+<lexUnit id="l3029" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kurzbeinig</orthForm>
+</lexUnit>
+<paraphrase>mit kurzen Beinen</paraphrase>
+</synset>
+<synset id="s1942" category="adj" class="Koerper">
+<lexUnit id="l3030" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>plattfüßig</orthForm>
+</lexUnit>
+<paraphrase>mit Plattfüßen</paraphrase>
+</synset>
+<synset id="s1943" category="adj" class="Koerper">
+<lexUnit id="l3031" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>storchbeinig</orthForm>
+</lexUnit>
+<lexUnit id="l3032" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>storchenbeinig</orthForm>
+</lexUnit>
+<lexUnit id="l3033" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dünnbeinig</orthForm>
+</lexUnit>
+<paraphrase>mit Beinen wie ein Storch/dünnen Beinen</paraphrase>
+</synset>
+<synset id="s1944" category="adj" class="Koerper">
+<lexUnit id="l3034" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>glubschäugig</orthForm>
+</lexUnit>
+<paraphrase>mit Glubschaugen</paraphrase>
+</synset>
+<synset id="s1945" category="adj" class="Koerper">
+<lexUnit id="l3035" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>glasig</orthForm>
+</lexUnit>
+<lexUnit id="l3036" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wässrig</orthForm>
+</lexUnit>
+<paraphrase>glasige Augen, glasiger Blick, wässrige Augen</paraphrase>
+</synset>
+<synset id="s1946" category="adj" class="Koerper">
+<lexUnit id="l3037" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>modisch</orthForm>
+</lexUnit>
+<lexUnit id="l3039" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>chic</orthForm>
+<orthVar>schick</orthVar>
+<oldOrthForm>schick</oldOrthForm>
+<oldOrthVar>chic</oldOrthVar>
+</lexUnit>
+</synset>
+<synset id="s1947" category="adj" class="Koerper">
+<lexUnit id="l3040" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hohlwangig</orthForm>
+</lexUnit>
+<paraphrase>mit schmalem Gesicht</paraphrase>
+</synset>
+<synset id="s1948" category="adj" class="Koerper">
+<lexUnit id="l3041" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>extravagant</orthForm>
+</lexUnit>
+<lexUnit id="l3042" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stylisch</orthForm>
+</lexUnit>
+<lexUnit id="l3043" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ausgefallen</orthForm>
+</lexUnit>
+<lexUnit id="l3044" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erlesen</orthForm>
+</lexUnit>
+<paraphrase>ein ausgefallenes Modell</paraphrase>
+</synset>
+<synset id="s1949" category="adj" class="Koerper">
+<lexUnit id="l3045" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>körperzustandsspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1950" category="adj" class="Koerper">
+<lexUnit id="l3046" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fruchtbar</orthForm>
+</lexUnit>
+<lexUnit id="l3047" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fortpflanzungsfähig</orthForm>
+</lexUnit>
+<lexUnit id="l3048" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zeugungsfähig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1951" category="adj" class="Koerper">
+<lexUnit id="l3049" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unfruchtbar</orthForm>
+</lexUnit>
+<lexUnit id="l3050" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zeugungsunfähig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1952" category="adj" class="Koerper">
+<lexUnit id="l3051" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geschlechtsreif</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1953" category="adj" class="Koerper">
+<lexUnit id="l3052" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwanger</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1954" category="adj" class="Koerper">
+<lexUnit id="l3053" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>trächtig</orthForm>
+</lexUnit>
+<lexUnit id="l3054" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tragend</orthForm>
+</lexUnit>
+<paraphrase>schwangere Tiere</paraphrase>
+</synset>
+<synset id="s1955" category="adj" class="Koerper">
+<lexUnit id="l3055" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>menstruell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1956" category="adj" class="Koerper">
+<lexUnit id="l3056" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>prämenstruell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1957" category="adj" class="Koerper">
+<lexUnit id="l3057" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>potent</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1958" category="adj" class="Koerper">
+<lexUnit id="l3058" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>impotent</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1959" category="adj" class="Koerper">
+<lexUnit id="l3059" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>sexuell orientiert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1960" category="adj" class="Koerper">
+<lexUnit id="l3060" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sexuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1961" category="adj" class="Koerper">
+<lexUnit id="l3061" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>asexuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1962" category="adj" class="Koerper">
+<lexUnit id="l3062" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>heterosexuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1963" category="adj" class="Koerper">
+<lexUnit id="l3063" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>homosexuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1964" category="adj" class="Koerper">
+<lexUnit id="l3064" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schwul</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1965" category="adj" class="Koerper">
+<lexUnit id="l3065" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lesbisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1966" category="adj" class="Koerper">
+<lexUnit id="l3066" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bisexuell</orthForm>
+</lexUnit>
+<lexUnit id="l3067" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bi</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1967" category="adj" class="Koerper">
+<lexUnit id="l3068" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pervers</orthForm>
+</lexUnit>
+<lexUnit id="l3069" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fetischistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1968" category="adj" class="Koerper">
+<lexUnit id="l3070" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nekrophil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1969" category="adj" class="Koerper">
+<lexUnit id="l3071" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pädophil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1970" category="adj" class="Koerper">
+<lexUnit id="l3072" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>masochistisch</orthForm>
+</lexUnit>
+<lexUnit id="l3073" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>devot</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1971" category="adj" class="Koerper">
+<lexUnit id="l3074" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sadistisch</orthForm>
+</lexUnit>
+<lexUnit id="l3075" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dominant</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1972" category="adj" class="Koerper">
+<lexUnit id="l3076" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>körperteilspezifisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1973" category="adj" class="Koerper">
+<lexUnit id="l3077" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1974" category="adj" class="Koerper">
+<lexUnit id="l3078" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>oral</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1975" category="adj" class="Koerper">
+<lexUnit id="l3079" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rektal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1976" category="adj" class="Koerper">
+<lexUnit id="l3080" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dorsal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1977" category="adj" class="Koerper">
+<lexUnit id="l3081" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>spinal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1978" category="adj" class="Koerper">
+<lexUnit id="l3082" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zerebral</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66925" category="adj" class="Koerper">
+<lexUnit id="l92746" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>großwüchsig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s1696" category="adj" class="Koerper">
+<lexUnit id="l2612" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hell</orthForm>
+<example><text>In hellen Augenblicken konnte er sich an alles erinnern</text></example>
+</lexUnit>
+</synset>
+<synset id="s68793" category="adj" class="Koerper">
+<lexUnit id="l94929" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht behindert</orthForm>
+<orthVar>nichtbehindert</orthVar>
+</lexUnit>
+</synset>
+<synset id="s71734" category="adj" class="Koerper">
+<lexUnit id="l98298" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>getötet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71735" category="adj" class="Koerper">
+<lexUnit id="l98299" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgetötet</orthForm>
+</lexUnit>
+</synset>
+<synset id="s76215" category="adj" class="Koerper">
+<lexUnit id="l103906" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kleinwüchsig</orthForm>
+</lexUnit>
+</synset>
+</synsets>

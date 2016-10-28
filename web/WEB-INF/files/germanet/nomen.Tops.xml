@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd">
+<synsets>
+<synset id="s50980" category="nomen" class="Tops">
+<lexUnit id="l72102" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Entität</orthForm>
+</lexUnit>
+<paraphrase>konkretes oder abstraktes Objekt</paraphrase>
+</synset>
+<synset id="s50981" category="nomen" class="Tops">
+<lexUnit id="l72103" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Objekt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s50982" category="nomen" class="Tops">
+<lexUnit id="l72104" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>natürliches Objekt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s50983" category="nomen" class="Tops">
+<lexUnit id="l72105" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>unnatürliches Objekt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s50984" category="nomen" class="Tops">
+<lexUnit id="l72107" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Unidentifiziertes Flugobjekt</orthForm>
+</lexUnit>
+<lexUnit id="l72106" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>UFO</orthForm>
+<orthVar>Ufo</orthVar>
+</lexUnit>
+</synset>
+<synset id="s50985" category="nomen" class="Tops">
+<lexUnit id="l72108" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Naturobjekt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s50986" category="nomen" class="Tops">
+<lexUnit id="l90378" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wesenheit</orthForm>
+</lexUnit>
+<lexUnit id="l72110" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kreatur</orthForm>
+</lexUnit>
+<lexUnit id="l72111" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wesen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s50988" category="nomen" class="Tops">
+<lexUnit id="l72114" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lebensform</orthForm>
+</lexUnit>
+</synset>
+<synset id="s50989" category="nomen" class="Tops">
+<lexUnit id="l72115" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mutant</orthForm>
+</lexUnit>
+</synset>
+<synset id="s50990" category="nomen" class="Tops">
+<lexUnit id="l72117" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Organismus</orthForm>
+</lexUnit>
+<lexUnit id="l72116" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lebewesen</orthForm>
+</lexUnit>
+<paraphrase>tierisches oder pflanzliches Lebewesen</paraphrase>
+</synset>
+<synset id="s50991" category="nomen" class="Tops">
+<lexUnit id="l72118" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>geschlechtsspezifisches Lebewesen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s50992" category="nomen" class="Tops">
+<lexUnit id="l72119" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zwitter</orthForm>
+</lexUnit>
+<paraphrase>Lebewesen (Tier oder Pflanze), das seinen geschlechtlichen Eigenschaften und Merkmalen nach sowohl männlich als auch weiblich ist</paraphrase>
+</synset>
+<synset id="s50993" category="nomen" class="Tops">
+<lexUnit id="l72120" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Parasit</orthForm>
+</lexUnit>
+<lexUnit id="l72121" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schmarotzer</orthForm>
+</lexUnit>
+<paraphrase>Lebewesen (Tier oder Pflanze), das auf Kosten seines Wirtes lebt</paraphrase>
+</synset>
+<synset id="s50994" category="nomen" class="Tops">
+<lexUnit id="l72122" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Plankton</orthForm>
+</lexUnit>
+</synset>
+<synset id="s50995" category="nomen" class="Tops">
+<lexUnit id="l72123" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>altersspezifisches Lebewesen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s50996" category="nomen" class="Tops">
+<lexUnit id="l72124" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>übernatürliches Lebewesen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s50997" category="nomen" class="Tops">
+<lexUnit id="l72126" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>höheres Lebewesen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s50998" category="nomen" class="Tops">
+<lexUnit id="l72127" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Subjekt</orthForm>
+</lexUnit>
+<paraphrase>denkendes Wesen</paraphrase>
+</synset>
+<synset id="s50999" category="nomen" class="Tops">
+<lexUnit id="l72128" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ding</orthForm>
+</lexUnit>
+<lexUnit id="l72129" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sache</orthForm>
+</lexUnit>
+<lexUnit id="l72130" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gegenstand</orthForm>
+</lexUnit>
+<lexUnit id="l72131" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gebilde</orthForm>
+</lexUnit>
+<paraphrase>festumrissenes Objekt mit räumlicher Ausdehnung</paraphrase>
+</synset>
+<synset id="s51000" category="nomen" class="Tops">
+<lexUnit id="l72132" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Teil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s51001" category="nomen" class="Tops">
+<lexUnit id="l72133" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>GNROOT</orthForm>
+</lexUnit>
+<paraphrase>Topknoten des gesamten Grafen</paraphrase>
+</synset>
+<synset id="s50987" category="nomen" class="Tops">
+<lexUnit id="l72112" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schöpfung</orthForm>
+</lexUnit>
+<lexUnit id="l72113" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Geschöpf</orthForm>
+</lexUnit>
+<paraphrase>eine Kreatur, die durch den Schöpfungsvorgang entstanden ist</paraphrase>
+</synset>
+<synset id="s62129" category="nomen" class="Tops">
+<lexUnit id="l87178" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zooplankton</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62800" category="nomen" class="Tops">
+<lexUnit id="l87934" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zwischenwirt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62798" category="nomen" class="Tops">
+<lexUnit id="l87932" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wirt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62968" category="nomen" class="Tops">
+<lexUnit id="l88122" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Untersuchungsgegenstand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65328" category="nomen" class="Tops">
+<lexUnit id="l90894" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Einzelding</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65384" category="nomen" class="Tops">
+<lexUnit id="l90961" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Endwirt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67860" category="nomen" class="Tops">
+<lexUnit id="l93843" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Holzteil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69225" category="nomen" class="Tops">
+<lexUnit id="l95409" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Phytoplankton</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70684" category="nomen" class="Tops">
+<lexUnit id="l97076" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Flugobjekt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71203" category="nomen" class="Tops">
+<lexUnit id="l97678" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zielobjekt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71838" category="nomen" class="Tops">
+<lexUnit id="l98418" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ektoparasit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s72351" category="nomen" class="Tops">
+<lexUnit id="l99047" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Altvogel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73567" category="nomen" class="Tops">
+<lexUnit id="l100508" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mischwesen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73764" category="nomen" class="Tops">
+<lexUnit id="l100737" sense="1" source="core" namedEntity="yes" artificial="no" styleMarking="no">
+<orthForm>Ausrüstungsgegenstand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74522" category="nomen" class="Tops">
+<lexUnit id="l101684" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dassel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s76054" category="nomen" class="Tops">
+<lexUnit id="l103675" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stück</orthForm>
+</lexUnit>
+</synset>
+</synsets>

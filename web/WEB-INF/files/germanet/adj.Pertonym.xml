@@ -1,0 +1,3222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd">
+<synsets>
+<synset id="s2450" category="adj" class="Pertonym">
+<lexUnit id="l3763" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>Pertonym Adjektiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2451" category="adj" class="Pertonym">
+<lexUnit id="l3764" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Kommunikation</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2452" category="adj" class="Pertonym">
+<lexUnit id="l3765" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Kognition</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2453" category="adj" class="Pertonym">
+<lexUnit id="l3766" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Koerper</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2454" category="adj" class="Pertonym">
+<lexUnit id="l3767" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Tier</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2455" category="adj" class="Pertonym">
+<lexUnit id="l3768" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Form</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2456" category="adj" class="Pertonym">
+<lexUnit id="l3769" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Geschehen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2457" category="adj" class="Pertonym">
+<lexUnit id="l3770" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Besitz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2458" category="adj" class="Pertonym">
+<lexUnit id="l3771" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Gruppe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2459" category="adj" class="Pertonym">
+<lexUnit id="l3772" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Relation</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2460" category="adj" class="Pertonym">
+<lexUnit id="l3773" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Artefakt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2461" category="adj" class="Pertonym">
+<lexUnit id="l3774" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Motiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2462" category="adj" class="Pertonym">
+<lexUnit id="l3775" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Ort</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2463" category="adj" class="Pertonym">
+<lexUnit id="l3776" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Mensch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2464" category="adj" class="Pertonym">
+<lexUnit id="l3777" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Substanz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2465" category="adj" class="Pertonym">
+<lexUnit id="l3778" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Pflanze</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2466" category="adj" class="Pertonym">
+<lexUnit id="l3779" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Menge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2467" category="adj" class="Pertonym">
+<lexUnit id="l3780" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Attribut</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2468" category="adj" class="Pertonym">
+<lexUnit id="l3781" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Zeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2469" category="adj" class="Pertonym">
+<lexUnit id="l3782" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Tops</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2470" category="adj" class="Pertonym">
+<lexUnit id="l3783" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom natGegenstand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2471" category="adj" class="Pertonym">
+<lexUnit id="l3784" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom Gefuehl</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2472" category="adj" class="Pertonym">
+<lexUnit id="l3785" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>denom natPhaenomen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2473" category="adj" class="Pertonym">
+<lexUnit id="l3786" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>adverbial</orthForm>
+</lexUnit>
+<lexUnit id="l3787" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>adverbiell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2474" category="adj" class="Pertonym">
+<lexUnit id="l3788" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>appositionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2475" category="adj" class="Pertonym">
+<lexUnit id="l3789" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>arteriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2476" category="adj" class="Pertonym">
+<lexUnit id="l3790" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bakteriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2477" category="adj" class="Pertonym">
+<lexUnit id="l3791" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bronchial</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2478" category="adj" class="Pertonym">
+<lexUnit id="l3792" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dimensional</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2479" category="adj" class="Pertonym">
+<lexUnit id="l3793" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>eindimensional</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2480" category="adj" class="Pertonym">
+<lexUnit id="l3794" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zweidimensional</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2481" category="adj" class="Pertonym">
+<lexUnit id="l3795" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dreidimensional</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2482" category="adj" class="Pertonym">
+<lexUnit id="l3796" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>plastisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2483" category="adj" class="Pertonym">
+<lexUnit id="l3797" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>experimental</orthForm>
+</lexUnit>
+<lexUnit id="l3798" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>experimentell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2484" category="adj" class="Pertonym">
+<lexUnit id="l3799" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fiktional</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2485" category="adj" class="Pertonym">
+<lexUnit id="l3800" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>selektiv</orthForm>
+</lexUnit>
+<lexUnit id="l3801" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>auswählend</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2486" category="adj" class="Pertonym">
+<lexUnit id="l3802" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>figural</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2487" category="adj" class="Pertonym">
+<lexUnit id="l3803" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>finanziell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2488" category="adj" class="Pertonym">
+<lexUnit id="l3804" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>preislich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2489" category="adj" class="Pertonym">
+<lexUnit id="l3805" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tariflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2490" category="adj" class="Pertonym">
+<lexUnit id="l3806" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wertmäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2491" category="adj" class="Pertonym">
+<lexUnit id="l3807" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>formal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2492" category="adj" class="Pertonym">
+<lexUnit id="l3808" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fraktionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2493" category="adj" class="Pertonym">
+<lexUnit id="l3809" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>funktional</orthForm>
+</lexUnit>
+<lexUnit id="l3810" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>funktionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2494" category="adj" class="Pertonym">
+<lexUnit id="l3811" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>herrschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2495" category="adj" class="Pertonym">
+<lexUnit id="l3812" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vegetativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2496" category="adj" class="Pertonym">
+<lexUnit id="l3813" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hegemonial</orthForm>
+</lexUnit>
+<lexUnit id="l3814" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hegemonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2497" category="adj" class="Pertonym">
+<lexUnit id="l3815" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aerodynamisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2498" category="adj" class="Pertonym">
+<lexUnit id="l3816" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>morphologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2499" category="adj" class="Pertonym">
+<lexUnit id="l3817" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>semantisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2500" category="adj" class="Pertonym">
+<lexUnit id="l3818" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>völkisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2501" category="adj" class="Pertonym">
+<lexUnit id="l3819" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fremdsprachig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2502" category="adj" class="Pertonym">
+<lexUnit id="l3820" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>apostolisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2503" category="adj" class="Pertonym">
+<lexUnit id="l3821" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>herzoglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2504" category="adj" class="Pertonym">
+<lexUnit id="l3822" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kurfürstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2505" category="adj" class="Pertonym">
+<lexUnit id="l3823" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sandig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2506" category="adj" class="Pertonym">
+<lexUnit id="l3824" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hellenistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2507" category="adj" class="Pertonym">
+<lexUnit id="l3825" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>evolutionär</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2508" category="adj" class="Pertonym">
+<lexUnit id="l3826" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>neurologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2509" category="adj" class="Pertonym">
+<lexUnit id="l3827" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zivilisatorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2510" category="adj" class="Pertonym">
+<lexUnit id="l3828" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zylindrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2511" category="adj" class="Pertonym">
+<lexUnit id="l3829" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lexikalisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2512" category="adj" class="Pertonym">
+<lexUnit id="l3830" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>grammatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2513" category="adj" class="Pertonym">
+<lexUnit id="l3831" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>börslich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2514" category="adj" class="Pertonym">
+<lexUnit id="l3832" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nachbörslich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2515" category="adj" class="Pertonym">
+<lexUnit id="l3833" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nachrichtendienstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2517" category="adj" class="Pertonym">
+<lexUnit id="l3835" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hormonal</orthForm>
+</lexUnit>
+<lexUnit id="l3836" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hormonell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2518" category="adj" class="Pertonym">
+<lexUnit id="l3837" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>industriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2519" category="adj" class="Pertonym">
+<lexUnit id="l3838" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>informationell</orthForm>
+</lexUnit>
+<lexUnit id="l3839" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>informativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2520" category="adj" class="Pertonym">
+<lexUnit id="l3840" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verfassungsmäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2521" category="adj" class="Pertonym">
+<lexUnit id="l3841" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>felsig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2522" category="adj" class="Pertonym">
+<lexUnit id="l3842" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>versicherungstechnisch</orthForm>
+</lexUnit>
+<lexUnit id="l3843" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>versicherungsmäßig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2523" category="adj" class="Pertonym">
+<lexUnit id="l3844" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>medial</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2524" category="adj" class="Pertonym">
+<lexUnit id="l3845" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>infrastrukturell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2525" category="adj" class="Pertonym">
+<lexUnit id="l3846" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>institutionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2526" category="adj" class="Pertonym">
+<lexUnit id="l3847" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>instrumental</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2527" category="adj" class="Pertonym">
+<lexUnit id="l3848" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>instrumentell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2528" category="adj" class="Pertonym">
+<lexUnit id="l3849" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>intentional</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2529" category="adj" class="Pertonym">
+<lexUnit id="l3850" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kantonal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2530" category="adj" class="Pertonym">
+<lexUnit id="l3851" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>katastrophal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2531" category="adj" class="Pertonym">
+<lexUnit id="l3852" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pornografisch</orthForm>
+<orthVar>pornographisch</orthVar>
+<oldOrthForm>pornographisch</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s2532" category="adj" class="Pertonym">
+<lexUnit id="l3854" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kolonial</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2533" category="adj" class="Pertonym">
+<lexUnit id="l3855" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kolossal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2534" category="adj" class="Pertonym">
+<lexUnit id="l3856" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kommerziell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2535" category="adj" class="Pertonym">
+<lexUnit id="l3857" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kommunal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2536" category="adj" class="Pertonym">
+<lexUnit id="l3859" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>konditionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2537" category="adj" class="Pertonym">
+<lexUnit id="l3860" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>konfessionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2538" category="adj" class="Pertonym">
+<lexUnit id="l3861" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>föderal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2539" category="adj" class="Pertonym">
+<lexUnit id="l3862" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>föderalistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2540" category="adj" class="Pertonym">
+<lexUnit id="l3863" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zentralistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2541" category="adj" class="Pertonym">
+<lexUnit id="l3864" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>konjektural</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2542" category="adj" class="Pertonym">
+<lexUnit id="l3865" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>konstitutionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2543" category="adj" class="Pertonym">
+<lexUnit id="l3866" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>konstitutionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2544" category="adj" class="Pertonym">
+<lexUnit id="l3867" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kontextuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2545" category="adj" class="Pertonym">
+<lexUnit id="l3868" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>konventionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2546" category="adj" class="Pertonym">
+<lexUnit id="l3869" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>konventional</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2547" category="adj" class="Pertonym">
+<lexUnit id="l3870" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>konzeptionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2548" category="adj" class="Pertonym">
+<lexUnit id="l3871" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>analytisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2549" category="adj" class="Pertonym">
+<lexUnit id="l3872" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>architektonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2550" category="adj" class="Pertonym">
+<lexUnit id="l3873" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fiktiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2551" category="adj" class="Pertonym">
+<lexUnit id="l3874" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kulturell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2552" category="adj" class="Pertonym">
+<lexUnit id="l3875" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rassisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2553" category="adj" class="Pertonym">
+<lexUnit id="l3876" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>publizistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2554" category="adj" class="Pertonym">
+<lexUnit id="l3877" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>maschinell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2555" category="adj" class="Pertonym">
+<lexUnit id="l3878" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>materiell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2556" category="adj" class="Pertonym">
+<lexUnit id="l3879" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ministerial</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2557" category="adj" class="Pertonym">
+<lexUnit id="l3880" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ministeriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2558" category="adj" class="Pertonym">
+<lexUnit id="l3881" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bischöflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2559" category="adj" class="Pertonym">
+<lexUnit id="l3882" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erzbischöflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2560" category="adj" class="Pertonym">
+<lexUnit id="l3883" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>päpstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2561" category="adj" class="Pertonym">
+<lexUnit id="l3884" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gerichtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2562" category="adj" class="Pertonym">
+<lexUnit id="l3885" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>außergerichtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2563" category="adj" class="Pertonym">
+<lexUnit id="l3886" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>staatsanwaltschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2564" category="adj" class="Pertonym">
+<lexUnit id="l3887" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>richterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2565" category="adj" class="Pertonym">
+<lexUnit id="l3888" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>höchstrichterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2566" category="adj" class="Pertonym">
+<lexUnit id="l3889" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>monumental</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2567" category="adj" class="Pertonym">
+<lexUnit id="l3890" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nasal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2568" category="adj" class="Pertonym">
+<lexUnit id="l3891" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nasal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2569" category="adj" class="Pertonym">
+<lexUnit id="l3892" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>national</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2570" category="adj" class="Pertonym">
+<lexUnit id="l3893" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bundesrepublikanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2571" category="adj" class="Pertonym">
+<lexUnit id="l3894" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bundesrepublikanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2572" category="adj" class="Pertonym">
+<lexUnit id="l3895" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>notariell</orthForm>
+</lexUnit>
+<lexUnit id="l3896" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>notarisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2573" category="adj" class="Pertonym">
+<lexUnit id="l3897" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>diakonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2574" category="adj" class="Pertonym">
+<lexUnit id="l3898" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>oppositionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2575" category="adj" class="Pertonym">
+<lexUnit id="l3899" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>oppositionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2576" category="adj" class="Pertonym">
+<lexUnit id="l3900" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dialektisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2577" category="adj" class="Pertonym">
+<lexUnit id="l3901" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dialektisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2578" category="adj" class="Pertonym">
+<lexUnit id="l3902" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pflanzlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2579" category="adj" class="Pertonym">
+<lexUnit id="l3903" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>orbital</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2580" category="adj" class="Pertonym">
+<lexUnit id="l3904" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>orchestral</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2581" category="adj" class="Pertonym">
+<lexUnit id="l3905" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>philharmonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2582" category="adj" class="Pertonym">
+<lexUnit id="l3906" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sinfonisch</orthForm>
+<orthVar>symphonisch</orthVar>
+<oldOrthForm>symphonisch</oldOrthForm>
+<oldOrthVar>sinfonisch</oldOrthVar>
+</lexUnit>
+</synset>
+<synset id="s2583" category="adj" class="Pertonym">
+<lexUnit id="l3908" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ornamental</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2584" category="adj" class="Pertonym">
+<lexUnit id="l3909" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>partizipial</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2585" category="adj" class="Pertonym">
+<lexUnit id="l3910" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pastoral</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2586" category="adj" class="Pertonym">
+<lexUnit id="l3911" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>personell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2587" category="adj" class="Pertonym">
+<lexUnit id="l3912" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>personal</orthForm>
+</lexUnit>
+<lexUnit id="l3913" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>personenbezogen</orthForm>
+</lexUnit>
+<lexUnit id="l3914" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>persönlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2588" category="adj" class="Pertonym">
+<lexUnit id="l3915" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>elterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2589" category="adj" class="Pertonym">
+<lexUnit id="l3916" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>phänomenal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2590" category="adj" class="Pertonym">
+<lexUnit id="l3917" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>positionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2591" category="adj" class="Pertonym">
+<lexUnit id="l3918" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>präpositional</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2592" category="adj" class="Pertonym">
+<lexUnit id="l3919" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>prinzipiell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2593" category="adj" class="Pertonym">
+<lexUnit id="l3920" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>professionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2594" category="adj" class="Pertonym">
+<lexUnit id="l3921" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>treuhändisch</orthForm>
+</lexUnit>
+<lexUnit id="l3922" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>treuhänderisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2595" category="adj" class="Pertonym">
+<lexUnit id="l3923" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>professoral</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2596" category="adj" class="Pertonym">
+<lexUnit id="l3924" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pronominal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2597" category="adj" class="Pertonym">
+<lexUnit id="l3925" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>proportional</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2598" category="adj" class="Pertonym">
+<lexUnit id="l3926" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>prozentual</orthForm>
+</lexUnit>
+<lexUnit id="l3927" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>prozentuell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2599" category="adj" class="Pertonym">
+<lexUnit id="l3928" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>quantitativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2600" category="adj" class="Pertonym">
+<lexUnit id="l3929" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rational</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2601" category="adj" class="Pertonym">
+<lexUnit id="l3930" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>redaktionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2602" category="adj" class="Pertonym">
+<lexUnit id="l3931" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sakramental</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2603" category="adj" class="Pertonym">
+<lexUnit id="l3932" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>seriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2604" category="adj" class="Pertonym">
+<lexUnit id="l3933" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sexuell</orthForm>
+</lexUnit>
+<lexUnit id="l3934" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sexual</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2605" category="adj" class="Pertonym">
+<lexUnit id="l3935" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>strukturell</orthForm>
+</lexUnit>
+<lexUnit id="l3936" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>struktural</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2606" category="adj" class="Pertonym">
+<lexUnit id="l3938" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>substanziell</orthForm>
+<orthVar>substantiell</orthVar>
+<oldOrthForm>substantiell</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s2607" category="adj" class="Pertonym">
+<lexUnit id="l3939" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>synagogal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2608" category="adj" class="Pertonym">
+<lexUnit id="l3940" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>synodal</orthForm>
+</lexUnit>
+<lexUnit id="l3941" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>synodisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2609" category="adj" class="Pertonym">
+<lexUnit id="l3942" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tangential</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2610" category="adj" class="Pertonym">
+<lexUnit id="l3943" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tendenziell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2611" category="adj" class="Pertonym">
+<lexUnit id="l3944" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>thermal</orthForm>
+</lexUnit>
+<lexUnit id="l3945" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>thermisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2612" category="adj" class="Pertonym">
+<lexUnit id="l3946" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>museal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2613" category="adj" class="Pertonym">
+<lexUnit id="l3947" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tonal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2614" category="adj" class="Pertonym">
+<lexUnit id="l3948" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>traditionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2615" category="adj" class="Pertonym">
+<lexUnit id="l3949" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>triumphal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2616" category="adj" class="Pertonym">
+<lexUnit id="l3950" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vaginal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2617" category="adj" class="Pertonym">
+<lexUnit id="l3951" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vektoriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2618" category="adj" class="Pertonym">
+<lexUnit id="l3952" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verbal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2619" category="adj" class="Pertonym">
+<lexUnit id="l3953" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zentrifugal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2620" category="adj" class="Pertonym">
+<lexUnit id="l3954" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zeremoniell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2621" category="adj" class="Pertonym">
+<lexUnit id="l3955" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>funky</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2622" category="adj" class="Pertonym">
+<lexUnit id="l3956" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>adjektivisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2623" category="adj" class="Pertonym">
+<lexUnit id="l3957" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ägyptologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2624" category="adj" class="Pertonym">
+<lexUnit id="l3958" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>archäologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2625" category="adj" class="Pertonym">
+<lexUnit id="l3959" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>didaktisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2626" category="adj" class="Pertonym">
+<lexUnit id="l3960" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>diagnostisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2627" category="adj" class="Pertonym">
+<lexUnit id="l3961" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>akademisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2628" category="adj" class="Pertonym">
+<lexUnit id="l3962" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>universitär</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2629" category="adj" class="Pertonym">
+<lexUnit id="l3963" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>akrobatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2630" category="adj" class="Pertonym">
+<lexUnit id="l3964" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>algebraisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2631" category="adj" class="Pertonym">
+<lexUnit id="l3965" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geometrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2632" category="adj" class="Pertonym">
+<lexUnit id="l3966" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>alkalisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2633" category="adj" class="Pertonym">
+<lexUnit id="l3967" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>alkoholisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2634" category="adj" class="Pertonym">
+<lexUnit id="l3968" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>steinig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2635" category="adj" class="Pertonym">
+<lexUnit id="l3969" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>alkoholfrei</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2636" category="adj" class="Pertonym">
+<lexUnit id="l3970" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>folkloristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2637" category="adj" class="Pertonym">
+<lexUnit id="l3971" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>szenisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2638" category="adj" class="Pertonym">
+<lexUnit id="l3972" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>allegorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2639" category="adj" class="Pertonym">
+<lexUnit id="l3973" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>allergisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2640" category="adj" class="Pertonym">
+<lexUnit id="l3974" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>alphabetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2641" category="adj" class="Pertonym">
+<lexUnit id="l3975" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>amphibisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2642" category="adj" class="Pertonym">
+<lexUnit id="l3976" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anglistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2643" category="adj" class="Pertonym">
+<lexUnit id="l3977" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>automatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2644" category="adj" class="Pertonym">
+<lexUnit id="l3978" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vollautomatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2645" category="adj" class="Pertonym">
+<lexUnit id="l3979" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>halbautomatisch</orthForm>
+</lexUnit>
+<lexUnit id="l3980" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>semiautomatisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2646" category="adj" class="Pertonym">
+<lexUnit id="l3981" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>beruflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2647" category="adj" class="Pertonym">
+<lexUnit id="l3982" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gewerblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2648" category="adj" class="Pertonym">
+<lexUnit id="l3983" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>steuerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2649" category="adj" class="Pertonym">
+<lexUnit id="l3984" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fiskalisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2650" category="adj" class="Pertonym">
+<lexUnit id="l3985" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gastronomisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2651" category="adj" class="Pertonym">
+<lexUnit id="l3986" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>biologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2652" category="adj" class="Pertonym">
+<lexUnit id="l3987" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zoologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2653" category="adj" class="Pertonym">
+<lexUnit id="l3988" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>botanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2654" category="adj" class="Pertonym">
+<lexUnit id="l3989" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>therapeutisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2655" category="adj" class="Pertonym">
+<lexUnit id="l3990" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>psychotherapeutisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2656" category="adj" class="Pertonym">
+<lexUnit id="l3991" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>psychoanalytisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2657" category="adj" class="Pertonym">
+<lexUnit id="l3992" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>volkskundlich</orthForm>
+</lexUnit>
+<lexUnit id="l3993" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ethnologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2658" category="adj" class="Pertonym">
+<lexUnit id="l3994" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>genetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2659" category="adj" class="Pertonym">
+<lexUnit id="l3995" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geografisch</orthForm>
+<orthVar>geographisch</orthVar>
+<oldOrthForm>geographisch</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s2660" category="adj" class="Pertonym">
+<lexUnit id="l3997" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2661" category="adj" class="Pertonym">
+<lexUnit id="l3998" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>chemisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2662" category="adj" class="Pertonym">
+<lexUnit id="l3999" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>biochemisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2663" category="adj" class="Pertonym">
+<lexUnit id="l4000" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dramaturgisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2664" category="adj" class="Pertonym">
+<lexUnit id="l4001" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>studentisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2665" category="adj" class="Pertonym">
+<lexUnit id="l4002" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dominikanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2666" category="adj" class="Pertonym">
+<lexUnit id="l4003" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>franziskanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2667" category="adj" class="Pertonym">
+<lexUnit id="l4004" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>benediktinisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2668" category="adj" class="Pertonym">
+<lexUnit id="l4005" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>johannitisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2669" category="adj" class="Pertonym">
+<lexUnit id="l4006" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zisterziensisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2670" category="adj" class="Pertonym">
+<lexUnit id="l4007" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unternehmerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2671" category="adj" class="Pertonym">
+<lexUnit id="l4008" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vatikanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2672" category="adj" class="Pertonym">
+<lexUnit id="l4009" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>elektrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2673" category="adj" class="Pertonym">
+<lexUnit id="l4010" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schattig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2674" category="adj" class="Pertonym">
+<lexUnit id="l4011" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>elektronisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2675" category="adj" class="Pertonym">
+<lexUnit id="l4012" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>germanistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2676" category="adj" class="Pertonym">
+<lexUnit id="l4013" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geschichtlich</orthForm>
+</lexUnit>
+<lexUnit id="l4014" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>historisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2677" category="adj" class="Pertonym">
+<lexUnit id="l4015" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zeitgeschichtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2678" category="adj" class="Pertonym">
+<lexUnit id="l4016" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geistesgeschichtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2679" category="adj" class="Pertonym">
+<lexUnit id="l4017" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>humanistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2680" category="adj" class="Pertonym">
+<lexUnit id="l4018" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wilhelminisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2681" category="adj" class="Pertonym">
+<lexUnit id="l4019" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>viktorianisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2682" category="adj" class="Pertonym">
+<lexUnit id="l4020" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aufklärerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2683" category="adj" class="Pertonym">
+<lexUnit id="l4021" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rationalistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2684" category="adj" class="Pertonym">
+<lexUnit id="l4022" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>behaviouristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2685" category="adj" class="Pertonym">
+<lexUnit id="l4023" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>strukturalistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2686" category="adj" class="Pertonym">
+<lexUnit id="l4024" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>romantizistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2687" category="adj" class="Pertonym">
+<lexUnit id="l4025" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kirchengeschichtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2688" category="adj" class="Pertonym">
+<lexUnit id="l4026" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>calvinistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2689" category="adj" class="Pertonym">
+<lexUnit id="l4027" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>methodistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2690" category="adj" class="Pertonym">
+<lexUnit id="l4028" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kulturgeschichtlich</orthForm>
+</lexUnit>
+<lexUnit id="l4029" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kulturhistorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2691" category="adj" class="Pertonym">
+<lexUnit id="l4030" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kunstgeschichtlich</orthForm>
+</lexUnit>
+<lexUnit id="l4031" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kunsthistorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2692" category="adj" class="Pertonym">
+<lexUnit id="l4032" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mittelalterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2693" category="adj" class="Pertonym">
+<lexUnit id="l4033" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>spätmittelalterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2694" category="adj" class="Pertonym">
+<lexUnit id="l4034" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>frühmittelalterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2695" category="adj" class="Pertonym">
+<lexUnit id="l4035" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>postmodern</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2696" category="adj" class="Pertonym">
+<lexUnit id="l4036" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>frühgeschichtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2697" category="adj" class="Pertonym">
+<lexUnit id="l4037" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vorgeschichtlich</orthForm>
+</lexUnit>
+<lexUnit id="l4038" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>prähistorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2698" category="adj" class="Pertonym">
+<lexUnit id="l4039" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ideologisch</orthForm>
+</lexUnit>
+<lexUnit id="l4040" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weltanschaulich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2699" category="adj" class="Pertonym">
+<lexUnit id="l4041" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>inhaltlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2700" category="adj" class="Pertonym">
+<lexUnit id="l4042" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>thematisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2701" category="adj" class="Pertonym">
+<lexUnit id="l4043" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>journalistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2702" category="adj" class="Pertonym">
+<lexUnit id="l4044" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>juristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2703" category="adj" class="Pertonym">
+<lexUnit id="l4045" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kolonialistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2704" category="adj" class="Pertonym">
+<lexUnit id="l4046" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gewerkschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2705" category="adj" class="Pertonym">
+<lexUnit id="l4047" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geheimdienstlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2706" category="adj" class="Pertonym">
+<lexUnit id="l4048" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>genossenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2707" category="adj" class="Pertonym">
+<lexUnit id="l4049" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>künstlerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2708" category="adj" class="Pertonym">
+<lexUnit id="l4050" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stimmlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2709" category="adj" class="Pertonym">
+<lexUnit id="l4051" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kompositorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2710" category="adj" class="Pertonym">
+<lexUnit id="l4052" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>islamistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2711" category="adj" class="Pertonym">
+<lexUnit id="l4053" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dadaistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2712" category="adj" class="Pertonym">
+<lexUnit id="l4054" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>genealogisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2713" category="adj" class="Pertonym">
+<lexUnit id="l4055" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>phonetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2714" category="adj" class="Pertonym">
+<lexUnit id="l4056" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geodätisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2715" category="adj" class="Pertonym">
+<lexUnit id="l4057" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2716" category="adj" class="Pertonym">
+<lexUnit id="l4058" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>neugotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2717" category="adj" class="Pertonym">
+<lexUnit id="l4059" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>frühgotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2718" category="adj" class="Pertonym">
+<lexUnit id="l4060" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>spätgotisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2719" category="adj" class="Pertonym">
+<lexUnit id="l4061" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klassizistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2720" category="adj" class="Pertonym">
+<lexUnit id="l4062" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>surrealistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2721" category="adj" class="Pertonym">
+<lexUnit id="l4063" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>impressionistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2722" category="adj" class="Pertonym">
+<lexUnit id="l4064" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>expressionistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2723" category="adj" class="Pertonym">
+<lexUnit id="l4065" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>barock</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2724" category="adj" class="Pertonym">
+<lexUnit id="l4066" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>landwirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2725" category="adj" class="Pertonym">
+<lexUnit id="l4067" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>betriebswirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2726" category="adj" class="Pertonym">
+<lexUnit id="l4068" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>volkswirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2727" category="adj" class="Pertonym">
+<lexUnit id="l4069" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kaufmännisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2728" category="adj" class="Pertonym">
+<lexUnit id="l4070" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bäuerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2729" category="adj" class="Pertonym">
+<lexUnit id="l4071" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gesanglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2730" category="adj" class="Pertonym">
+<lexUnit id="l4072" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>polizeilich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2731" category="adj" class="Pertonym">
+<lexUnit id="l4073" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kriminalistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2732" category="adj" class="Pertonym">
+<lexUnit id="l4074" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>urkundlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2733" category="adj" class="Pertonym">
+<lexUnit id="l4075" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>literarisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2734" category="adj" class="Pertonym">
+<lexUnit id="l4076" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lyrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2735" category="adj" class="Pertonym">
+<lexUnit id="l4077" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>episch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2736" category="adj" class="Pertonym">
+<lexUnit id="l4078" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>liturgisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2737" category="adj" class="Pertonym">
+<lexUnit id="l4079" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mathematisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2738" category="adj" class="Pertonym">
+<lexUnit id="l4080" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>arithmetisch</orthForm>
+</lexUnit>
+<lexUnit id="l4081" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rechnerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2739" category="adj" class="Pertonym">
+<lexUnit id="l4082" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>statistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2740" category="adj" class="Pertonym">
+<lexUnit id="l4083" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stochastisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2741" category="adj" class="Pertonym">
+<lexUnit id="l4084" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>medizinal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2742" category="adj" class="Pertonym">
+<lexUnit id="l4085" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gesundheitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2743" category="adj" class="Pertonym">
+<lexUnit id="l4086" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nervlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2744" category="adj" class="Pertonym">
+<lexUnit id="l4087" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hygienisch</orthForm>
+</lexUnit>
+<lexUnit id="l4088" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sanitär</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2745" category="adj" class="Pertonym">
+<lexUnit id="l4089" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ganzheitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2746" category="adj" class="Pertonym">
+<lexUnit id="l4090" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>militärisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2747" category="adj" class="Pertonym">
+<lexUnit id="l4091" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>handwerklich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2748" category="adj" class="Pertonym">
+<lexUnit id="l4092" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>militaristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2749" category="adj" class="Pertonym">
+<lexUnit id="l4093" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>musikalisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2750" category="adj" class="Pertonym">
+<lexUnit id="l4094" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>naturwissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2751" category="adj" class="Pertonym">
+<lexUnit id="l4095" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>poulärwissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2752" category="adj" class="Pertonym">
+<lexUnit id="l4096" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geisteswissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2753" category="adj" class="Pertonym">
+<lexUnit id="l4097" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gesellschaftswissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2754" category="adj" class="Pertonym">
+<lexUnit id="l4098" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geheimwissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2755" category="adj" class="Pertonym">
+<lexUnit id="l4099" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>esoterisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2756" category="adj" class="Pertonym">
+<lexUnit id="l4100" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>okkultistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2757" category="adj" class="Pertonym">
+<lexUnit id="l4101" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>soziologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2758" category="adj" class="Pertonym">
+<lexUnit id="l4102" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sozialwissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2759" category="adj" class="Pertonym">
+<lexUnit id="l4103" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>demografisch</orthForm>
+<orthVar>demographisch</orthVar>
+<oldOrthForm>demographisch</oldOrthForm>
+</lexUnit>
+<lexUnit id="l4105" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bevölkerungswissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2760" category="adj" class="Pertonym">
+<lexUnit id="l4106" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>theologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2761" category="adj" class="Pertonym">
+<lexUnit id="l4107" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>olympisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2762" category="adj" class="Pertonym">
+<lexUnit id="l4108" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weihnachtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2763" category="adj" class="Pertonym">
+<lexUnit id="l4109" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>organisatorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2764" category="adj" class="Pertonym">
+<lexUnit id="l4110" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pädagogisch</orthForm>
+</lexUnit>
+<lexUnit id="l4111" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erzieherisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2765" category="adj" class="Pertonym">
+<lexUnit id="l4112" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>parlamentarisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2766" category="adj" class="Pertonym">
+<lexUnit id="l4113" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gesetzgeberisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2767" category="adj" class="Pertonym">
+<lexUnit id="l4114" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>praktisch</orthForm>
+</lexUnit>
+<lexUnit id="l4115" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>praxisbezogen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2768" category="adj" class="Pertonym">
+<lexUnit id="l4116" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>angewandt</orthForm>
+</lexUnit>
+<lexUnit id="l4117" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anwendungsbezogen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2769" category="adj" class="Pertonym">
+<lexUnit id="l4118" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anwenderfreundlich</orthForm>
+</lexUnit>
+<lexUnit id="l4119" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>benutzerfreundlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2770" category="adj" class="Pertonym">
+<lexUnit id="l4120" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>theoretisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2771" category="adj" class="Pertonym">
+<lexUnit id="l4121" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>philosophisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2772" category="adj" class="Pertonym">
+<lexUnit id="l4122" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>physikalisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2773" category="adj" class="Pertonym">
+<lexUnit id="l4123" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ballistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2774" category="adj" class="Pertonym">
+<lexUnit id="l4124" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ionisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2775" category="adj" class="Pertonym">
+<lexUnit id="l4125" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>logistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2776" category="adj" class="Pertonym">
+<lexUnit id="l4126" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>poetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2778" category="adj" class="Pertonym">
+<lexUnit id="l4128" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2779" category="adj" class="Pertonym">
+<lexUnit id="l4129" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kartellrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2780" category="adj" class="Pertonym">
+<lexUnit id="l4130" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>logistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2781" category="adj" class="Pertonym">
+<lexUnit id="l4131" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>poetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2782" category="adj" class="Pertonym">
+<lexUnit id="l4132" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>psychologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2783" category="adj" class="Pertonym">
+<lexUnit id="l4133" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>physiologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2785" category="adj" class="Pertonym">
+<lexUnit id="l4135" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>disziplinarisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2786" category="adj" class="Pertonym">
+<lexUnit id="l4136" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>strafrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2787" category="adj" class="Pertonym">
+<lexUnit id="l4137" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zivilrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2788" category="adj" class="Pertonym">
+<lexUnit id="l4138" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>steuerrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2789" category="adj" class="Pertonym">
+<lexUnit id="l4139" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>atomrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2790" category="adj" class="Pertonym">
+<lexUnit id="l4140" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>baurechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2791" category="adj" class="Pertonym">
+<lexUnit id="l4141" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>völkerrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2792" category="adj" class="Pertonym">
+<lexUnit id="l4142" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>qualitativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2793" category="adj" class="Pertonym">
+<lexUnit id="l4143" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verfassungsrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2794" category="adj" class="Pertonym">
+<lexUnit id="l4144" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>arbeitsrechtlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2795" category="adj" class="Pertonym">
+<lexUnit id="l4145" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sprachwissenschaftlich</orthForm>
+</lexUnit>
+<lexUnit id="l4146" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>linguistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2796" category="adj" class="Pertonym">
+<lexUnit id="l4147" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>technisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2797" category="adj" class="Pertonym">
+<lexUnit id="l4148" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>technologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2798" category="adj" class="Pertonym">
+<lexUnit id="l4149" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gentechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2799" category="adj" class="Pertonym">
+<lexUnit id="l4150" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sicherheitstechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2800" category="adj" class="Pertonym">
+<lexUnit id="l4151" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kerntechnisch</orthForm>
+</lexUnit>
+<lexUnit id="l4152" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>atomtechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2801" category="adj" class="Pertonym">
+<lexUnit id="l4153" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tontechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2802" category="adj" class="Pertonym">
+<lexUnit id="l4154" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>biotechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2803" category="adj" class="Pertonym">
+<lexUnit id="l4155" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pyrotechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2804" category="adj" class="Pertonym">
+<lexUnit id="l4156" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vulkanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2805" category="adj" class="Pertonym">
+<lexUnit id="l4157" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hannoversch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2806" category="adj" class="Pertonym">
+<lexUnit id="l4158" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hydraulisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2807" category="adj" class="Pertonym">
+<lexUnit id="l4159" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>elektrotechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2808" category="adj" class="Pertonym">
+<lexUnit id="l4160" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>flugtechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2809" category="adj" class="Pertonym">
+<lexUnit id="l4161" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>produktionstechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2810" category="adj" class="Pertonym">
+<lexUnit id="l4162" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>telefonisch</orthForm>
+</lexUnit>
+<lexUnit id="l4163" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>telephonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2811" category="adj" class="Pertonym">
+<lexUnit id="l4164" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>biblisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2812" category="adj" class="Pertonym">
+<lexUnit id="l4165" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2813" category="adj" class="Pertonym">
+<lexUnit id="l4166" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gesamtwirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2814" category="adj" class="Pertonym">
+<lexUnit id="l4167" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>privatwirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2815" category="adj" class="Pertonym">
+<lexUnit id="l4168" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weltwirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2816" category="adj" class="Pertonym">
+<lexUnit id="l4169" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>konjunkturell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2817" category="adj" class="Pertonym">
+<lexUnit id="l4170" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>marktwirtschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2818" category="adj" class="Pertonym">
+<lexUnit id="l4171" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>psychiatrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2819" category="adj" class="Pertonym">
+<lexUnit id="l4172" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wissenschaftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2820" category="adj" class="Pertonym">
+<lexUnit id="l4173" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>methodisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2821" category="adj" class="Pertonym">
+<lexUnit id="l4174" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wissenschaftsmethodisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2822" category="adj" class="Pertonym">
+<lexUnit id="l4175" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hermeneutisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2823" category="adj" class="Pertonym">
+<lexUnit id="l4176" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>empirisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2824" category="adj" class="Pertonym">
+<lexUnit id="l4177" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>induktiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2825" category="adj" class="Pertonym">
+<lexUnit id="l4178" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>deduktiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2827" category="adj" class="Pertonym">
+<lexUnit id="l4180" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2828" category="adj" class="Pertonym">
+<lexUnit id="l4181" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fachärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2829" category="adj" class="Pertonym">
+<lexUnit id="l4182" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klinisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2830" category="adj" class="Pertonym">
+<lexUnit id="l4183" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zahnärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2831" category="adj" class="Pertonym">
+<lexUnit id="l4184" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>chirurgisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2832" category="adj" class="Pertonym">
+<lexUnit id="l4185" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gynäkologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2833" category="adj" class="Pertonym">
+<lexUnit id="l4186" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>urologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2834" category="adj" class="Pertonym">
+<lexUnit id="l4187" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>radiologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2835" category="adj" class="Pertonym">
+<lexUnit id="l4188" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>orthopädisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2836" category="adj" class="Pertonym">
+<lexUnit id="l4189" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>internistisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2837" category="adj" class="Pertonym">
+<lexUnit id="l4190" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>psychiatrisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2838" category="adj" class="Pertonym">
+<lexUnit id="l4191" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>augenärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2839" category="adj" class="Pertonym">
+<lexUnit id="l4192" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gerichtsärztlich</orthForm>
+</lexUnit>
+<lexUnit id="l4193" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gerichtsmedizinisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2840" category="adj" class="Pertonym">
+<lexUnit id="l4194" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>amtsärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2841" category="adj" class="Pertonym">
+<lexUnit id="l4195" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tierärztlich</orthForm>
+</lexUnit>
+<lexUnit id="l4196" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>veterinärmedizinisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2842" category="adj" class="Pertonym">
+<lexUnit id="l4197" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pathologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2843" category="adj" class="Pertonym">
+<lexUnit id="l4198" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>humanmedizinisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2844" category="adj" class="Pertonym">
+<lexUnit id="l4199" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kassenärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2845" category="adj" class="Pertonym">
+<lexUnit id="l4200" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kassenzahnärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2846" category="adj" class="Pertonym">
+<lexUnit id="l4201" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>betriebsärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2847" category="adj" class="Pertonym">
+<lexUnit id="l4202" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>assistenzärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2848" category="adj" class="Pertonym">
+<lexUnit id="l4203" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>krankenhausärztlich</orthForm>
+</lexUnit>
+<lexUnit id="l4204" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klinikärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2849" category="adj" class="Pertonym">
+<lexUnit id="l4205" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kurärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2850" category="adj" class="Pertonym">
+<lexUnit id="l4206" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>badeärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2851" category="adj" class="Pertonym">
+<lexUnit id="l4207" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schulärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2852" category="adj" class="Pertonym">
+<lexUnit id="l4208" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vereinsärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2853" category="adj" class="Pertonym">
+<lexUnit id="l4209" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stationsärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2854" category="adj" class="Pertonym">
+<lexUnit id="l4210" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>oberärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2855" category="adj" class="Pertonym">
+<lexUnit id="l4211" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>chefärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2856" category="adj" class="Pertonym">
+<lexUnit id="l4212" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>praktikumsärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2857" category="adj" class="Pertonym">
+<lexUnit id="l4213" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>militärärztlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2858" category="adj" class="Pertonym">
+<lexUnit id="l4214" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>betrieblich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2859" category="adj" class="Pertonym">
+<lexUnit id="l4215" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>touristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2860" category="adj" class="Pertonym">
+<lexUnit id="l4216" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>massentouristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2861" category="adj" class="Pertonym">
+<lexUnit id="l4217" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ökologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2862" category="adj" class="Pertonym">
+<lexUnit id="l4218" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>baulich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2863" category="adj" class="Pertonym">
+<lexUnit id="l4219" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>städtebaulich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2864" category="adj" class="Pertonym">
+<lexUnit id="l4220" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bebildert</orthForm>
+</lexUnit>
+<lexUnit id="l4221" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>illustriert</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2865" category="adj" class="Pertonym">
+<lexUnit id="l4222" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kosmetisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2866" category="adj" class="Pertonym">
+<lexUnit id="l4223" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hierarchisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2867" category="adj" class="Pertonym">
+<lexUnit id="l4224" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>hoheitlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2868" category="adj" class="Pertonym">
+<lexUnit id="l4225" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mechanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2869" category="adj" class="Pertonym">
+<lexUnit id="l4226" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fußballerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2870" category="adj" class="Pertonym">
+<lexUnit id="l4227" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>handballerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2871" category="adj" class="Pertonym">
+<lexUnit id="l4228" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ursächlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2872" category="adj" class="Pertonym">
+<lexUnit id="l4229" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bildlich</orthForm>
+</lexUnit>
+<lexUnit id="l4230" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bildhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2873" category="adj" class="Pertonym">
+<lexUnit id="l4231" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>figurativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2874" category="adj" class="Pertonym">
+<lexUnit id="l4232" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>filmisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2875" category="adj" class="Pertonym">
+<lexUnit id="l4233" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fotografisch</orthForm>
+<orthVar>photographisch</orthVar>
+<oldOrthForm>photographisch</oldOrthForm>
+<oldOrthVar>fotografisch</oldOrthVar>
+</lexUnit>
+</synset>
+<synset id="s2876" category="adj" class="Pertonym">
+<lexUnit id="l4235" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>menschlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2877" category="adj" class="Pertonym">
+<lexUnit id="l4236" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tierisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2878" category="adj" class="Pertonym">
+<lexUnit id="l4237" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geistig</orthForm>
+</lexUnit>
+<lexUnit id="l4238" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mental</orthForm>
+</lexUnit>
+<lexUnit id="l4239" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>psychisch</orthForm>
+</lexUnit>
+<lexUnit id="l4240" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>spirituell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2879" category="adj" class="Pertonym">
+<lexUnit id="l4241" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>überschüssig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2880" category="adj" class="Pertonym">
+<lexUnit id="l4242" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>seelisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2881" category="adj" class="Pertonym">
+<lexUnit id="l4243" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>körperlich</orthForm>
+</lexUnit>
+<lexUnit id="l4244" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>physisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2882" category="adj" class="Pertonym">
+<lexUnit id="l4245" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>organisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2883" category="adj" class="Pertonym">
+<lexUnit id="l4246" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mündlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2884" category="adj" class="Pertonym">
+<lexUnit id="l4247" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schriftlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2885" category="adj" class="Pertonym">
+<lexUnit id="l4248" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>brieflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2886" category="adj" class="Pertonym">
+<lexUnit id="l4249" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>handschriftlich</orthForm>
+</lexUnit>
+<lexUnit id="l90136" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>handgeschrieben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2887" category="adj" class="Pertonym">
+<lexUnit id="l4250" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>äffisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2888" category="adj" class="Pertonym">
+<lexUnit id="l4251" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>liedhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2889" category="adj" class="Pertonym">
+<lexUnit id="l4252" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>formelhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2890" category="adj" class="Pertonym">
+<lexUnit id="l4253" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sinnbildlich</orthForm>
+</lexUnit>
+<lexUnit id="l4254" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sinnbildhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2891" category="adj" class="Pertonym">
+<lexUnit id="l4255" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>metaphorisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2892" category="adj" class="Pertonym">
+<lexUnit id="l4256" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mythisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2893" category="adj" class="Pertonym">
+<lexUnit id="l4257" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mythologisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2894" category="adj" class="Pertonym">
+<lexUnit id="l4258" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anekdotenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2895" category="adj" class="Pertonym">
+<lexUnit id="l4259" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bienenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2896" category="adj" class="Pertonym">
+<lexUnit id="l4260" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dämonenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2897" category="adj" class="Pertonym">
+<lexUnit id="l4261" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>elfenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2898" category="adj" class="Pertonym">
+<lexUnit id="l4262" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>engelhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2899" category="adj" class="Pertonym">
+<lexUnit id="l4263" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>episodenhaft</orthForm>
+</lexUnit>
+<lexUnit id="l4264" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>episodisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2900" category="adj" class="Pertonym">
+<lexUnit id="l4265" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>feenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2901" category="adj" class="Pertonym">
+<lexUnit id="l4266" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>floskelhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2902" category="adj" class="Pertonym">
+<lexUnit id="l4267" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>madonnenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2903" category="adj" class="Pertonym">
+<lexUnit id="l4268" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>maskenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2904" category="adj" class="Pertonym">
+<lexUnit id="l4269" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>modellhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2905" category="adj" class="Pertonym">
+<lexUnit id="l4270" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mythenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2906" category="adj" class="Pertonym">
+<lexUnit id="l4271" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nixenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2907" category="adj" class="Pertonym">
+<lexUnit id="l4272" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nomadenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2908" category="adj" class="Pertonym">
+<lexUnit id="l4273" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nymphenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2909" category="adj" class="Pertonym">
+<lexUnit id="l4274" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>angelsächsisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2910" category="adj" class="Pertonym">
+<lexUnit id="l4275" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bretonisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2911" category="adj" class="Pertonym">
+<lexUnit id="l4276" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>athenisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2912" category="adj" class="Pertonym">
+<lexUnit id="l4277" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anglikanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2913" category="adj" class="Pertonym">
+<lexUnit id="l4278" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>atmosphärisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2914" category="adj" class="Pertonym">
+<lexUnit id="l4279" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>atmosphärisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2915" category="adj" class="Pertonym">
+<lexUnit id="l4280" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>solar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2916" category="adj" class="Pertonym">
+<lexUnit id="l4281" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lunar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2917" category="adj" class="Pertonym">
+<lexUnit id="l4282" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>marin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2918" category="adj" class="Pertonym">
+<lexUnit id="l4283" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nautisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2919" category="adj" class="Pertonym">
+<lexUnit id="l4284" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>maritim</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2920" category="adj" class="Pertonym">
+<lexUnit id="l4285" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>maritim</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2921" category="adj" class="Pertonym">
+<lexUnit id="l4286" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kosmisch</orthForm>
+</lexUnit>
+<lexUnit id="l4287" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>universal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2922" category="adj" class="Pertonym">
+<lexUnit id="l4288" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>charakterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2923" category="adj" class="Pertonym">
+<lexUnit id="l4289" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>apokalyptisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2924" category="adj" class="Pertonym">
+<lexUnit id="l4290" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>astronomisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2925" category="adj" class="Pertonym">
+<lexUnit id="l4291" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ehelich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2926" category="adj" class="Pertonym">
+<lexUnit id="l4292" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>brüderlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2927" category="adj" class="Pertonym">
+<lexUnit id="l4293" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>geschwisterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2928" category="adj" class="Pertonym">
+<lexUnit id="l4294" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>väterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2929" category="adj" class="Pertonym">
+<lexUnit id="l4295" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mütterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2930" category="adj" class="Pertonym">
+<lexUnit id="l4296" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>klösterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2931" category="adj" class="Pertonym">
+<lexUnit id="l4297" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>priesterhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2932" category="adj" class="Pertonym">
+<lexUnit id="l4298" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>puppenhaft</orthForm>
+</lexUnit>
+<lexUnit id="l4299" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>puppig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2933" category="adj" class="Pertonym">
+<lexUnit id="l4300" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>skizzenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2934" category="adj" class="Pertonym">
+<lexUnit id="l4301" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schematisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2935" category="adj" class="Pertonym">
+<lexUnit id="l4302" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>argumentativ</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2936" category="adj" class="Pertonym">
+<lexUnit id="l4303" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>statuenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2937" category="adj" class="Pertonym">
+<lexUnit id="l4304" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tantenhaft</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2938" category="adj" class="Pertonym">
+<lexUnit id="l4305" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zigeunerhaft</orthForm>
+</lexUnit>
+<lexUnit id="l4306" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zigeunerisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2939" category="adj" class="Pertonym">
+<lexUnit id="l4307" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tarifvertraglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2940" category="adj" class="Pertonym">
+<lexUnit id="l4308" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zwitterhaft</orthForm>
+</lexUnit>
+<lexUnit id="l4309" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zwittrig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2941" category="adj" class="Pertonym">
+<lexUnit id="l4310" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>göttergleich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2942" category="adj" class="Pertonym">
+<lexUnit id="l4311" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>atomar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2943" category="adj" class="Pertonym">
+<lexUnit id="l4312" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nuklear</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2944" category="adj" class="Pertonym">
+<lexUnit id="l4313" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>modular</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2945" category="adj" class="Pertonym">
+<lexUnit id="l4314" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>molekular</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2946" category="adj" class="Pertonym">
+<lexUnit id="l4315" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stofflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2947" category="adj" class="Pertonym">
+<lexUnit id="l4316" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>partikular</orthForm>
+</lexUnit>
+<lexUnit id="l4317" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>partikulär</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2948" category="adj" class="Pertonym">
+<lexUnit id="l4318" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>planetar</orthForm>
+</lexUnit>
+<lexUnit id="l4319" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>planetarisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2949" category="adj" class="Pertonym">
+<lexUnit id="l4320" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>territorial</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2950" category="adj" class="Pertonym">
+<lexUnit id="l4321" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>skalar</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2951" category="adj" class="Pertonym">
+<lexUnit id="l4322" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gräflich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2952" category="adj" class="Pertonym">
+<lexUnit id="l4323" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>luxuriös</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2953" category="adj" class="Pertonym">
+<lexUnit id="l4324" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>glamourös</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2954" category="adj" class="Pertonym">
+<lexUnit id="l4325" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mafiös</orthForm>
+</lexUnit>
+<lexUnit id="l4326" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mafios</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2955" category="adj" class="Pertonym">
+<lexUnit id="l4327" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>steuerpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2956" category="adj" class="Pertonym">
+<lexUnit id="l4328" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schulpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2957" category="adj" class="Pertonym">
+<lexUnit id="l4329" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>meldepflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2958" category="adj" class="Pertonym">
+<lexUnit id="l4330" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>haftpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2959" category="adj" class="Pertonym">
+<lexUnit id="l4331" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mitteilungspflichtig</orthForm>
+</lexUnit>
+<lexUnit id="l93605" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anzeigepflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2960" category="adj" class="Pertonym">
+<lexUnit id="l4332" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zustimmungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2961" category="adj" class="Pertonym">
+<lexUnit id="l4333" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sozialversicherungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2962" category="adj" class="Pertonym">
+<lexUnit id="l4334" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kostenpflichtig</orthForm>
+</lexUnit>
+<lexUnit id="l93604" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>gebührenpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2963" category="adj" class="Pertonym">
+<lexUnit id="l4335" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>pflichtgemäß</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2964" category="adj" class="Pertonym">
+<lexUnit id="l4336" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>sinngemäß</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2965" category="adj" class="Pertonym">
+<lexUnit id="l4337" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>turnusgemäß</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2966" category="adj" class="Pertonym">
+<lexUnit id="l4338" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wahrheitsgemäß</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2969" category="adj" class="Pertonym">
+<lexUnit id="l4341" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>streckenweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2972" category="adj" class="Pertonym">
+<lexUnit id="l4344" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zwangsweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2973" category="adj" class="Pertonym">
+<lexUnit id="l4345" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>auszugweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="s2974" category="adj" class="Pertonym">
+<lexUnit id="l4346" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kognitiv</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66410" category="adj" class="Pertonym">
+<lexUnit id="l92172" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>formaljuristisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66411" category="adj" class="Pertonym">
+<lexUnit id="l92173" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>semi-professionell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66452" category="adj" class="Pertonym">
+<lexUnit id="l92219" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kleinbäuerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66455" category="adj" class="Pertonym">
+<lexUnit id="l92222" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kleingeschrieben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66852" category="adj" class="Pertonym">
+<lexUnit id="l92667" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>großherzoglich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66857" category="adj" class="Pertonym">
+<lexUnit id="l92672" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>großtechnisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66865" category="adj" class="Pertonym">
+<lexUnit id="l92681" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>großgeschrieben</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66867" category="adj" class="Pertonym">
+<lexUnit id="l92683" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>großindustriell</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66888" category="adj" class="Pertonym">
+<lexUnit id="l92706" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>großväterlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66893" category="adj" class="Pertonym">
+<lexUnit id="l92711" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>großbäuerlich</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66906" category="adj" class="Pertonym">
+<lexUnit id="l92725" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kleingeistig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67017" category="adj" class="Pertonym">
+<lexUnit id="l92850" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht kommerziell</orthForm>
+<orthVar>nichtkommerziell</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67020" category="adj" class="Pertonym">
+<lexUnit id="l92853" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht landwirtschaftlich</orthForm>
+<orthVar>nichtlandwirtschaftlich</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67048" category="adj" class="Pertonym">
+<lexUnit id="l92882" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht technisch</orthForm>
+<orthVar>nichttechnisch</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67069" category="adj" class="Pertonym">
+<lexUnit id="l92907" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht wissenschaftlich</orthForm>
+<orthVar>nichtwissenschaftlich</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67085" category="adj" class="Pertonym">
+<lexUnit id="l92926" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht olympisch</orthForm>
+<orthVar>nichtolympisch</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67096" category="adj" class="Pertonym">
+<lexUnit id="l92937" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht ärztlich</orthForm>
+<orthVar>nichtärztlich</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67102" category="adj" class="Pertonym">
+<lexUnit id="l92943" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht akademisch</orthForm>
+<orthVar>nichtakademisch</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67103" category="adj" class="Pertonym">
+<lexUnit id="l92944" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht gewerblich</orthForm>
+<orthVar>nichtgewerblich</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67142" category="adj" class="Pertonym">
+<lexUnit id="l92990" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht proportional</orthForm>
+<orthVar>nichtproportional</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67145" category="adj" class="Pertonym">
+<lexUnit id="l92993" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht fiktional</orthForm>
+<orthVar>nichtfiktional</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67146" category="adj" class="Pertonym">
+<lexUnit id="l92994" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht ionisch</orthForm>
+<orthVar>nichtionisch</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67150" category="adj" class="Pertonym">
+<lexUnit id="l92999" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht professionell</orthForm>
+<orthVar>nichtprofessionell</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67156" category="adj" class="Pertonym">
+<lexUnit id="l93005" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht selektiv</orthForm>
+<orthVar>nichtselektiv</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67283" category="adj" class="Pertonym">
+<lexUnit id="l93162" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht hierarchisch</orthForm>
+<orthVar>nichthierarchisch</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67287" category="adj" class="Pertonym">
+<lexUnit id="l93166" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht universitär</orthForm>
+<orthVar>nichtuniversitär</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67294" category="adj" class="Pertonym">
+<lexUnit id="l93174" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht empirisch</orthForm>
+<orthVar>nichtempirisch</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67297" category="adj" class="Pertonym">
+<lexUnit id="l93177" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht konfessionell</orthForm>
+<orthVar>nichtkonfessionell</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67300" category="adj" class="Pertonym">
+<lexUnit id="l93180" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht bäuerlich</orthForm>
+<orthVar>nichtbäuerlich</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67663" category="adj" class="Pertonym">
+<lexUnit id="l93606" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>tributpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67664" category="adj" class="Pertonym">
+<lexUnit id="l93607" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zehntpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67668" category="adj" class="Pertonym">
+<lexUnit id="l93611" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>versicherungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67667" category="adj" class="Pertonym">
+<lexUnit id="l93610" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zulassungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67666" category="adj" class="Pertonym">
+<lexUnit id="l93609" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>genehmigungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67665" category="adj" class="Pertonym">
+<lexUnit id="l93608" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>verschreibungspflichtig</orthForm>
+</lexUnit>
+<lexUnit id="l93614" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rezeptpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67669" category="adj" class="Pertonym">
+<lexUnit id="l93612" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wehrpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67670" category="adj" class="Pertonym">
+<lexUnit id="l93613" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>beitragspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67671" category="adj" class="Pertonym">
+<lexUnit id="l93615" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgabepflichtig</orthForm>
+</lexUnit>
+<lexUnit id="l93625" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>abgabenpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67672" category="adj" class="Pertonym">
+<lexUnit id="l93616" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>apothekenpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67673" category="adj" class="Pertonym">
+<lexUnit id="l93617" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zinspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67674" category="adj" class="Pertonym">
+<lexUnit id="l93618" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lizenzpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67676" category="adj" class="Pertonym">
+<lexUnit id="l93620" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>dienstpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67677" category="adj" class="Pertonym">
+<lexUnit id="l93621" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unterhaltspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67679" category="adj" class="Pertonym">
+<lexUnit id="l93623" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zollpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67681" category="adj" class="Pertonym">
+<lexUnit id="l93626" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>einkommenssteuerpflichtig</orthForm>
+<orthVar>einkommensteuerpflichtig</orthVar>
+</lexUnit>
+</synset>
+<synset id="s67683" category="adj" class="Pertonym">
+<lexUnit id="l93628" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>zuschlagpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67686" category="adj" class="Pertonym">
+<lexUnit id="l93631" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>intensivpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67687" category="adj" class="Pertonym">
+<lexUnit id="l93632" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>anmeldepflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67689" category="adj" class="Pertonym">
+<lexUnit id="l93634" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lohnsteuerpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67690" category="adj" class="Pertonym">
+<lexUnit id="l93635" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>rentenversicherungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68324" category="adj" class="Pertonym">
+<lexUnit id="l94384" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht menschlich</orthForm>
+<orthVar>nichtmenschlich</orthVar>
+</lexUnit>
+</synset>
+<synset id="s68328" category="adj" class="Pertonym">
+<lexUnit id="l94388" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>enzyklopädisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68329" category="adj" class="Pertonym">
+<lexUnit id="l94389" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht enzyklopädisch</orthForm>
+<orthVar>nichtenzyklopädisch</orthVar>
+</lexUnit>
+</synset>
+<synset id="s68330" category="adj" class="Pertonym">
+<lexUnit id="l94390" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht materiell</orthForm>
+<orthVar>nichtmateriell</orthVar>
+</lexUnit>
+</synset>
+<synset id="s68332" category="adj" class="Pertonym">
+<lexUnit id="l94392" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht physisch</orthForm>
+<orthVar>nichtphysisch</orthVar>
+</lexUnit>
+</synset>
+<synset id="s68349" category="adj" class="Pertonym">
+<lexUnit id="l94411" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>magisch</orthForm>
+</lexUnit>
+<lexUnit id="l94412" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>mystisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68700" category="adj" class="Pertonym">
+<lexUnit id="l94821" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aufbewahrungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68701" category="adj" class="Pertonym">
+<lexUnit id="l94822" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>bewilligungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68702" category="adj" class="Pertonym">
+<lexUnit id="l94823" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>informationspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68703" category="adj" class="Pertonym">
+<lexUnit id="l94824" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>beweispflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68704" category="adj" class="Pertonym">
+<lexUnit id="l94825" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nichtzulassungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68705" category="adj" class="Pertonym">
+<lexUnit id="l94826" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>ablieferungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68706" category="adj" class="Pertonym">
+<lexUnit id="l94827" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nichtverschreibungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68707" category="adj" class="Pertonym">
+<lexUnit id="l94828" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kennzeichnungspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68708" category="adj" class="Pertonym">
+<lexUnit id="l94829" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>vorschulpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68709" category="adj" class="Pertonym">
+<lexUnit id="l94830" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>weinabgabepflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68710" category="adj" class="Pertonym">
+<lexUnit id="l94831" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>lehnspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68711" category="adj" class="Pertonym">
+<lexUnit id="l94832" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>aufsichtspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68712" category="adj" class="Pertonym">
+<lexUnit id="l94833" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>patentpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68713" category="adj" class="Pertonym">
+<lexUnit id="l94834" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>militärpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68714" category="adj" class="Pertonym">
+<lexUnit id="l94835" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>waffenbesitzkartenpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68715" category="adj" class="Pertonym">
+<lexUnit id="l94836" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>kühlpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68716" category="adj" class="Pertonym">
+<lexUnit id="l94837" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>grundsteuerpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68717" category="adj" class="Pertonym">
+<lexUnit id="l94838" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>erbschaftssteuerpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68718" category="adj" class="Pertonym">
+<lexUnit id="l94839" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>körperschaftssteuerpflichtig</orthForm>
+<orthVar>körperschaftsteuerpflichtig</orthVar>
+</lexUnit>
+</synset>
+<synset id="s68719" category="adj" class="Pertonym">
+<lexUnit id="l94840" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>umsatzsteuerpflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68720" category="adj" class="Pertonym">
+<lexUnit id="l94841" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>barunterhaltspflichtig</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68792" category="adj" class="Pertonym">
+<lexUnit id="l94928" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>nicht elektrisch</orthForm>
+<orthVar>nichtelektrisch</orthVar>
+</lexUnit>
+</synset>
+<synset id="s70810" category="adj" class="Pertonym">
+<lexUnit id="l97221" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>stufenweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70818" category="adj" class="Pertonym">
+<lexUnit id="l97232" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>fallweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70820" category="adj" class="Pertonym">
+<lexUnit id="l97234" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>schichtweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70822" category="adj" class="Pertonym">
+<lexUnit id="l97236" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>wahlweise</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71034" category="adj" class="Pertonym">
+<lexUnit id="l97481" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>romanisch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71736" category="adj" class="Pertonym">
+<lexUnit id="l98300" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>unenzyklopädisch</orthForm>
+</lexUnit>
+</synset>
+</synsets>

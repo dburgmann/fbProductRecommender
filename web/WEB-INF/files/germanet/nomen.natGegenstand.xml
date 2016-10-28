@@ -1,0 +1,2903 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE synsets SYSTEM "germanet_objects.dtd">
+<synsets>
+<synset id="s40347" category="nomen" class="natGegenstand">
+<lexUnit id="l59102" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Natur</orthForm>
+</lexUnit>
+<paraphrase>die Gesamtheit all dessen, was nicht vom Menschen geschaffen wird/wurde</paraphrase>
+</synset>
+<synset id="s40348" category="nomen" class="natGegenstand">
+<lexUnit id="l59103" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>natürlicher Gegenstand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40349" category="nomen" class="natGegenstand">
+<lexUnit id="l59104" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Land</orthForm>
+</lexUnit>
+<lexUnit id="l59105" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grund</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40350" category="nomen" class="natGegenstand">
+<lexUnit id="l59106" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Urgrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40351" category="nomen" class="natGegenstand">
+<lexUnit id="l59107" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bodengrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40352" category="nomen" class="natGegenstand">
+<lexUnit id="l59108" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Boden</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40353" category="nomen" class="natGegenstand">
+<lexUnit id="l59109" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Naturschutzgrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40354" category="nomen" class="natGegenstand">
+<lexUnit id="l86503" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Substrat</orthForm>
+</lexUnit>
+<lexUnit id="l90275" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nährmedium</orthForm>
+</lexUnit>
+<lexUnit id="l59110" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nährboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40355" category="nomen" class="natGegenstand">
+<lexUnit id="l59111" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mutterboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40356" category="nomen" class="natGegenstand">
+<lexUnit id="l59112" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Überlagerungsboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40357" category="nomen" class="natGegenstand">
+<lexUnit id="l59113" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Humusboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40358" category="nomen" class="natGegenstand">
+<lexUnit id="l59114" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mull</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40359" category="nomen" class="natGegenstand">
+<lexUnit id="l59115" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Waldboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40360" category="nomen" class="natGegenstand">
+<lexUnit id="l59116" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Agrarland</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40361" category="nomen" class="natGegenstand">
+<lexUnit id="l59117" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sandboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40362" category="nomen" class="natGegenstand">
+<lexUnit id="l59119" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lössboden</orthForm>
+<oldOrthForm>Lößboden</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s40363" category="nomen" class="natGegenstand">
+<lexUnit id="l59120" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grund</orthForm>
+</lexUnit>
+<paraphrase>Boden eines Gewässers</paraphrase>
+</synset>
+<synset id="s40364" category="nomen" class="natGegenstand">
+<lexUnit id="l59121" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erdschicht</orthForm>
+</lexUnit>
+<lexUnit id="l59122" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erdboden</orthForm>
+</lexUnit>
+<lexUnit id="l59123" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erdreich</orthForm>
+</lexUnit>
+<lexUnit id="l59124" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erdkruste</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40365" category="nomen" class="natGegenstand">
+<lexUnit id="l59125" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gesteinsschicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40366" category="nomen" class="natGegenstand">
+<lexUnit id="l59126" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Flöz</orthForm>
+</lexUnit>
+<lexUnit id="l59127" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kohleflöz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40367" category="nomen" class="natGegenstand">
+<lexUnit id="l59128" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40368" category="nomen" class="natGegenstand">
+<lexUnit id="l59129" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Formation</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40370" category="nomen" class="natGegenstand">
+<lexUnit id="l59131" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Moräne</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40371" category="nomen" class="natGegenstand">
+<lexUnit id="l59132" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Endmoräne</orthForm>
+</lexUnit>
+<lexUnit id="l59133" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Randmoräne</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40372" category="nomen" class="natGegenstand">
+<lexUnit id="l59134" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ozonschicht</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40373" category="nomen" class="natGegenstand">
+<lexUnit id="l59135" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Naturstoff</orthForm>
+</lexUnit>
+<paraphrase>chemische Stoffe, welche aus der belebten oder unbelebten Natur gewonnen werden</paraphrase>
+</synset>
+<synset id="s40374" category="nomen" class="natGegenstand">
+<lexUnit id="l59137" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Salz</orthForm>
+</lexUnit>
+<lexUnit id="l59136" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kochsalz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40375" category="nomen" class="natGegenstand">
+<lexUnit id="l59138" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Meersalz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40376" category="nomen" class="natGegenstand">
+<lexUnit id="l59139" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Cholesterin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40378" category="nomen" class="natGegenstand">
+<lexUnit id="l59141" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erdgas</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40379" category="nomen" class="natGegenstand">
+<lexUnit id="l59142" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40380" category="nomen" class="natGegenstand">
+<lexUnit id="l59143" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wüstensand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40381" category="nomen" class="natGegenstand">
+<lexUnit id="l59144" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bausand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40382" category="nomen" class="natGegenstand">
+<lexUnit id="l59145" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rohkiessand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40383" category="nomen" class="natGegenstand">
+<lexUnit id="l59146" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Brechsand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40384" category="nomen" class="natGegenstand">
+<lexUnit id="l59147" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Treibsand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40385" category="nomen" class="natGegenstand">
+<lexUnit id="l59148" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gießereisand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40386" category="nomen" class="natGegenstand">
+<lexUnit id="l59149" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Industriesand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40387" category="nomen" class="natGegenstand">
+<lexUnit id="l59150" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Formsand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40388" category="nomen" class="natGegenstand">
+<lexUnit id="l59151" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Füllstand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40389" category="nomen" class="natGegenstand">
+<lexUnit id="l59152" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sandkorn</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40390" category="nomen" class="natGegenstand">
+<lexUnit id="l59153" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sandkörnchen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40391" category="nomen" class="natGegenstand">
+<lexUnit id="l59154" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erde</orthForm>
+</lexUnit>
+<paraphrase>der lockere Bestandteil von dem festen Boden, das Erdreich</paraphrase>
+</synset>
+<synset id="s40392" category="nomen" class="natGegenstand">
+<lexUnit id="l59155" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Humus</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40393" category="nomen" class="natGegenstand">
+<lexUnit id="l59156" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blumenerde</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40395" category="nomen" class="natGegenstand">
+<lexUnit id="l59159" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Morast</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40396" category="nomen" class="natGegenstand">
+<lexUnit id="l59160" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schlick</orthForm>
+</lexUnit>
+<lexUnit id="l59161" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schlamm</orthForm>
+</lexUnit>
+<lexUnit id="l59162" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Matsch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40398" category="nomen" class="natGegenstand">
+<lexUnit id="l59164" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stroh</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40400" category="nomen" class="natGegenstand">
+<lexUnit id="l59166" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Brennrohstoff</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40401" category="nomen" class="natGegenstand">
+<lexUnit id="l59167" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Harz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40402" category="nomen" class="natGegenstand">
+<lexUnit id="l59168" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rohöl</orthForm>
+</lexUnit>
+<lexUnit id="l59169" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erdöl</orthForm>
+</lexUnit>
+<lexUnit id="l59170" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Öl</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40404" category="nomen" class="natGegenstand">
+<lexUnit id="l59173" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schellack</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40405" category="nomen" class="natGegenstand">
+<lexUnit id="l59174" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Reaktionsharz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40406" category="nomen" class="natGegenstand">
+<lexUnit id="l59175" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bienenwachs</orthForm>
+</lexUnit>
+<lexUnit id="l59176" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wachs</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40407" category="nomen" class="natGegenstand">
+<lexUnit id="l59177" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Holz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40408" category="nomen" class="natGegenstand">
+<lexUnit id="l59178" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Holzstück</orthForm>
+</lexUnit>
+<lexUnit id="l59179" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Holzblock</orthForm>
+</lexUnit>
+<lexUnit id="l59180" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="yes">
+<orthForm>Bloch</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40409" category="nomen" class="natGegenstand">
+<lexUnit id="l59181" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Brennholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40410" category="nomen" class="natGegenstand">
+<lexUnit id="l59182" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bauholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40411" category="nomen" class="natGegenstand">
+<lexUnit id="l59183" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Holzkohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40412" category="nomen" class="natGegenstand">
+<lexUnit id="l59184" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Brett</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40413" category="nomen" class="natGegenstand">
+<lexUnit id="l59185" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Planke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40414" category="nomen" class="natGegenstand">
+<lexUnit id="l59186" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Buchenbrett</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40415" category="nomen" class="natGegenstand">
+<lexUnit id="l59187" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gehölz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40416" category="nomen" class="natGegenstand">
+<lexUnit id="l59188" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hartholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40417" category="nomen" class="natGegenstand">
+<lexUnit id="l59189" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tropenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40418" category="nomen" class="natGegenstand">
+<lexUnit id="l59190" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Buchsbaum</orthForm>
+</lexUnit>
+<lexUnit id="l59191" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Buchsbaumholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40419" category="nomen" class="natGegenstand">
+<lexUnit id="l59192" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ebenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40420" category="nomen" class="natGegenstand">
+<lexUnit id="l59193" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Weichholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40421" category="nomen" class="natGegenstand">
+<lexUnit id="l59194" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Buchholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40422" category="nomen" class="natGegenstand">
+<lexUnit id="l59195" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eiche</orthForm>
+</lexUnit>
+<lexUnit id="l59196" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eichenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40423" category="nomen" class="natGegenstand">
+<lexUnit id="l59197" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Teakbaum</orthForm>
+</lexUnit>
+<lexUnit id="l59198" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Teakholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40424" category="nomen" class="natGegenstand">
+<lexUnit id="l59199" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nussbaum</orthForm>
+<oldOrthForm>Nußbaum</oldOrthForm>
+</lexUnit>
+<lexUnit id="l59201" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nussbaumholz</orthForm>
+<oldOrthForm>Nußbaumholz</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s40426" category="nomen" class="natGegenstand">
+<lexUnit id="l59205" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kirschbaum</orthForm>
+</lexUnit>
+<lexUnit id="l59206" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kirschbaumholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40427" category="nomen" class="natGegenstand">
+<lexUnit id="l59207" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Esche</orthForm>
+</lexUnit>
+<lexUnit id="l59208" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eschenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40428" category="nomen" class="natGegenstand">
+<lexUnit id="l59209" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Birke</orthForm>
+</lexUnit>
+<lexUnit id="l59210" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Birkenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40430" category="nomen" class="natGegenstand">
+<lexUnit id="l59213" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kiefer</orthForm>
+</lexUnit>
+<lexUnit id="l59214" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kiefernholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40431" category="nomen" class="natGegenstand">
+<lexUnit id="l59215" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fichte</orthForm>
+</lexUnit>
+<lexUnit id="l59216" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fichtenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40432" category="nomen" class="natGegenstand">
+<lexUnit id="l59217" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mahagoni</orthForm>
+</lexUnit>
+<lexUnit id="l59218" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mahagoniholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40434" category="nomen" class="natGegenstand">
+<lexUnit id="l59220" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pressspan</orthForm>
+<orthVar>Press-Span</orthVar>
+<oldOrthForm>Preßspan</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s40435" category="nomen" class="natGegenstand">
+<lexUnit id="l59222" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kohlenmeiler</orthForm>
+</lexUnit>
+<lexUnit id="l59223" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Meiler</orthForm>
+</lexUnit>
+<paraphrase>BedeckterHolzhaufen in dem Holzkohle erzeugt wird</paraphrase>
+</synset>
+<synset id="s40436" category="nomen" class="natGegenstand">
+<lexUnit id="l101773" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Felsen</orthForm>
+</lexUnit>
+<lexUnit id="l59224" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stein</orthForm>
+</lexUnit>
+<lexUnit id="l59225" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Felsenstein</orthForm>
+</lexUnit>
+<lexUnit id="l59226" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gestein</orthForm>
+</lexUnit>
+<lexUnit id="l59227" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fels</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40437" category="nomen" class="natGegenstand">
+<lexUnit id="l59228" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Naturstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40438" category="nomen" class="natGegenstand">
+<lexUnit id="l59229" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Naturwerkstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40439" category="nomen" class="natGegenstand">
+<lexUnit id="l59230" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mosaikstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40440" category="nomen" class="natGegenstand">
+<lexUnit id="l59231" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schlussstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40441" category="nomen" class="natGegenstand">
+<lexUnit id="l59232" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Menhir</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40442" category="nomen" class="natGegenstand">
+<lexUnit id="l59233" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Runenstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40443" category="nomen" class="natGegenstand">
+<lexUnit id="l59234" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Feldstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40444" category="nomen" class="natGegenstand">
+<lexUnit id="l59235" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bruchstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40445" category="nomen" class="natGegenstand">
+<lexUnit id="l59236" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Urgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40446" category="nomen" class="natGegenstand">
+<lexUnit id="l59237" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rohgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40447" category="nomen" class="natGegenstand">
+<lexUnit id="l59238" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Felsblock</orthForm>
+</lexUnit>
+<lexUnit id="l59239" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Felsbrocken</orthForm>
+</lexUnit>
+<lexUnit id="l59240" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gesteinsblock</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40448" category="nomen" class="natGegenstand">
+<lexUnit id="l59241" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Findling</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40449" category="nomen" class="natGegenstand">
+<lexUnit id="l87157" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Felssporn</orthForm>
+</lexUnit>
+<lexUnit id="l59244" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Felsensporn</orthForm>
+</lexUnit>
+<lexUnit id="l59242" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Geländesporn</orthForm>
+</lexUnit>
+<lexUnit id="l59243" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bergsporn</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40450" category="nomen" class="natGegenstand">
+<lexUnit id="l59245" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40451" category="nomen" class="natGegenstand">
+<lexUnit id="l59246" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eckstein</orthForm>
+</lexUnit>
+<paraphrase>an der Ecke eines Bauwerks</paraphrase>
+</synset>
+<synset id="s40452" category="nomen" class="natGegenstand">
+<lexUnit id="l59247" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Begrenzungsstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40453" category="nomen" class="natGegenstand">
+<lexUnit id="l59248" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Meilenstein</orthForm>
+</lexUnit>
+<paraphrase>zur Wegabmessung im Abstand von einer Meile aufgestellter Stein</paraphrase>
+</synset>
+<synset id="s40454" category="nomen" class="natGegenstand">
+<lexUnit id="l59249" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Baustein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40455" category="nomen" class="natGegenstand">
+<lexUnit id="l102348" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ziegel</orthForm>
+</lexUnit>
+<lexUnit id="l59250" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ziegelstein</orthForm>
+</lexUnit>
+<lexUnit id="l59251" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Backstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40456" category="nomen" class="natGegenstand">
+<lexUnit id="l59252" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Klinker</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40457" category="nomen" class="natGegenstand">
+<lexUnit id="l59253" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grundstein</orthForm>
+</lexUnit>
+<paraphrase>erster gelegter Stein bei einem Bauprojekt</paraphrase>
+</synset>
+<synset id="s40458" category="nomen" class="natGegenstand">
+<lexUnit id="l93156" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kieselstein</orthForm>
+</lexUnit>
+<lexUnit id="l59254" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kiesel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40460" category="nomen" class="natGegenstand">
+<lexUnit id="l59256" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Diatomit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40461" category="nomen" class="natGegenstand">
+<lexUnit id="l59257" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kieselgur</orthForm>
+</lexUnit>
+<lexUnit id="l59258" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Diatomeenerde</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40462" category="nomen" class="natGegenstand">
+<lexUnit id="l59259" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pripel</orthForm>
+</lexUnit>
+<lexUnit id="l59260" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Polierschiefer</orthForm>
+</lexUnit>
+<lexUnit id="l59261" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Klebschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40463" category="nomen" class="natGegenstand">
+<lexUnit id="l59262" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Radiolarit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40464" category="nomen" class="natGegenstand">
+<lexUnit id="l59263" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kieselschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40465" category="nomen" class="natGegenstand">
+<lexUnit id="l59264" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lydit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40466" category="nomen" class="natGegenstand">
+<lexUnit id="l59265" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kieselsinter</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40467" category="nomen" class="natGegenstand">
+<lexUnit id="l59266" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hornstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40468" category="nomen" class="natGegenstand">
+<lexUnit id="l59267" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Versteinerung</orthForm>
+</lexUnit>
+<lexUnit id="l59268" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Petrifikation</orthForm>
+</lexUnit>
+<lexUnit id="l59269" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fossil</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40469" category="nomen" class="natGegenstand">
+<lexUnit id="l59270" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Klippe</orthForm>
+</lexUnit>
+<lexUnit id="l59271" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Felsklippe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40470" category="nomen" class="natGegenstand">
+<lexUnit id="l59272" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Felswand</orthForm>
+</lexUnit>
+<lexUnit id="l59273" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bergwand</orthForm>
+</lexUnit>
+<lexUnit id="l59274" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Steilwand</orthForm>
+</lexUnit>
+<lexUnit id="l59275" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40471" category="nomen" class="natGegenstand">
+<lexUnit id="l59276" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nordwand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40472" category="nomen" class="natGegenstand">
+<lexUnit id="l59277" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Südwand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40473" category="nomen" class="natGegenstand">
+<lexUnit id="l59278" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Westwand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40474" category="nomen" class="natGegenstand">
+<lexUnit id="l59279" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ostwand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40475" category="nomen" class="natGegenstand">
+<lexUnit id="l59280" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grabenwand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40476" category="nomen" class="natGegenstand">
+<lexUnit id="l59281" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Splitt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40477" category="nomen" class="natGegenstand">
+<lexUnit id="l59282" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kies</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40478" category="nomen" class="natGegenstand">
+<lexUnit id="l59283" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rohkies</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40479" category="nomen" class="natGegenstand">
+<lexUnit id="l59284" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Füllkies</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40480" category="nomen" class="natGegenstand">
+<lexUnit id="l59285" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Klamotte</orthForm>
+</lexUnit>
+<paraphrase>herumliegender Gesteinsbrocken</paraphrase>
+</synset>
+<synset id="s40481" category="nomen" class="natGegenstand">
+<lexUnit id="l59286" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gesteinsglas</orthForm>
+</lexUnit>
+<paraphrase>amorphes Gesteinsgefüge</paraphrase>
+</synset>
+<synset id="s40482" category="nomen" class="natGegenstand">
+<lexUnit id="l59288" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bims</orthForm>
+</lexUnit>
+<lexUnit id="l59287" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bimsstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40484" category="nomen" class="natGegenstand">
+<lexUnit id="l59290" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Perlit</orthForm>
+</lexUnit>
+<lexUnit id="l59291" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Perlstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40485" category="nomen" class="natGegenstand">
+<lexUnit id="l59292" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Obsidian</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40486" category="nomen" class="natGegenstand">
+<lexUnit id="l59293" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schneeflocken-Obsidian</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40487" category="nomen" class="natGegenstand">
+<lexUnit id="l59294" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Apachenträne</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40488" category="nomen" class="natGegenstand">
+<lexUnit id="l59295" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pechstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40489" category="nomen" class="natGegenstand">
+<lexUnit id="l59296" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Meteorit</orthForm>
+</lexUnit>
+<paraphrase>außerirdisches Gestein</paraphrase>
+</synset>
+<synset id="s40490" category="nomen" class="natGegenstand">
+<lexUnit id="l59297" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Impaktit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40491" category="nomen" class="natGegenstand">
+<lexUnit id="l59298" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eisenmeteorit</orthForm>
+</lexUnit>
+<lexUnit id="l59299" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Siderit</orthForm>
+</lexUnit>
+<lexUnit id="l59300" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Meteoreisen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40492" category="nomen" class="natGegenstand">
+<lexUnit id="l59301" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hexaedrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40493" category="nomen" class="natGegenstand">
+<lexUnit id="l59302" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Oktaedrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40494" category="nomen" class="natGegenstand">
+<lexUnit id="l59303" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Steinmeteorit</orthForm>
+</lexUnit>
+<lexUnit id="l59304" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Aerolith</orthForm>
+</lexUnit>
+<lexUnit id="l59305" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Meteorstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40495" category="nomen" class="natGegenstand">
+<lexUnit id="l59306" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Chondrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40496" category="nomen" class="natGegenstand">
+<lexUnit id="l59307" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Achondrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40497" category="nomen" class="natGegenstand">
+<lexUnit id="l59308" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stein-Eisen-Meteorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40498" category="nomen" class="natGegenstand">
+<lexUnit id="l59309" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Siderophyr</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40499" category="nomen" class="natGegenstand">
+<lexUnit id="l59310" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pallasit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40500" category="nomen" class="natGegenstand">
+<lexUnit id="l59311" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mesosiderit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40501" category="nomen" class="natGegenstand">
+<lexUnit id="l59312" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tektit</orthForm>
+</lexUnit>
+<paraphrase>gerundeter, glasartiger Stein, entstanden durch Kondensation aus Verdampfungsprodukten beim Einschlag von Riesenmeteoriten</paraphrase>
+</synset>
+<synset id="s40502" category="nomen" class="natGegenstand">
+<lexUnit id="l59313" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Moldavit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40503" category="nomen" class="natGegenstand">
+<lexUnit id="l59314" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fulgurit</orthForm>
+</lexUnit>
+<lexUnit id="l59315" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blitzröhre</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40504" category="nomen" class="natGegenstand">
+<lexUnit id="l59316" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Magmatitgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40505" category="nomen" class="natGegenstand">
+<lexUnit id="l59317" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Plutonit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40506" category="nomen" class="natGegenstand">
+<lexUnit id="l94276" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Granitstein</orthForm>
+</lexUnit>
+<lexUnit id="l59318" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Granit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40507" category="nomen" class="natGegenstand">
+<lexUnit id="l59319" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kugelgranit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40508" category="nomen" class="natGegenstand">
+<lexUnit id="l59320" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rapakivi</orthForm>
+</lexUnit>
+<lexUnit id="l59321" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rapakivigranit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40509" category="nomen" class="natGegenstand">
+<lexUnit id="l59322" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Granodiorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40510" category="nomen" class="natGegenstand">
+<lexUnit id="l59323" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trondhjemit</orthForm>
+</lexUnit>
+<lexUnit id="l59324" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Quarz-Glimmer-Diorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40369" category="nomen" class="natGegenstand">
+<lexUnit id="l59130" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Felsformation</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40403" category="nomen" class="natGegenstand">
+<lexUnit id="l59171" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kautschuk</orthForm>
+</lexUnit>
+<lexUnit id="l59172" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Naturkautschuk</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40397" category="nomen" class="natGegenstand">
+<lexUnit id="l59163" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Klärschlamm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40399" category="nomen" class="natGegenstand">
+<lexUnit id="l59165" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rohstoff</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40429" category="nomen" class="natGegenstand">
+<lexUnit id="l59211" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ahorn</orthForm>
+</lexUnit>
+<lexUnit id="l59212" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ahornholz</orthForm>
+</lexUnit>
+<paraphrase>das Holz des Ahornbaums</paraphrase>
+</synset>
+<synset id="s40425" category="nomen" class="natGegenstand">
+<lexUnit id="l59203" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Birnbaum</orthForm>
+</lexUnit>
+<lexUnit id="l59204" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Birnbaumholz</orthForm>
+</lexUnit>
+<paraphrase>das Holz eines Birnbaums</paraphrase>
+</synset>
+<synset id="s40433" category="nomen" class="natGegenstand">
+<lexUnit id="l59219" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bambus</orthForm>
+</lexUnit>
+<paraphrase>Holz des Bambus</paraphrase>
+</synset>
+<synset id="s40394" category="nomen" class="natGegenstand">
+<lexUnit id="l59157" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lehm</orthForm>
+</lexUnit>
+<lexUnit id="l59158" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lehmboden</orthForm>
+</lexUnit>
+<paraphrase>lehmhaltiger Boden</paraphrase>
+</synset>
+<synset id="s40377" category="nomen" class="natGegenstand">
+<lexUnit id="l59140" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schwefel</orthForm>
+</lexUnit>
+<paraphrase>ein chemisches Element, das in der Elementhäufigkeit auf der Erde an Stelle 8 steht</paraphrase>
+</synset>
+<synset id="s40483" category="nomen" class="natGegenstand">
+<lexUnit id="l59289" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schlacke</orthForm>
+</lexUnit>
+<paraphrase>vulkanisches Gestein, das durch sehr schnelle Abkühlung entsteht und eigentlich Glas ist</paraphrase>
+</synset>
+<synset id="s40511" category="nomen" class="natGegenstand">
+<lexUnit id="l59325" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tonalit</orthForm>
+</lexUnit>
+<lexUnit id="l59326" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Quarzdiorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40512" category="nomen" class="natGegenstand">
+<lexUnit id="l59327" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Quarzolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40513" category="nomen" class="natGegenstand">
+<lexUnit id="l59328" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Greisen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40514" category="nomen" class="natGegenstand">
+<lexUnit id="l59329" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Peracidit</orthForm>
+</lexUnit>
+<lexUnit id="l59330" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Silexit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40515" category="nomen" class="natGegenstand">
+<lexUnit id="l59331" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Arizonit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40516" category="nomen" class="natGegenstand">
+<lexUnit id="l59332" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pfahlquarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40517" category="nomen" class="natGegenstand">
+<lexUnit id="l59333" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Syenit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40518" category="nomen" class="natGegenstand">
+<lexUnit id="l59334" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pulaskit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40519" category="nomen" class="natGegenstand">
+<lexUnit id="l59335" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Larvikit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40520" category="nomen" class="natGegenstand">
+<lexUnit id="l59336" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Monzonit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40521" category="nomen" class="natGegenstand">
+<lexUnit id="l59337" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Foyait</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40523" category="nomen" class="natGegenstand">
+<lexUnit id="l59339" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Diorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40524" category="nomen" class="natGegenstand">
+<lexUnit id="l59340" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gabbro</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40525" category="nomen" class="natGegenstand">
+<lexUnit id="l59341" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Norit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40526" category="nomen" class="natGegenstand">
+<lexUnit id="l59342" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Troktolith</orthForm>
+</lexUnit>
+<lexUnit id="l59343" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Forellenstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40527" category="nomen" class="natGegenstand">
+<lexUnit id="l59344" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Anorthosit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40528" category="nomen" class="natGegenstand">
+<lexUnit id="l59345" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Essexit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40529" category="nomen" class="natGegenstand">
+<lexUnit id="l59346" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Theralith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40530" category="nomen" class="natGegenstand">
+<lexUnit id="l59347" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Peridotit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40531" category="nomen" class="natGegenstand">
+<lexUnit id="l59348" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Foidolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40532" category="nomen" class="natGegenstand">
+<lexUnit id="l59349" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mafitolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40533" category="nomen" class="natGegenstand">
+<lexUnit id="l59350" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Karbonatit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40534" category="nomen" class="natGegenstand">
+<lexUnit id="l59351" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vulkanit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40535" category="nomen" class="natGegenstand">
+<lexUnit id="l59352" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Quarzporphyr</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40536" category="nomen" class="natGegenstand">
+<lexUnit id="l59353" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pyroklastit</orthForm>
+</lexUnit>
+<lexUnit id="l59354" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tuffgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40537" category="nomen" class="natGegenstand">
+<lexUnit id="l59355" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tuff</orthForm>
+</lexUnit>
+<lexUnit id="l59356" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tephra</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40538" category="nomen" class="natGegenstand">
+<lexUnit id="l59357" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tuffstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40539" category="nomen" class="natGegenstand">
+<lexUnit id="l59358" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rhyolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40540" category="nomen" class="natGegenstand">
+<lexUnit id="l59359" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Liparit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40541" category="nomen" class="natGegenstand">
+<lexUnit id="l59360" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Andesit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40543" category="nomen" class="natGegenstand">
+<lexUnit id="l59362" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trachyt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40544" category="nomen" class="natGegenstand">
+<lexUnit id="l59363" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Latit</orthForm>
+</lexUnit>
+<lexUnit id="l59364" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trachytandesit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40545" category="nomen" class="natGegenstand">
+<lexUnit id="l59365" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Phonolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40546" category="nomen" class="natGegenstand">
+<lexUnit id="l59366" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Porphyrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40547" category="nomen" class="natGegenstand">
+<lexUnit id="l59367" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dacit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40548" category="nomen" class="natGegenstand">
+<lexUnit id="l59368" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Basalt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40549" category="nomen" class="natGegenstand">
+<lexUnit id="l59369" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Melaphyr</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40550" category="nomen" class="natGegenstand">
+<lexUnit id="l59370" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dolerit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40551" category="nomen" class="natGegenstand">
+<lexUnit id="l59371" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Diabas</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40552" category="nomen" class="natGegenstand">
+<lexUnit id="l59372" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tholeiit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40553" category="nomen" class="natGegenstand">
+<lexUnit id="l59373" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tephrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40554" category="nomen" class="natGegenstand">
+<lexUnit id="l59374" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Basanit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40555" category="nomen" class="natGegenstand">
+<lexUnit id="l59375" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Limburgit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40556" category="nomen" class="natGegenstand">
+<lexUnit id="l59376" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mühlsteinlava</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40557" category="nomen" class="natGegenstand">
+<lexUnit id="l59377" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pikrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40558" category="nomen" class="natGegenstand">
+<lexUnit id="l59378" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Foidit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40559" category="nomen" class="natGegenstand">
+<lexUnit id="l59379" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nephelinit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40560" category="nomen" class="natGegenstand">
+<lexUnit id="l59380" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Leucitit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40561" category="nomen" class="natGegenstand">
+<lexUnit id="l59381" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mafitit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40562" category="nomen" class="natGegenstand">
+<lexUnit id="l59382" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ganggestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40563" category="nomen" class="natGegenstand">
+<lexUnit id="l59383" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Granitporphyr</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40564" category="nomen" class="natGegenstand">
+<lexUnit id="l59384" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pegmatit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40565" category="nomen" class="natGegenstand">
+<lexUnit id="l59385" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Aplit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40566" category="nomen" class="natGegenstand">
+<lexUnit id="l59386" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lamprophyr</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40567" category="nomen" class="natGegenstand">
+<lexUnit id="l59387" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sedimentgestein</orthForm>
+</lexUnit>
+<lexUnit id="l59388" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schichtgestein</orthForm>
+</lexUnit>
+<lexUnit id="l59389" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sediment</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40568" category="nomen" class="natGegenstand">
+<lexUnit id="l59390" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pelit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40570" category="nomen" class="natGegenstand">
+<lexUnit id="l59392" sense="5" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ton</orthForm>
+</lexUnit>
+<lexUnit id="l59393" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tonerde</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40572" category="nomen" class="natGegenstand">
+<lexUnit id="l59395" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rohton</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40573" category="nomen" class="natGegenstand">
+<lexUnit id="l59396" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lehm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40574" category="nomen" class="natGegenstand">
+<lexUnit id="l59397" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Formlehm</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40576" category="nomen" class="natGegenstand">
+<lexUnit id="l93158" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mergelstein</orthForm>
+</lexUnit>
+<lexUnit id="l93159" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mergelgestein</orthForm>
+</lexUnit>
+<lexUnit id="l59399" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mergel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40578" category="nomen" class="natGegenstand">
+<lexUnit id="l59402" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Löss</orthForm>
+<oldOrthForm>Löß</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s40579" category="nomen" class="natGegenstand">
+<lexUnit id="l59403" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kaolin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40580" category="nomen" class="natGegenstand">
+<lexUnit id="l93160" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tonstein</orthForm>
+</lexUnit>
+<lexUnit id="l59404" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schieferton</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40582" category="nomen" class="natGegenstand">
+<lexUnit id="l59406" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ölschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40584" category="nomen" class="natGegenstand">
+<lexUnit id="l59409" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Psammit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40585" category="nomen" class="natGegenstand">
+<lexUnit id="l59410" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sandstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40586" category="nomen" class="natGegenstand">
+<lexUnit id="l59411" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Buntsandstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40587" category="nomen" class="natGegenstand">
+<lexUnit id="l59412" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Muschelsandstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40588" category="nomen" class="natGegenstand">
+<lexUnit id="l59413" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sedimentärquarzit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40589" category="nomen" class="natGegenstand">
+<lexUnit id="l59414" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Arkose</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40590" category="nomen" class="natGegenstand">
+<lexUnit id="l59415" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grauwacke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40591" category="nomen" class="natGegenstand">
+<lexUnit id="l59416" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalksandstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40592" category="nomen" class="natGegenstand">
+<lexUnit id="l59417" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Psephit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40593" category="nomen" class="natGegenstand">
+<lexUnit id="l59418" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schutt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40594" category="nomen" class="natGegenstand">
+<lexUnit id="l86547" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trumm</orthForm>
+</lexUnit>
+<lexUnit id="l59419" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trümmer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40595" category="nomen" class="natGegenstand">
+<lexUnit id="l59420" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bauschutt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40596" category="nomen" class="natGegenstand">
+<lexUnit id="l59421" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Geröll</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40597" category="nomen" class="natGegenstand">
+<lexUnit id="l59422" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Geschiebe</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40598" category="nomen" class="natGegenstand">
+<lexUnit id="l59423" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Breccie</orthForm>
+<orthVar>Brekzie</orthVar>
+<oldOrthForm>Breccie</oldOrthForm>
+<oldOrthVar>Brekzie</oldOrthVar>
+</lexUnit>
+</synset>
+<synset id="s40599" category="nomen" class="natGegenstand">
+<lexUnit id="l59425" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Konglomerat</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40600" category="nomen" class="natGegenstand">
+<lexUnit id="l59426" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nagelfluh</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40601" category="nomen" class="natGegenstand">
+<lexUnit id="l59427" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Puddingstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40602" category="nomen" class="natGegenstand">
+<lexUnit id="l59428" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schotter</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40603" category="nomen" class="natGegenstand">
+<lexUnit id="l59429" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Windkanter</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40604" category="nomen" class="natGegenstand">
+<lexUnit id="l59430" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tillit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40605" category="nomen" class="natGegenstand">
+<lexUnit id="l59431" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fanglomerat</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40606" category="nomen" class="natGegenstand">
+<lexUnit id="l59432" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sintergestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40607" category="nomen" class="natGegenstand">
+<lexUnit id="l59433" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Travertin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40608" category="nomen" class="natGegenstand">
+<lexUnit id="l59434" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tropfstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40609" category="nomen" class="natGegenstand">
+<lexUnit id="l59435" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sprudelstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40610" category="nomen" class="natGegenstand">
+<lexUnit id="l59436" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erbsenstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40611" category="nomen" class="natGegenstand">
+<lexUnit id="l59437" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalktuff</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40612" category="nomen" class="natGegenstand">
+<lexUnit id="l59438" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Salzgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40613" category="nomen" class="natGegenstand">
+<lexUnit id="l59439" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Steinsalz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40614" category="nomen" class="natGegenstand">
+<lexUnit id="l59440" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Anhydrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40615" category="nomen" class="natGegenstand">
+<lexUnit id="l59441" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gipsstein</orthForm>
+</lexUnit>
+<lexUnit id="l59442" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gips</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40616" category="nomen" class="natGegenstand">
+<lexUnit id="l59443" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gekrösegips</orthForm>
+</lexUnit>
+<lexUnit id="l59444" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schlangengips</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40617" category="nomen" class="natGegenstand">
+<lexUnit id="l59445" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fasergips</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40618" category="nomen" class="natGegenstand">
+<lexUnit id="l59446" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gipshut</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40619" category="nomen" class="natGegenstand">
+<lexUnit id="l59447" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Alabaster</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40620" category="nomen" class="natGegenstand">
+<lexUnit id="l59448" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Edelsalz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40621" category="nomen" class="natGegenstand">
+<lexUnit id="l59449" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sylvinit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40622" category="nomen" class="natGegenstand">
+<lexUnit id="l59450" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Carnallitit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40623" category="nomen" class="natGegenstand">
+<lexUnit id="l59451" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kainitit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40624" category="nomen" class="natGegenstand">
+<lexUnit id="l59452" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hartsalz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40625" category="nomen" class="natGegenstand">
+<lexUnit id="l59453" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40626" category="nomen" class="natGegenstand">
+<lexUnit id="l59454" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Muschelkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40627" category="nomen" class="natGegenstand">
+<lexUnit id="l59455" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalziumkarbonat</orthForm>
+<orthVar>Calciumcarbonat</orthVar>
+<oldOrthForm>Calciumcarbonat</oldOrthForm>
+<oldOrthVar>Calciumkarbonat</oldOrthVar>
+</lexUnit>
+</synset>
+<synset id="s40628" category="nomen" class="natGegenstand">
+<lexUnit id="l59457" sense="1" source="core" namedEntity="no" artificial="yes" styleMarking="no">
+<orthForm>organogenes Sediment</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40629" category="nomen" class="natGegenstand">
+<lexUnit id="l59458" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalkstein</orthForm>
+</lexUnit>
+<lexUnit id="l59459" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalkgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40630" category="nomen" class="natGegenstand">
+<lexUnit id="l59460" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Plattenkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40631" category="nomen" class="natGegenstand">
+<lexUnit id="l59461" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fossilkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40632" category="nomen" class="natGegenstand">
+<lexUnit id="l59462" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalkoolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40633" category="nomen" class="natGegenstand">
+<lexUnit id="l59463" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Riffkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40634" category="nomen" class="natGegenstand">
+<lexUnit id="l59464" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Massenkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40635" category="nomen" class="natGegenstand">
+<lexUnit id="l59465" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kreide</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40636" category="nomen" class="natGegenstand">
+<lexUnit id="l59466" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalksinter</orthForm>
+</lexUnit>
+<lexUnit id="l59467" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Onyx-Marmor</orthForm>
+</lexUnit>
+<lexUnit id="l59468" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Marmor-Onyx</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40637" category="nomen" class="natGegenstand">
+<lexUnit id="l59469" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Seekalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40638" category="nomen" class="natGegenstand">
+<lexUnit id="l59470" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Muschelkalkstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40639" category="nomen" class="natGegenstand">
+<lexUnit id="l59471" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Seekreide</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40641" category="nomen" class="natGegenstand">
+<lexUnit id="l59473" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Süßwasserkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40642" category="nomen" class="natGegenstand">
+<lexUnit id="l59474" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kieselgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40643" category="nomen" class="natGegenstand">
+<lexUnit id="l59475" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Phosphatgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40644" category="nomen" class="natGegenstand">
+<lexUnit id="l59476" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Guano</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40645" category="nomen" class="natGegenstand">
+<lexUnit id="l59477" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Phosphorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40646" category="nomen" class="natGegenstand">
+<lexUnit id="l59478" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eisengestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40647" category="nomen" class="natGegenstand">
+<lexUnit id="l59479" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Minette</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40648" category="nomen" class="natGegenstand">
+<lexUnit id="l59480" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bändererz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40649" category="nomen" class="natGegenstand">
+<lexUnit id="l59481" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trümmererz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40650" category="nomen" class="natGegenstand">
+<lexUnit id="l59482" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rückstandsgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40651" category="nomen" class="natGegenstand">
+<lexUnit id="l59483" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dolomitstein</orthForm>
+</lexUnit>
+<lexUnit id="l59484" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dolomit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40652" category="nomen" class="natGegenstand">
+<lexUnit id="l59485" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rauwacke</orthForm>
+</lexUnit>
+<lexUnit id="l59486" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rauchwacke</orthForm>
+</lexUnit>
+<lexUnit id="l59487" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zelldolomit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40653" category="nomen" class="natGegenstand">
+<lexUnit id="l59488" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Feuerstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40655" category="nomen" class="natGegenstand">
+<lexUnit id="l59491" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Importkohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40656" category="nomen" class="natGegenstand">
+<lexUnit id="l59492" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rohkohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40657" category="nomen" class="natGegenstand">
+<lexUnit id="l59493" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Aktivkohle</orthForm>
+</lexUnit>
+<lexUnit id="l59494" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>A-Kohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40658" category="nomen" class="natGegenstand">
+<lexUnit id="l59495" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Torf</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40659" category="nomen" class="natGegenstand">
+<lexUnit id="l59496" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sode</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40660" category="nomen" class="natGegenstand">
+<lexUnit id="l59497" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Braunkohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40661" category="nomen" class="natGegenstand">
+<lexUnit id="l59498" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Steinkohle</orthForm>
+</lexUnit>
+<lexUnit id="l59499" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Koks</orthForm>
+</lexUnit>
+<lexUnit id="l59500" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kokskohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40662" category="nomen" class="natGegenstand">
+<lexUnit id="l59501" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ruhrkohle</orthForm>
+</lexUnit>
+<paraphrase>Im Ruhrgebiet vorkommende Steinkohle</paraphrase>
+</synset>
+<synset id="s40663" category="nomen" class="natGegenstand">
+<lexUnit id="l59502" sense="3" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schlacke</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40664" category="nomen" class="natGegenstand">
+<lexUnit id="l59503" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Anthrazit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40665" category="nomen" class="natGegenstand">
+<lexUnit id="l59505" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grafit</orthForm>
+<orthVar>Graphit</orthVar>
+<oldOrthForm>Graphit</oldOrthForm>
+</lexUnit>
+</synset>
+<synset id="s40666" category="nomen" class="natGegenstand">
+<lexUnit id="l59506" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Glanzkohle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40667" category="nomen" class="natGegenstand">
+<lexUnit id="l59507" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Xylit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40668" category="nomen" class="natGegenstand">
+<lexUnit id="l59508" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Metamorphitgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40669" category="nomen" class="natGegenstand">
+<lexUnit id="l59509" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gneis</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40670" category="nomen" class="natGegenstand">
+<lexUnit id="l59510" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Granulit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40671" category="nomen" class="natGegenstand">
+<lexUnit id="l59511" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Charnockit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40672" category="nomen" class="natGegenstand">
+<lexUnit id="l59512" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Migmatit</orthForm>
+</lexUnit>
+<lexUnit id="l59513" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mischgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40673" category="nomen" class="natGegenstand">
+<lexUnit id="l59514" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Anatexit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40674" category="nomen" class="natGegenstand">
+<lexUnit id="l59515" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40675" category="nomen" class="natGegenstand">
+<lexUnit id="l59516" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Phyllit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40676" category="nomen" class="natGegenstand">
+<lexUnit id="l59517" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Quarzphyllit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40677" category="nomen" class="natGegenstand">
+<lexUnit id="l59518" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Serizitphyllit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40678" category="nomen" class="natGegenstand">
+<lexUnit id="l59519" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Glimmerschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40679" category="nomen" class="natGegenstand">
+<lexUnit id="l59520" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tonschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40680" category="nomen" class="natGegenstand">
+<lexUnit id="l59521" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kontaktschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40681" category="nomen" class="natGegenstand">
+<lexUnit id="l59522" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hornblendeschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40682" category="nomen" class="natGegenstand">
+<lexUnit id="l59523" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Grünschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40683" category="nomen" class="natGegenstand">
+<lexUnit id="l59524" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Talkschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40684" category="nomen" class="natGegenstand">
+<lexUnit id="l59525" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Glaukophanschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40685" category="nomen" class="natGegenstand">
+<lexUnit id="l59526" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Prasinit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40686" category="nomen" class="natGegenstand">
+<lexUnit id="l59527" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Chloritschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40687" category="nomen" class="natGegenstand">
+<lexUnit id="l59528" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Aktinolithschiefer</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40688" category="nomen" class="natGegenstand">
+<lexUnit id="l59529" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Felsgestein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40689" category="nomen" class="natGegenstand">
+<lexUnit id="l59530" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Felsquarzit</orthForm>
+</lexUnit>
+<lexUnit id="l59531" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Metaquarzit</orthForm>
+</lexUnit>
+<lexUnit id="l59532" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Quarzit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40690" category="nomen" class="natGegenstand">
+<lexUnit id="l59533" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalksilikatfels</orthForm>
+</lexUnit>
+<lexUnit id="l59534" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erlanfels</orthForm>
+</lexUnit>
+<lexUnit id="l59535" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Erlan</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40691" category="nomen" class="natGegenstand">
+<lexUnit id="l59536" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Skarn</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40692" category="nomen" class="natGegenstand">
+<lexUnit id="l59537" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Amphibolit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40693" category="nomen" class="natGegenstand">
+<lexUnit id="l59538" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Eklogit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40694" category="nomen" class="natGegenstand">
+<lexUnit id="l59539" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hornfels</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40695" category="nomen" class="natGegenstand">
+<lexUnit id="l59540" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Adinolfels</orthForm>
+</lexUnit>
+<lexUnit id="l59541" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Adinolit</orthForm>
+</lexUnit>
+<lexUnit id="l59542" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Adinol</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40696" category="nomen" class="natGegenstand">
+<lexUnit id="l59543" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Serpentinit</orthForm>
+</lexUnit>
+<lexUnit id="l59544" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Serpentinfels</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40697" category="nomen" class="natGegenstand">
+<lexUnit id="l59545" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Cipollino</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40698" category="nomen" class="natGegenstand">
+<lexUnit id="l59546" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ophiolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40699" category="nomen" class="natGegenstand">
+<lexUnit id="l59547" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Marmor</orthForm>
+</lexUnit>
+<lexUnit id="l59548" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Calcitmarmor</orthForm>
+</lexUnit>
+<lexUnit id="l59549" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalkmarmor</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40700" category="nomen" class="natGegenstand">
+<lexUnit id="l59550" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Carrara-Marmor</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40701" category="nomen" class="natGegenstand">
+<lexUnit id="l59551" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dolomitmarmor</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40702" category="nomen" class="natGegenstand">
+<lexUnit id="l59552" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ophicalcit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40703" category="nomen" class="natGegenstand">
+<lexUnit id="l59553" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Urkalk</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40704" category="nomen" class="natGegenstand">
+<lexUnit id="l59554" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schmuckstein</orthForm>
+</lexUnit>
+<lexUnit id="l59555" sense="4" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40705" category="nomen" class="natGegenstand">
+<lexUnit id="l59556" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Edelstein</orthForm>
+</lexUnit>
+<lexUnit id="l59557" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Juwel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40706" category="nomen" class="natGegenstand">
+<lexUnit id="l59558" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Halbedelstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40707" category="nomen" class="natGegenstand">
+<lexUnit id="l59559" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Diamant</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40708" category="nomen" class="natGegenstand">
+<lexUnit id="l59560" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Brillant</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40710" category="nomen" class="natGegenstand">
+<lexUnit id="l59562" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Saphir</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40711" category="nomen" class="natGegenstand">
+<lexUnit id="l59563" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Smaragd</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40583" category="nomen" class="natGegenstand">
+<lexUnit id="l59407" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kupferschiefer</orthForm>
+</lexUnit>
+<lexUnit id="l59408" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kupfererz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40640" category="nomen" class="natGegenstand">
+<lexUnit id="l59472" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Alm</orthForm>
+</lexUnit>
+<paraphrase>lockere Kalkmasse in Böden</paraphrase>
+</synset>
+<synset id="s40654" category="nomen" class="natGegenstand">
+<lexUnit id="l59489" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kohlegestein</orthForm>
+</lexUnit>
+<lexUnit id="l59490" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kohle</orthForm>
+</lexUnit>
+<paraphrase>festes Sedimentgestein, das vorwiegend durch Bergbau gewonnen wird</paraphrase>
+</synset>
+<synset id="s40709" category="nomen" class="natGegenstand">
+<lexUnit id="l59561" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rubin</orthForm>
+</lexUnit>
+<paraphrase>geschliffener roter Edelstein, ~ , der als Schmuckstein verwendet wird</paraphrase>
+</synset>
+<synset id="s40712" category="nomen" class="natGegenstand">
+<lexUnit id="l59564" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Aquamarin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40713" category="nomen" class="natGegenstand">
+<lexUnit id="l59565" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Edelberyll</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40714" category="nomen" class="natGegenstand">
+<lexUnit id="l59566" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Goldberyll</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40715" category="nomen" class="natGegenstand">
+<lexUnit id="l59567" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Goshenit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40716" category="nomen" class="natGegenstand">
+<lexUnit id="l59568" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Helioder</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40717" category="nomen" class="natGegenstand">
+<lexUnit id="l59569" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Morganit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40718" category="nomen" class="natGegenstand">
+<lexUnit id="l59570" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Katzenauge</orthForm>
+</lexUnit>
+<lexUnit id="l59571" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kymophan</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40719" category="nomen" class="natGegenstand">
+<lexUnit id="l59572" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Alexandrit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40720" category="nomen" class="natGegenstand">
+<lexUnit id="l59573" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pleonast</orthForm>
+</lexUnit>
+<lexUnit id="l59574" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ceylanit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40721" category="nomen" class="natGegenstand">
+<lexUnit id="l59575" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Turmalin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40722" category="nomen" class="natGegenstand">
+<lexUnit id="l59576" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Elbait</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40723" category="nomen" class="natGegenstand">
+<lexUnit id="l59577" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dravit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40724" category="nomen" class="natGegenstand">
+<lexUnit id="l59578" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schörl</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40725" category="nomen" class="natGegenstand">
+<lexUnit id="l59579" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Buergerit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40726" category="nomen" class="natGegenstand">
+<lexUnit id="l59580" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tsilaisit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40727" category="nomen" class="natGegenstand">
+<lexUnit id="l59581" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Uvit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40728" category="nomen" class="natGegenstand">
+<lexUnit id="l59582" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rauchquarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40729" category="nomen" class="natGegenstand">
+<lexUnit id="l59583" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Achroit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40730" category="nomen" class="natGegenstand">
+<lexUnit id="l59584" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Indigolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40731" category="nomen" class="natGegenstand">
+<lexUnit id="l59585" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rubellit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40732" category="nomen" class="natGegenstand">
+<lexUnit id="l59586" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Verdelith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40733" category="nomen" class="natGegenstand">
+<lexUnit id="l59587" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hiddenit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40734" category="nomen" class="natGegenstand">
+<lexUnit id="l59588" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kunzit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40735" category="nomen" class="natGegenstand">
+<lexUnit id="l59589" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rosenquarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40736" category="nomen" class="natGegenstand">
+<lexUnit id="l59590" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Aventurin</orthForm>
+</lexUnit>
+<lexUnit id="l59591" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Aventurinquarz</orthForm>
+</lexUnit>
+<lexUnit id="l59592" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Avanturin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40737" category="nomen" class="natGegenstand">
+<lexUnit id="l59594" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zitrin</orthForm>
+<orthVar>Citrin</orthVar>
+<oldOrthForm>Citrin</oldOrthForm>
+<oldOrthVar>Zitrin</oldOrthVar>
+</lexUnit>
+</synset>
+<synset id="s40738" category="nomen" class="natGegenstand">
+<lexUnit id="l59595" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Prasiolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40739" category="nomen" class="natGegenstand">
+<lexUnit id="l59596" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Prasem</orthForm>
+</lexUnit>
+<lexUnit id="l59597" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Smaragdquarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40740" category="nomen" class="natGegenstand">
+<lexUnit id="l59598" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blauquarz</orthForm>
+</lexUnit>
+<lexUnit id="l59599" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Saphirquarz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40741" category="nomen" class="natGegenstand">
+<lexUnit id="l59600" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Jaspis</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40742" category="nomen" class="natGegenstand">
+<lexUnit id="l59601" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blutjaspis</orthForm>
+</lexUnit>
+<lexUnit id="l59602" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Heliotrop</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40743" category="nomen" class="natGegenstand">
+<lexUnit id="l59603" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Amethyst</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40744" category="nomen" class="natGegenstand">
+<lexUnit id="l59604" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Goldtopas</orthForm>
+</lexUnit>
+<paraphrase>irreführender Handelsname für gelbgebrannten Amethyst</paraphrase>
+</synset>
+<synset id="s40745" category="nomen" class="natGegenstand">
+<lexUnit id="l59605" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Achat</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40746" category="nomen" class="natGegenstand">
+<lexUnit id="l59606" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bandachat</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40747" category="nomen" class="natGegenstand">
+<lexUnit id="l59607" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Dendritenachat</orthForm>
+</lexUnit>
+<lexUnit id="l59608" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Baumstein</orthForm>
+</lexUnit>
+<lexUnit id="l59609" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mokkastein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40748" category="nomen" class="natGegenstand">
+<lexUnit id="l59610" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Enhydros</orthForm>
+</lexUnit>
+<lexUnit id="l59611" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wasserstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40749" category="nomen" class="natGegenstand">
+<lexUnit id="l59612" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Festungsachat</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40750" category="nomen" class="natGegenstand">
+<lexUnit id="l59613" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Röhrenachat</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40751" category="nomen" class="natGegenstand">
+<lexUnit id="l59614" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sardstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40752" category="nomen" class="natGegenstand">
+<lexUnit id="l59615" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trümmerachat</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40753" category="nomen" class="natGegenstand">
+<lexUnit id="l59616" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tigerauge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40754" category="nomen" class="natGegenstand">
+<lexUnit id="l59617" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Falkenauge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40755" category="nomen" class="natGegenstand">
+<lexUnit id="l59618" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Quarzkatzenauge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40756" category="nomen" class="natGegenstand">
+<lexUnit id="l59619" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Topas</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40757" category="nomen" class="natGegenstand">
+<lexUnit id="l59620" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Chalzedon</orthForm>
+<orthVar>Chalcedon</orthVar>
+</lexUnit>
+</synset>
+<synset id="s40758" category="nomen" class="natGegenstand">
+<lexUnit id="l59622" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Onyx</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40759" category="nomen" class="natGegenstand">
+<lexUnit id="l59623" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Karneol</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40760" category="nomen" class="natGegenstand">
+<lexUnit id="l59624" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sarder</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40761" category="nomen" class="natGegenstand">
+<lexUnit id="l59625" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mondstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40762" category="nomen" class="natGegenstand">
+<lexUnit id="l59626" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sonnenstein</orthForm>
+</lexUnit>
+<lexUnit id="l59627" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Aventurin</orthForm>
+</lexUnit>
+<lexUnit id="l59628" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Avanturin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40763" category="nomen" class="natGegenstand">
+<lexUnit id="l59629" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lapislazuli</orthForm>
+</lexUnit>
+<lexUnit id="l59630" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lasurit</orthForm>
+</lexUnit>
+<lexUnit id="l59631" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lasurstein</orthForm>
+</lexUnit>
+<lexUnit id="l59632" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lapis</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40764" category="nomen" class="natGegenstand">
+<lexUnit id="l59633" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Türkis</orthForm>
+</lexUnit>
+<lexUnit id="l59634" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kallait</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40765" category="nomen" class="natGegenstand">
+<lexUnit id="l59635" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zahntürkis</orthForm>
+</lexUnit>
+<lexUnit id="l59636" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Odontolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40766" category="nomen" class="natGegenstand">
+<lexUnit id="l59637" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Chrysopras</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40767" category="nomen" class="natGegenstand">
+<lexUnit id="l59638" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Opal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40768" category="nomen" class="natGegenstand">
+<lexUnit id="l59639" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Feueropal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40769" category="nomen" class="natGegenstand">
+<lexUnit id="l59640" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Holzopal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40770" category="nomen" class="natGegenstand">
+<lexUnit id="l59641" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Edelopal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40771" category="nomen" class="natGegenstand">
+<lexUnit id="l59642" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Weißer Opal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40772" category="nomen" class="natGegenstand">
+<lexUnit id="l59643" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schwarzer Opal</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40773" category="nomen" class="natGegenstand">
+<lexUnit id="l59644" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bernstein</orthForm>
+</lexUnit>
+<lexUnit id="l59645" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Succinit</orthForm>
+</lexUnit>
+<paraphrase>fossiles Harz von Nadelbäumen</paraphrase>
+</synset>
+<synset id="s40774" category="nomen" class="natGegenstand">
+<lexUnit id="l59646" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Jadeit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40776" category="nomen" class="natGegenstand">
+<lexUnit id="l59648" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Rubin</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40777" category="nomen" class="natGegenstand">
+<lexUnit id="l59649" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hyazinth</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40778" category="nomen" class="natGegenstand">
+<lexUnit id="l59650" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Starlit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40779" category="nomen" class="natGegenstand">
+<lexUnit id="l59651" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Jargon</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40780" category="nomen" class="natGegenstand">
+<lexUnit id="l59652" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zirkonia</orthForm>
+</lexUnit>
+<paraphrase>synthetischer Edelstein</paraphrase>
+</synset>
+<synset id="s40781" category="nomen" class="natGegenstand">
+<lexUnit id="l59653" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Jade</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40782" category="nomen" class="natGegenstand">
+<lexUnit id="l59654" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Peridot</orthForm>
+</lexUnit>
+<lexUnit id="l59655" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Chrysolith</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40783" category="nomen" class="natGegenstand">
+<lexUnit id="l59656" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Variscit</orthForm>
+</lexUnit>
+<lexUnit id="l59657" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Utahlit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40784" category="nomen" class="natGegenstand">
+<lexUnit id="l59658" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Koralle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40785" category="nomen" class="natGegenstand">
+<lexUnit id="l59659" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Edelkoralle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40786" category="nomen" class="natGegenstand">
+<lexUnit id="l59660" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Orgelkoralle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40787" category="nomen" class="natGegenstand">
+<lexUnit id="l59661" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Weiße Koralle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40788" category="nomen" class="natGegenstand">
+<lexUnit id="l59662" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Glasstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40789" category="nomen" class="natGegenstand">
+<lexUnit id="l59663" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Perle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40790" category="nomen" class="natGegenstand">
+<lexUnit id="l90949" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Brutrevier</orthForm>
+</lexUnit>
+<lexUnit id="l59664" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Brutstätte</orthForm>
+</lexUnit>
+<lexUnit id="l59665" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Brutgebiet</orthForm>
+</lexUnit>
+<lexUnit id="l59666" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Brutplatz</orthForm>
+</lexUnit>
+<lexUnit id="l59667" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Nest</orthForm>
+</lexUnit>
+<lexUnit id="l59668" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Vogelnest</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40791" category="nomen" class="natGegenstand">
+<lexUnit id="l59669" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wespennest</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40792" category="nomen" class="natGegenstand">
+<lexUnit id="l59670" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Horst</orthForm>
+</lexUnit>
+<lexUnit id="l59671" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Adlerhorst</orthForm>
+</lexUnit>
+</synset>
+<synset id="s40793" category="nomen" class="natGegenstand">
+<lexUnit id="l59672" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spinnwebe</orthForm>
+</lexUnit>
+<lexUnit id="l59673" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Spinnennetz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s61419" category="nomen" class="natGegenstand">
+<lexUnit id="l86232" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalkfels</orthForm>
+</lexUnit>
+<lexUnit id="l97572" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalksteinfels</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62090" category="nomen" class="natGegenstand">
+<lexUnit id="l87129" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Quarzsand</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62459" category="nomen" class="natGegenstand">
+<lexUnit id="l87553" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Tragstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62689" category="nomen" class="natGegenstand">
+<lexUnit id="l87806" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kuckucksnest</orthForm>
+</lexUnit>
+</synset>
+<synset id="s62739" category="nomen" class="natGegenstand">
+<lexUnit id="l87867" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kraterboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63007" category="nomen" class="natGegenstand">
+<lexUnit id="l88163" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Unterboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="s63997" category="nomen" class="natGegenstand">
+<lexUnit id="l89344" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Deckstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64351" category="nomen" class="natGegenstand">
+<lexUnit id="l89763" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gewässergrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64355" category="nomen" class="natGegenstand">
+<lexUnit id="l89767" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Steinchen</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64384" category="nomen" class="natGegenstand">
+<lexUnit id="l89802" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gesteinsformation</orthForm>
+</lexUnit>
+</synset>
+<synset id="s64385" category="nomen" class="natGegenstand">
+<lexUnit id="l89803" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schuttkegel</orthForm>
+</lexUnit>
+<lexUnit id="l89804" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Talus</orthForm>
+</lexUnit>
+<lexUnit id="l89805" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schutthalde</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65543" category="nomen" class="natGegenstand">
+<lexUnit id="l91152" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zeder</orthForm>
+</lexUnit>
+<lexUnit id="l91153" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Zedernholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s65659" category="nomen" class="natGegenstand">
+<lexUnit id="l91302" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Gemme</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66557" category="nomen" class="natGegenstand">
+<lexUnit id="l92341" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Buche</orthForm>
+</lexUnit>
+<lexUnit id="l92342" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Buchenholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66640" category="nomen" class="natGegenstand">
+<lexUnit id="l92432" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Molasse</orthForm>
+</lexUnit>
+</synset>
+<synset id="s66789" category="nomen" class="natGegenstand">
+<lexUnit id="l92599" sense="1" source="core" namedEntity="yes" artificial="no" styleMarking="no">
+<orthForm>Externsteine</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67362" category="nomen" class="natGegenstand">
+<lexUnit id="l93255" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Fischgrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67705" category="nomen" class="natGegenstand">
+<lexUnit id="l93652" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Keuper</orthForm>
+</lexUnit>
+</synset>
+<synset id="s67779" category="nomen" class="natGegenstand">
+<lexUnit id="l93744" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lindenholz</orthForm>
+</lexUnit>
+<lexUnit id="l93746" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Linde</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68058" category="nomen" class="natGegenstand">
+<lexUnit id="l94080" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mauerstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68155" category="nomen" class="natGegenstand">
+<lexUnit id="l94192" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Kalkboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68513" category="nomen" class="natGegenstand">
+<lexUnit id="l94602" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Furnier</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68560" category="nomen" class="natGegenstand">
+<lexUnit id="l94657" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Jagdgrund</orthForm>
+</lexUnit>
+</synset>
+<synset id="s68642" category="nomen" class="natGegenstand">
+<lexUnit id="l94754" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Moorboden</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69339" category="nomen" class="natGegenstand">
+<lexUnit id="l95537" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Wampum</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69495" category="nomen" class="natGegenstand">
+<lexUnit id="l95712" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Blaustein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69693" category="nomen" class="natGegenstand">
+<lexUnit id="l95933" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stalaktit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s69887" category="nomen" class="natGegenstand">
+<lexUnit id="l96146" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Geschiebemergel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70179" category="nomen" class="natGegenstand">
+<lexUnit id="l96486" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Postmeilensäule</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70199" category="nomen" class="natGegenstand">
+<lexUnit id="l96506" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Granitfels</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70278" category="nomen" class="natGegenstand">
+<lexUnit id="l96595" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Treibholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70880" category="nomen" class="natGegenstand">
+<lexUnit id="l97303" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Pflanzenstoff</orthForm>
+</lexUnit>
+</synset>
+<synset id="s70882" category="nomen" class="natGegenstand">
+<lexUnit id="l97305" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trümmerschutt</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71266" category="nomen" class="natGegenstand">
+<lexUnit id="l97749" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Braunerde</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71383" category="nomen" class="natGegenstand">
+<lexUnit id="l97885" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Hauptdolomit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71507" category="nomen" class="natGegenstand">
+<lexUnit id="l98024" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mikrometeorit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71558" category="nomen" class="natGegenstand">
+<lexUnit id="l98092" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Braunstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71725" category="nomen" class="natGegenstand">
+<lexUnit id="l98288" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Edelholz</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71858" category="nomen" class="natGegenstand">
+<lexUnit id="l98442" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schwarzerde</orthForm>
+</lexUnit>
+</synset>
+<synset id="s71950" category="nomen" class="natGegenstand">
+<lexUnit id="l98551" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Bordstein</orthForm>
+</lexUnit>
+<paraphrase>Abgrenzungsstein der verschiedenen Bereiche  einer Straße</paraphrase>
+</synset>
+<synset id="s73228" category="nomen" class="natGegenstand">
+<lexUnit id="l100090" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Droge</orthForm>
+</lexUnit>
+</synset>
+<synset id="s73453" category="nomen" class="natGegenstand">
+<lexUnit id="l100372" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Glasperle</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74201" category="nomen" class="natGegenstand">
+<lexUnit id="l101298" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Schlußstein</orthForm>
+<orthVar>Schlussstein</orthVar>
+</lexUnit>
+</synset>
+<synset id="s74444" category="nomen" class="natGegenstand">
+<lexUnit id="l101590" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Stolperstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74597" category="nomen" class="natGegenstand">
+<lexUnit id="l101774" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Sandsteinfels</orthForm>
+</lexUnit>
+</synset>
+<synset id="s74909" category="nomen" class="natGegenstand">
+<lexUnit id="l102189" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Ammonit</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75029" category="nomen" class="natGegenstand">
+<lexUnit id="l102349" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lehmziegel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75031" category="nomen" class="natGegenstand">
+<lexUnit id="l102351" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Lavastrom</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75249" category="nomen" class="natGegenstand">
+<lexUnit id="l102627" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Mühlstein</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75290" category="nomen" class="natGegenstand">
+<lexUnit id="l102683" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Muschel</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75423" category="nomen" class="natGegenstand">
+<lexUnit id="l102850" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Trapp</orthForm>
+</lexUnit>
+</synset>
+<synset id="s75942" category="nomen" class="natGegenstand">
+<lexUnit id="l103542" sense="1" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Solitär</orthForm>
+</lexUnit>
+</synset>
+<synset id="s76004" category="nomen" class="natGegenstand">
+<lexUnit id="l103611" sense="2" source="core" namedEntity="no" artificial="no" styleMarking="no">
+<orthForm>Untergrund</orthForm>
+</lexUnit>
+</synset>
+</synsets>
